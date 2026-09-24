@@ -126,8 +126,9 @@ body {
 }
 
 .header-logo-img {
-    max-width: 50px;
+    max-width: 80px;
     height: auto;
+    display: block;
 }
 
 .header h1 {
