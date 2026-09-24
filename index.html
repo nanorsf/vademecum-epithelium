@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vademecum Epithelium</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <!-- PANTALLA DE LOGIN -->
+        <div id="loginScreen" class="screen active">
+            <div class="login-container">
+                <h1>Vademecum Epithelium</h1>
+                <p>Ingresa tu código de acceso</p>
+                <input type="password" id="accessCode" placeholder="Código de acceso" maxlength="20">
+                <button onclick="verificarCodigo()">Acceder</button>
+                <p id="errorMsg" class="error"></p>
+            </div>
+        </div>
+
+        <!-- PANTALLA PRINCIPAL -->
+        <div id="mainScreen" class="screen">
+            <div class="header">
+                <h1>Vademecum Epithelium</h1>
+                <button class="logout-btn" onclick="cerrarSesion()">Salir</button>
+            </div>
+
+            <div class="filters">
+                <input type="text" id="searchName" placeholder="Buscar por nombre..." onkeyup="filtrar()">
+                <select id="filterGroup" onchange="filtrar()">
+                    <option value="">Todos los grupos</option>
+                </select>
+                <select id="filterCategory" onchange="filtrar()">
+                    <option value="">Todas las categorías</option>
+                </select>
+                <select id="filterFormula" onchange="filtrar()">
+                    <option value="">Todas las formas</option>
+                </select>
+            </div>
+
+            <div id="resultados" class="resultados"></div>
+        </div>
+
+        <!-- MODAL DETALLE -->
+        <div id="modalDetail" class="modal">
+            <div class="modal-content">
+                <span class="close" onclick="cerrarModal()">&times;</span>
+                <div id="detailContent"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

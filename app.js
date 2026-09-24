@@ -1,0 +1,226 @@
+// CONFIGURACIÓN
+const CODIGOS_VALIDOS = {
+    'EPITHE-001': true,
+    'EPITHE-002': true,
+    'EPITHE-003': true,
+    'DEMO-TEST': true
+};
+
+let productos = [];
+let productosFiltrados = [];
+
+// Inicializar app
+document.addEventListener('DOMContentLoaded', () => {
+    cargarDatos();
+    verificarAcceso();
+});
+
+// CARGAR DATOS
+async function cargarDatos() {
+    try {
+        const response = await fetch('data.json');
+        productos = await response.json();
+        console.log(`✅ ${productos.length} productos cargados`);
+    } catch (error) {
+        console.error('Error cargando datos:', error);
+        productos = [];
+    }
+}
+
+// VERIFICAR ACCESO
+function verificarAcceso() {
+    const codigoGuardado = localStorage.getItem('vademecum_access');
+
+    if (codigoGuardado && CODIGOS_VALIDOS[codigoGuardado]) {
+        mostrarPantalla('mainScreen');
+        inicializarFiltros();
+        cargarTodos();
+    } else {
+        mostrarPantalla('loginScreen');
+        localStorage.removeItem('vademecum_access');
+    }
+}
+
+function verificarCodigo() {
+    const codigo = document.getElementById('accessCode').value.trim().toUpperCase();
+    const errorMsg = document.getElementById('errorMsg');
+
+    if (!codigo) {
+        errorMsg.textContent = 'Ingresa un código';
+        return;
+    }
+
+    if (CODIGOS_VALIDOS[codigo]) {
+        // Registrar acceso en localStorage (para offline)
+        localStorage.setItem('vademecum_access', codigo);
+        localStorage.setItem('vademecum_timestamp', new Date().toISOString());
+
+        errorMsg.textContent = '';
+        mostrarPantalla('mainScreen');
+        inicializarFiltros();
+        cargarTodos();
+    } else {
+        errorMsg.textContent = '❌ Código inválido o expirado';
+        document.getElementById('accessCode').value = '';
+    }
+}
+
+function cerrarSesion() {
+    if (confirm('¿Cerrar sesión?')) {
+        localStorage.removeItem('vademecum_access');
+        localStorage.removeItem('vademecum_timestamp');
+        mostrarPantalla('loginScreen');
+        document.getElementById('accessCode').value = '';
+        document.getElementById('errorMsg').textContent = '';
+    }
+}
+
+// PANTALLAS
+function mostrarPantalla(screenId) {
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    document.getElementById(screenId).classList.add('active');
+}
+
+// INICIALIZAR FILTROS
+function inicializarFiltros() {
+    if (productos.length === 0) return;
+
+    // Obtener valores únicos
+    const grupos = [...new Set(productos.map(p => p['Grupo de Producto']).filter(p => p))];
+    const categorias = [...new Set(productos.map(p => p['Categoría del Producto']).filter(p => p))];
+    const formas = [...new Set(productos.map(p => p['Forma Farmacéutica']).filter(p => p))];
+
+    // Llenar selectores
+    const selectGroup = document.getElementById('filterGroup');
+    const selectCategory = document.getElementById('filterCategory');
+    const selectFormula = document.getElementById('filterFormula');
+
+    grupos.forEach(g => {
+        const option = document.createElement('option');
+        option.value = g;
+        option.textContent = g;
+        selectGroup.appendChild(option);
+    });
+
+    categorias.forEach(c => {
+        const option = document.createElement('option');
+        option.value = c;
+        option.textContent = c;
+        selectCategory.appendChild(option);
+    });
+
+    formas.forEach(f => {
+        const option = document.createElement('option');
+        option.value = f;
+        option.textContent = f;
+        selectFormula.appendChild(option);
+    });
+}
+
+// CARGAR TODOS
+function cargarTodos() {
+    productosFiltrados = [...productos];
+    mostrarResultados();
+}
+
+// FILTRAR
+function filtrar() {
+    const searchName = document.getElementById('searchName').value.toLowerCase();
+    const filterGroup = document.getElementById('filterGroup').value;
+    const filterCategory = document.getElementById('filterCategory').value;
+    const filterFormula = document.getElementById('filterFormula').value;
+
+    productosFiltrados = productos.filter(p => {
+        const matchName = p['Nombre'].toLowerCase().includes(searchName);
+        const matchGroup = !filterGroup || p['Grupo de Producto'] === filterGroup;
+        const matchCategory = !filterCategory || p['Categoría del Producto'] === filterCategory;
+        const matchFormula = !filterFormula || p['Forma Farmacéutica'] === filterFormula;
+
+        return matchName && matchGroup && matchCategory && matchFormula;
+    });
+
+    mostrarResultados();
+}
+
+// MOSTRAR RESULTADOS
+function mostrarResultados() {
+    const container = document.getElementById('resultados');
+    container.innerHTML = '';
+
+    if (productosFiltrados.length === 0) {
+        container.innerHTML = '<div class="no-results">No se encontraron productos</div>';
+        return;
+    }
+
+    productosFiltrados.forEach(p => {
+        const card = document.createElement('div');
+        card.className = 'producto-card';
+        card.onclick = () => mostrarDetalle(p);
+
+        card.innerHTML = `
+            <h3>${p['Nombre']}</h3>
+            <p><strong>Referencia:</strong> ${p['Referencia Interna']}</p>
+            <p><strong>Grupo:</strong> ${p['Grupo de Producto']}</p>
+            <p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>
+            ${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}
+        `;
+
+        container.appendChild(card);
+    });
+}
+
+// MOSTRAR DETALLE
+function mostrarDetalle(producto) {
+    const modal = document.getElementById('modalDetail');
+    const content = document.getElementById('detailContent');
+
+    content.innerHTML = `
+        <h2>${producto['Nombre']}</h2>
+
+        <strong>Referencia Interna</strong>
+        <p>${producto['Referencia Interna']}</p>
+
+        <strong>Clasificación</strong>
+        <p>
+            <strong>Grupo:</strong> ${producto['Grupo de Producto']}<br>
+            <strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>
+            <strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br>
+            <strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}
+        </p>
+
+        <strong>Especificaciones</strong>
+        <p>
+            <strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}<br>
+            ${producto['Componentes'] ? `<strong>Componentes:</strong><br>${producto['Componentes'].replace(/\n/g, '<br>')}` : ''}
+        </p>
+
+        ${producto['Indicación'] ? `
+        <strong>Indicación</strong>
+        <p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>
+        ` : ''}
+
+        ${producto['Dosis Recomendada'] ? `
+        <strong>Dosis Recomendada</strong>
+        <p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>
+        ` : ''}
+
+        <strong>Categorías</strong>
+        <p>
+            <span class="producto-label">${producto['Etiquetas de producto']}</span>
+        </p>
+    `;
+
+    modal.classList.add('active');
+}
+
+function cerrarModal() {
+    document.getElementById('modalDetail').classList.remove('active');
+}
+
+// Cerrar modal al hacer click afuera
+window.onclick = function(event) {
+    const modal = document.getElementById('modalDetail');
+    if (event.target === modal) {
+        modal.classList.remove('active');
+    }
+}
