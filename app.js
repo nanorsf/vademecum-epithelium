@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // CARGAR DATOS
 async function cargarDatos() {
     try {
-        const response = await fetch('data.json');
+       const response = await fetch('https://raw.githubusercontent.com/nanorsf/vademecum-epithelium/main/data.json');
         productos = await response.json();
         console.log(`✅ ${productos.length} productos cargados`);
     } catch (error) {
