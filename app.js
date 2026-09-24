@@ -3,7 +3,7 @@ const CODIGOS_VALIDOS = {
     'EPITHE-001': true,
     'EPITHE-002': true,
     'EPITHE-003': true,
-    'Nano': true
+    'NANO': true
 };
 
 let productos = [];
