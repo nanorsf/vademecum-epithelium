@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // CARGAR DATOS
 async function cargarDatos() {
     try {
-       const response = await fetch('https://raw.githubusercontent.com/nanorsf/vademecum-epithelium/main/data.json');
+        const response = await fetch('https://raw.githubusercontent.com/nanorsf/vademecum-epithelium/main/data.json');
         productos = await response.json();
         console.log(`✅ ${productos.length} productos cargados`);
     } catch (error) {
@@ -86,21 +86,12 @@ function inicializarFiltros() {
     if (productos.length === 0) return;
 
     // Obtener valores únicos
-    const grupos = [...new Set(productos.map(p => p['Grupo de Producto']).filter(p => p))];
     const categorias = [...new Set(productos.map(p => p['Categoría del Producto']).filter(p => p))];
     const formas = [...new Set(productos.map(p => p['Forma Farmacéutica']).filter(p => p))];
 
     // Llenar selectores
-    const selectGroup = document.getElementById('filterGroup');
     const selectCategory = document.getElementById('filterCategory');
     const selectFormula = document.getElementById('filterFormula');
-
-    grupos.forEach(g => {
-        const option = document.createElement('option');
-        option.value = g;
-        option.textContent = g;
-        selectGroup.appendChild(option);
-    });
 
     categorias.forEach(c => {
         const option = document.createElement('option');
@@ -126,17 +117,18 @@ function cargarTodos() {
 // FILTRAR
 function filtrar() {
     const searchName = document.getElementById('searchName').value.toLowerCase();
-    const filterGroup = document.getElementById('filterGroup').value;
+    const searchComponents = document.getElementById('searchComponents').value.toLowerCase();
     const filterCategory = document.getElementById('filterCategory').value;
     const filterFormula = document.getElementById('filterFormula').value;
 
     productosFiltrados = productos.filter(p => {
         const matchName = p['Nombre'].toLowerCase().includes(searchName);
-        const matchGroup = !filterGroup || p['Grupo de Producto'] === filterGroup;
+        const matchComponents = !searchComponents ||
+            (p['Componentes'] && p['Componentes'].toLowerCase().includes(searchComponents));
         const matchCategory = !filterCategory || p['Categoría del Producto'] === filterCategory;
         const matchFormula = !filterFormula || p['Forma Farmacéutica'] === filterFormula;
 
-        return matchName && matchGroup && matchCategory && matchFormula;
+        return matchName && matchComponents && matchCategory && matchFormula;
     });
 
     mostrarResultados();
@@ -160,7 +152,7 @@ function mostrarResultados() {
         card.innerHTML = `
             <h3>${p['Nombre']}</h3>
             <p><strong>Referencia:</strong> ${p['Referencia Interna']}</p>
-            <p><strong>Grupo:</strong> ${p['Grupo de Producto']}</p>
+            <p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>
             <p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>
             ${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}
         `;
@@ -182,7 +174,6 @@ function mostrarDetalle(producto) {
 
         <strong>Clasificación</strong>
         <p>
-            <strong>Grupo:</strong> ${producto['Grupo de Producto']}<br>
             <strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>
             <strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br>
             <strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}
