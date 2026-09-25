@@ -20,6 +20,9 @@ async function cargarDatos() {
     try {
         const response = await fetch('https://raw.githubusercontent.com/nanorsf/vademecum-epithelium/main/data.json');
         productos = await response.json();
+        productos.forEach(p => {
+            p['Categoría del Producto'] = (p['Categoría del Producto'] || '').replace(/^Magistral de Pedido\s*\/\s*/, '');
+        });
         console.log(`✅ ${productos.length} productos cargados`);
     } catch (error) {
         console.error('Error cargando datos:', error);
@@ -128,7 +131,7 @@ function mostrarResultados() {
         const card = document.createElement('div');
         card.className = 'producto-card';
         card.onclick = () => mostrarDetalle(p);
-        card.innerHTML = `<h3>${p['Nombre']}</h3><p><strong>Referencia:</strong> ${p['Referencia Interna']}</p><p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
+        card.innerHTML = `<h3>${p['Nombre']}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p><p><strong>Referencia:</strong> ${p['Referencia Interna']}</p><p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
         container.appendChild(card);
     });
 }
@@ -136,7 +139,7 @@ function mostrarResultados() {
 function mostrarDetalle(producto) {
     const modal = document.getElementById('modalDetail');
     const content = document.getElementById('detailContent');
-    content.innerHTML = `<h2>${producto['Nombre']}</h2><strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p><strong>Clasificación</strong><p><strong>Categoría:</strong> ${producto['Categoría del Producto']}<br><strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}</p><strong>Especificaciones</strong><p><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}<br>${producto['Componentes'] ? `<strong>Componentes:</strong><br>${producto['Componentes'].replace(/\n/g, '<br>')}` : ''}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Categorías</strong><p><span class="producto-label">${producto['Etiquetas de producto']}</span></p>`;
+    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p><strong>Categoría:</strong> ${producto['Categoría del Producto']}<br><strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto['Etiquetas de producto']}</span></p>` : ''}`;
     modal.classList.add('active');
 }
 
