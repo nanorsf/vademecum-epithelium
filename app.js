@@ -10,8 +10,8 @@ let productos = [];
 let productosFiltrados = [];
 
 // Inicializar app
-document.addEventListener('DOMContentLoaded', () => {
-    cargarDatos();
+document.addEventListener('DOMContentLoaded', async () => {
+    await cargarDatos();
     verificarAcceso();
 });
 
@@ -81,6 +81,8 @@ function inicializarFiltros() {
     const formas = [...new Set(productos.map(p => p['Forma Farmacéutica']).filter(p => p))];
     const selectCategory = document.getElementById('filterCategory');
     const selectFormula = document.getElementById('filterFormula');
+    selectCategory.length = 1;
+    selectFormula.length = 1;
     categorias.forEach(c => {
         const option = document.createElement('option');
         option.value = c;
