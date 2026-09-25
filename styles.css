@@ -110,29 +110,57 @@ body {
 }
 
 .header {
-    background: linear-gradient(135deg, #00A651 0%, #008539 100%);
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
     color: white;
-    padding: 15px 20px;
+    padding: 14px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    gap: 12px;
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='120' viewBox='0 0 220 120'%3E%3Cg fill='none' stroke='white' stroke-opacity='0.22' stroke-width='1.4' stroke-linejoin='round'%3E%3Cpath d='M40 18l17 10v20l-17 10-17-10V28z'/%3E%3Cpath d='M40 25l11 6.5v13L40 51l-11-6.5v-13z' stroke-dasharray='3 3'/%3E%3Cpath d='M57 28l16-9M40 58v14M73 19l14 8'/%3E%3Ccircle cx='87' cy='27' r='3.5'/%3E%3Ccircle cx='40' cy='75' r='3'/%3E%3Cpath d='M150 14h14M153 14v22l-14 26a4 4 0 0 0 3.5 6h29a4 4 0 0 0 3.5-6l-14-26V14'/%3E%3Cpath d='M145 52h32'/%3E%3Cpath d='M112 78h8M114 78v18a2 2 0 0 0 4 0V78M113 72h6v6h-6z'/%3E%3Cpath d='M116 104c-3 4-3 7 0 7s3-3 0-7z'/%3E%3Cpath d='M190 90c-5 7-5 12 0 12s5-5 0-12z'/%3E%3Cpath d='M14 100c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Ccircle cx='70' cy='100' r='5'/%3E%3Ccircle cx='88' cy='92' r='3'/%3E%3Cpath d='M75 98l9-4'/%3E%3C/g%3E%3C/svg%3E") repeat,
+        radial-gradient(circle at 85% 20%, rgba(141, 191, 38, 0.55) 0%, transparent 45%),
+        radial-gradient(circle at 10% 110%, rgba(0, 94, 70, 0.6) 0%, transparent 50%),
+        linear-gradient(120deg, #006b4f 0%, #009460 50%, #3fa83a 100%);
+    background-size: 170px 93px, auto, auto, auto;
+    background-position: 30px 6px, 0 0, 0 0, 0 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+}
+
+.header::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(0, 80, 58, 0.55) 0%, transparent 60%);
+    pointer-events: none;
+}
+
+.header > * {
+    position: relative;
 }
 
 .header-logo {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 14px;
+    min-width: 0;
 }
 
 .header-logo-img {
-    max-width: 80px;
-    height: auto;
+    height: 44px;
+    width: auto;
     display: block;
 }
 
 .header h1 {
-    font-size: 24px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+    padding-left: 14px;
+    border-left: 1px solid rgba(255,255,255,0.6);
+    white-space: nowrap;
 }
 
 .logout-btn {
@@ -300,12 +328,25 @@ body {
 
 /* RESPONSIVE */
 @media (max-width: 600px) {
+    .header {
+        padding: 12px 14px;
+    }
+
+    .header-logo {
+        gap: 10px;
+    }
+
     .header h1 {
-        font-size: 20px;
+        font-size: 15px;
+        padding-left: 10px;
     }
 
     .header-logo-img {
-        max-width: 40px;
+        height: 32px;
+    }
+
+    .logout-btn {
+        padding: 6px 12px;
     }
 
     .producto-card h3 {
