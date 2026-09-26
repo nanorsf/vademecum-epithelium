@@ -288,6 +288,14 @@ function mostrarListaClientes() {
     });
 }
 
+// Deja en blanco la búsqueda y los filtros de un catálogo
+function limpiarFiltros(k) {
+    const ids = CATALOGOS[k].ids;
+    ['nombre', 'componentes', 'categoria', 'forma'].forEach(campo => {
+        document.getElementById(ids[campo]).value = '';
+    });
+}
+
 async function abrirPortafolioDeCliente(huella, nombre) {
     const datos = await descargarJSON(`portafolios/${huella}.json`, d => d && Array.isArray(d.productos));
     if (!datos) {
@@ -298,6 +306,7 @@ async function abrirPortafolioDeCliente(huella, nombre) {
     portafolioPropio = datos.productos;
     armarPortafolio();
     inicializarFiltros('port');
+    limpiarFiltros('port');
     CATALOGOS.port.soloNuevos = false;
     document.getElementById('pfBtnNuevo').classList.remove('active');
     document.getElementById('portScreen').classList.remove('modo-nuevo');
