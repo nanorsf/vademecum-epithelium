@@ -158,8 +158,9 @@ function armarPortafolio() {
     const nuevosEpithelium = productos
         .filter(p => p['Etiquetas de producto'] === 'Nuevo' && !propios.has(nombre(p)))
         .map(p => ({ ...p, nuevoEpithelium: true }));
-    portafolio = [...portafolioPropio, ...nuevosEpithelium]
-        .sort((a, b) => a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' }));
+    // Primero los productos propios del cliente y al final los nuevos de Epithelium, cada grupo en orden alfabético
+    const porNombre = (a, b) => a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' });
+    portafolio = [...[...portafolioPropio].sort(porNombre), ...nuevosEpithelium.sort(porNombre)];
 }
 
 function entrarApp() {
