@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0330",
    "Nombre": "Age Eraser Emulsion x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Hialuronico 0.25% + Alantoina 0.2% + Aloe Vera 0.3% + Glicerina 3.5% + Silicona 5% + Vitamina E 2%",
    "Indicación": "Emulsión hidratante para piel seca.\n\nXerosis, piel deshidratada y pieles con barrera cutánea debilitada. El ácido hialurónico y la glicerina actúan como humectantes reteniendo agua en la epidermis; la silicona aporta oclusividad ligera y tacto sedoso; la alantoína y el aloe vera calman y favorecen la reparación de la barrera cutánea; la vitamina E complementa con acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0209",
    "Nombre": "Clenance Protector Piel Grasa x 220 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "220",
@@ -26,13 +27,13 @@
    "Componentes": "Acido Salicilico 1% + Base Syndet + PH 5",
    "Indicación": "Limpiador facial y corporal para piel con tendencia acneica.\n\nHigiene diaria de piel grasa o con tendencia acneica, sin agredir el manto ácido cutáneo. La base Syndet, ajustada a pH 5, limpia respetando el pH fisiológico de la piel; el ácido salicílico aporta acción queratolítica leve, ayudando a mantener el poro desobstruido.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o zonas seborreicas\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nPuede causar sensación de tirantez leve al inicio. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Limpiadores Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0821",
    "Nombre": "Crema Hidratante Dermabody x 250 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "250",
@@ -40,13 +41,13 @@
    "Componentes": "Acido Hialuronico 0.4% + Alantoina 0.2% + Glicerina 1% + Lanolina 0.6% + Mantequilla de Karite 0.3% + Urea 5% + Vitamina E 1%",
    "Indicación": "Crema hidratante y queratolítica suave para rostro y cuerpo.\n\nXerosis, piel seca con descamación, queratosis pilar y zonas de hiperqueratosis (codos, rodillas, talones). La urea al 5% actúa a la vez como humectante y queratolítico suave; el ácido hialurónico y la glicerina retienen agua en la epidermis; lanolina y mantequilla de karité forman una película emoliente que restaura los lípidos de barrera; la alantoína calma y favorece la reparación cutánea; la vitamina E aporta acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nLa urea puede producir ardor o escozor transitorio sobre piel fisurada, erosionada o con dermatitis activa. La lanolina es una causa conocida de dermatitis alérgica de contacto en pacientes sensibilizados. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Nuevo"
   },
   {
    "Referencia Interna": "MP0336",
    "Nombre": "Exfoliac K Locion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "30",
@@ -54,13 +55,13 @@
    "Componentes": "Acetato de Zinc 1.2% + Acido Salicilico 3% + Eritromicina 4%",
    "Indicación": "Loción antibacteriana y queratolítica para acné.\n\nAcné vulgar inflamatorio y comedoniano, moderado, con hiperqueratinización folicular marcada. La eritromicina al 4% actúa como antibiótico frente a Cutibacterium acnes; el ácido salicílico al 3% aporta una acción queratolítica y comedolítica más intensa; el acetato de zinc potencia la penetración de la eritromicina y aporta acción seborreguladora y antiinflamatoria.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez al día; puede aumentarse a 2 veces al día según tolerancia\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nPor la mayor concentración de ácido salicílico, es esperable sequedad, eritema y descamación más marcados al inicio del tratamiento. El uso prolongado de eritromicina tópica en monoterapia favorece la resistencia bacteriana; se recomienda alternar o combinar con peróxido de benzoilo según criterio médico. Evitar exposición solar sin protección adecuada. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0567",
    "Nombre": "Eyesderm Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "15",
@@ -68,13 +69,13 @@
    "Componentes": "Aceite de Coco 0.3% + Acido Hialuronico 0.5% + Argireline 3% + Colageno 1.5% + K-viar 2% + Mantequilla de Karite 0.25% + Matrixyl 1.5% + Vitamina E 0.5%",
    "Indicación": "Crema antienvejecimiento con péptidos y efecto tensor.\n\nFotoenvejecimiento, arrugas de expresión, pérdida de firmeza y densidad cutánea. El argireline actúa como péptido de acción miorrelajante tópica, atenuando las arrugas de expresión; K-viar y Matrixyl estimulan la síntesis de matriz dérmica y mejoran firmeza y elasticidad; el colágeno y el ácido hialurónico hidratan y mejoran la turgencia; mantequilla de karité y aceite de coco restauran los lípidos de barrera; la vitamina E aporta acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro, con énfasis en las zonas de arrugas de expresión\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles sobre arrugas de expresión a partir de 4-8 semanas; uso continuo\nSe recomienda fotoprotección FPS 30-50 durante el día.\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad a alguno de los complejos peptídicos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Estrategico"
   },
   {
    "Referencia Interna": "MP0122",
    "Nombre": "Hydramat Piel Mixta o Grasa Emulsion x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -82,13 +83,13 @@
    "Componentes": "Acido Hialuronico 1.5% + Ascorbil Fosfato Sódico 5% + Urea 5% + Vitamina A Palmitato 0.5% + Vitamina E 1%",
    "Indicación": "Emulsión antienvejecimiento y queratolítica suave.\n\nFotoenvejecimiento, piel apagada, textura irregular y xerosis leve. El ascorbil fosfato de sodio aporta acción antioxidante y estímulo de la síntesis de colágeno; la urea actúa como humectante y queratolítico suave; el ácido hialurónico hidrata en profundidad; el palmitato de vitamina A estimula la renovación celular de forma más suave que el ácido retinoico; la vitamina E complementa la protección antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 1-2 aplicaciones de bomba)\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; uso continuo\nSe recomienda fotoprotección FPS 30-50 durante el día.\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0180",
    "Nombre": "Melany Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -96,13 +97,13 @@
    "Componentes": "Desonida 0.1% + Hidroquinona 4% + Acido Retinoico 0.025",
    "Indicación": "Crema/gel despigmentante para melasma (fórmula media).\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. Corresponde al escalón intermedio de una fórmula despigmentante de tipo Kligman: la hidroquinona inhibe la tirosinasa; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; la desonida controla la irritación asociada a la combinación con una potencia intermedia entre la versión suave (hidrocortisona) y la fuerte (clobetasol) de esta misma familia de fórmulas.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Por el contenido de desonida, evitar el uso continuo prolongado sin supervisión. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0281",
    "Nombre": "Protector Solar Sunderma Emulsion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Protectores Solares",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Tubo Colapsible",
    "Tamaño": "120",
@@ -110,13 +111,13 @@
    "Componentes": "Extracto de Te Verde + Octilmetoxicinamato + Tinosorb M + Tinosorb S + Uvinul A Plus Granular + Uvinul MC 80 + Uvinul T150",
    "Indicación": "Emulsión fotoprotectora SPF 50+.\n\nFotoprotección (Protección Solar) de amplio espectro UVA/UVB en población general. Indicada en la prevención de quemadura solar, fotoenvejecimiento y cáncer cutáneo. Combina filtros orgánicos fotoestables de amplio espectro (Tinosorb M, Tinosorb S, Uvinul) que cubren de forma estable el rango UVA largo; el extracto de té verde aporta acción antioxidante complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, 15-30 minutos antes de la exposición solar\nCANTIDAD: cantidad generosa y uniforme; como referencia, 2 mg/cm² (aprox. 1/4 de cucharadita para el rostro)\nFRECUENCIA: reaplicar cada 2 horas de exposición, y después de nadar, sudar o secarse con toalla\nDuración estimada del tratamiento: uso diario continuo, incluso en días nublados\nNo olvidar orejas, cuello, escote y dorso de manos.\n\nPRECAUCIONES\nNo se especificaron los porcentajes de los filtros en la fórmula. Puede causar reacción de hipersensibilidad a alguno de los filtros orgánicos; suspender ante eritema o prurito persistente. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Protectores Solares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0275",
    "Nombre": "Roselac Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -124,13 +125,13 @@
    "Componentes": "Alantoina 0.2% + Metronidazol 0.75% + Tinocare 1%",
    "Indicación": "Gel para rosácea.\n\nRosácea papulopustulosa y dermatitis perioral. El metronidazol reduce las pápulas y pústulas inflamatorias de la rosácea por su acción antiinflamatoria e inmunomoduladora, y por su actividad frente a Demodex folliculorum; la alantoína y el Tinocare calman y refuerzan la barrera cutánea, habitualmente comprometida en la piel rosaceica.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 semanas; el tratamiento de mantenimiento suele prolongarse varios meses\nEvitar los desencadenantes conocidos de la rosácea: sol, calor, alcohol, comidas picantes y cambios bruscos de temperatura.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEl metronidazol tópico es bien tolerado; puede causar sequedad, ardor o prurito leve al inicio. Evitar contacto con ojos y mucosas. La rosácea es una enfermedad crónica: la suspensión del tratamiento suele asociarse a recaída.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Estrategico"
   },
   {
    "Referencia Interna": "MP0801",
    "Nombre": "Sunkids Protector Solar x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Protectores Solares",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Tubo Colapsible",
    "Tamaño": "60",
@@ -138,13 +139,13 @@
    "Componentes": "Extracto de Te Verde + Octilmetoxicinamato + Tinosorb M + Tinosorb S + Uvinul A Plus Granular + Uvinul MC 80 + Uvinul T150",
    "Indicación": "Emulsión fotoprotectora SPF 50+ para niños.\n\nFotoprotección (Protección Solar) de amplio espectro UVA/UVB en población infantil. Indicada en la prevención de quemadura solar, fotoenvejecimiento y cáncer cutáneo. Combina filtros orgánicos fotoestables de amplio espectro (Tinosorb M, Tinosorb S, Uvinul) que cubren de forma estable el rango UVA largo; el extracto de té verde aporta acción antioxidante complementaria. Formulado para piel infantil, sin fragancia añadida y con menor probabilidad de irritación, pero requiere igualmente supervisión de un adulto para su aplicación correcta.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, 15-30 minutos antes de la exposición solar\nCANTIDAD: cantidad generosa y uniforme; como referencia, 2 mg/cm² (aprox. 1/4 de cucharadita para el rostro)\nFRECUENCIA: reaplicar cada 2 horas de exposición, y después de nadar, sudar o secarse con toalla\nDuración estimada del tratamiento: uso diario continuo, incluso en días nublados\nNo olvidar orejas, cuello, escote y dorso de manos.\nEn menores de 6 meses, priorizar medidas físicas (sombra, ropa) sobre el uso de protector solar químico, según recomendación pediátrica estándar.\n\nPRECAUCIONES\nNo se especificaron los porcentajes de los filtros en la fórmula. Puede causar reacción de hipersensibilidad a alguno de los filtros orgánicos; suspender ante eritema o prurito persistente. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Protectores Solares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0207",
    "Nombre": "Syndet Microgranulos x 220 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "220",
@@ -152,13 +153,13 @@
    "Componentes": "Gránulos Exfoliantes 15% - Ph 5 + Base Syndet",
    "Indicación": "Limpiador exfoliante con gránulos.\n\nPiel con textura irregular, poros congestionados y opacidad, en piel no sensible. Los gránulos exfoliantes ejercen una exfoliación física suave que remueve células muertas de la superficie cutánea; la base Syndet, ajustada a pH 5, limpia respetando el pH fisiológico de la piel.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o cuerpo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando en movimientos circulares suaves\nFRECUENCIA: 2-3 veces por semana\nDuración estimada del tratamiento: uso continuo como exfoliante de mantenimiento\nEnjuagar con abundante agua tibia.\nNo usar sobre piel con acné inflamatorio activo, heridas o rosácea en brote.\n\nPRECAUCIONES\nLa exfoliación física puede ser irritante en piel sensible o reactiva; suspender si aparece eritema persistente. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Limpiadores Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0941",
    "Nombre": "Xerolass Syndet x 1000 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "1000",
@@ -166,8 +167,7 @@
    "Componentes": "Acido Lactico 0.5% + Celulas Madres 0.25% + Extracto de Calendula 1% + Extracto de Centella Asiatica 1% + Glucam E-20 1%",
    "Indicación": "Limpiador corporal calmante para piel sensible.\n\nHigiene diaria de piel sensible, seca o con dermatitis leve. El ácido láctico aporta suave acción exfoliante y compatibilidad con el pH cutáneo; las células madre vegetales y el Glucam E-20 aportan acción regeneradora y humectante; los extractos de caléndula y centella asiática calman la piel y favorecen la reparación de la barrera cutánea.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en cuerpo y/o rostro\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día, en el baño\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nFórmula de perfil suave, apta para piel sensible. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Limpiadores Magistrales"
+   "Etiquetas de producto": "Nuevo"
   }
  ]
 }

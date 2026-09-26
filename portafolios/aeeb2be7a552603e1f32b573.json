@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0596",
    "Nombre": "AZ Derm Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Glicolico 10% + Acido Hialuronico 0.5% + Alantoina 0.2% + Hidrocortisona 0.5% + Hidroquinona 2%",
    "Indicación": "Gel despigmentante suave.\n\nMelasma leve, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa; el ácido glicólico exfolia y potencia la penetración; la hidrocortisona controla la irritación asociada a la combinación; el ácido hialurónico y la alantoína hidratan y calman la piel.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción\n\nPRECAUCIONES\nEs esperable eritema y descamación leve al inicio del tratamiento por el ácido glicólico. Por el contenido de hidrocortisona, evitar el uso continuo prolongado sin supervisión. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0901",
    "Nombre": "Cicarpro Emulsion x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -26,13 +27,13 @@
    "Componentes": "Aloe Vera 0.3% + Calamina 3% + Irgasan (Triclosan) 0.6% + Oxido de Zinc 5% + Vitamina E 5%",
    "Indicación": "Emulsión reparadora/protectora de barrera cutánea (Cicatrizante).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis irritativa, prurito y piel con barrera cutánea comprometida (picaduras de insecto, irritación leve, dermatitis del pañal). El aloe vera calma e hidrata la piel; la calamina calma el prurito y aporta acción astringente suave; el óxido de zinc protege físicamente la piel y ejerce acción astringente; la vitamina E aporta acción antioxidante; el irgasán complementa como antiséptico de amplio espectro.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina a moderada cubriendo la zona afectada\nFRECUENCIA: 2-3 veces al día\nDuración estimada del tratamiento: uso mientras persista la irritación o el prurito; reevaluar en 7-10 días\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. No aplicar sobre heridas infectadas o exudativas sin evaluación médica previa. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0905",
    "Nombre": "Da Clin Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "30",
@@ -40,13 +41,13 @@
    "Componentes": "Clindamicina 1% + Extracto de Hamamelis 1%",
    "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 1% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. El extracto de hamamelis aporta acción astringente y antiinflamatoria complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0141",
    "Nombre": "Emulsion Hidratante x 240 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "240",
@@ -54,13 +55,13 @@
    "Componentes": "Urea 10% + Vitamina E 2%",
    "Indicación": "Emulsión hidratante y queratolítica suave con antioxidante.\n\nXerosis, piel seca con descamación leve y queratosis pilar. La urea actúa a la vez como humectante y queratolítico suave; la vitamina E aporta acción antioxidante y emoliente.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nPuede producir ardor o escozor transitorio sobre piel fisurada o con dermatitis activa. Evitar contacto con ojos y mucosas.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0144",
    "Nombre": "Emulsión Restauradora Emulsion x 240 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "240",
@@ -68,13 +69,13 @@
    "Componentes": "Dimeticona 3% + Lanolina 0.5% + Simeticona 3%",
    "Indicación": "Emulsión protectora de barrera cutánea.\n\nProtección de la piel frente a la humedad y la fricción, en dermatitis del pañal, intertrigo y zonas de piel expuestas a maceración. La dimeticona y la silicona forman una película protectora no oclusiva que repele la humedad; la lanolina aporta emoliencia complementaria.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona a proteger\nFRECUENCIA: en cada cambio de pañal o 2-3 veces al día\nDuración estimada del tratamiento: uso continuo como protección de mantenimiento\n\nPRECAUCIONES\nLa lanolina es una causa conocida de dermatitis alérgica de contacto en pacientes sensibilizados. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0247",
    "Nombre": "Foliderm Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -82,13 +83,13 @@
    "Componentes": "Acido Retinoico 0.025% + D-Pantenol 1% + Desonida 0.05% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética con componente inflamatorio.\n\nAlopecia androgenética con dermatitis seborreica leve del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; la desonida, corticoide de baja potencia, controla la inflamación con buen perfil de seguridad para uso crónico; el ácido retinoico potencia la penetración del minoxidil; el D-pantenol acondiciona y repara la barrera del cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental. La desonida, aunque de baja potencia, en uso continuo prolongado puede causar atrofia cutánea; se recomienda reevaluación periódica. Es esperable irritación o descamación leve del cuero cabelludo por el ácido retinoico. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP1062",
    "Nombre": "Foliderm Shampoo x 240 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Shampoo",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "240",
@@ -96,13 +97,13 @@
    "Componentes": "Biotina 1% + D-Pantenol 0.5% + Minoxidil 1% + Octopirox 1%",
    "Indicación": "Shampoo anticaída con minoxidil.\n\nAlopecia androgenética y caída capilar difusa, en formato de shampoo de contacto corto. El minoxidil, en baja concentración adaptada al breve tiempo de contacto del shampoo, estimula el crecimiento folicular; la biotina es cofactor esencial en la síntesis de queratina; el octopirox (piroctone olamine) controla la colonización por Malassezia; el D-pantenol acondiciona el cabello.",
    "Dosis Recomendada": "APLICACIÓN: sobre cuero cabelludo húmedo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando el cuero cabelludo\nFRECUENCIA: 3-4 veces por semana\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas de uso continuo; complementa pero no reemplaza una loción de minoxidil de uso diario\nDejar actuar 3-5 minutos antes de enjuagar para mejorar la eficacia del minoxidil.\n\nPRECAUCIONES\nEl minoxidil en shampoo tiene menor tiempo de contacto que una loción de uso diario, por lo que su efecto es complementario. Evitar contacto con los ojos. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0050",
    "Nombre": "Foliderm Shampoo x 240 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Shampoo Magistrales",
    "Forma Farmacéutica": "Shampoo",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "240",
@@ -110,13 +111,13 @@
    "Componentes": "Biotina 0.5% + D-Pantenol 0.5% + Minoxidil 1% + Octopirox 1%",
    "Indicación": "Shampoo anticaída con minoxidil.\n\nAlopecia androgenética y caída capilar difusa, en formato de shampoo de contacto corto. El minoxidil, en baja concentración adaptada al breve tiempo de contacto del shampoo, estimula el crecimiento folicular; la biotina es cofactor esencial en la síntesis de queratina; el octopirox (piroctone olamine) controla la colonización por Malassezia; el D-pantenol acondiciona el cabello.",
    "Dosis Recomendada": "APLICACIÓN: sobre cuero cabelludo húmedo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando el cuero cabelludo\nFRECUENCIA: 3-4 veces por semana\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas de uso continuo; complementa pero no reemplaza una loción de minoxidil de uso diario\nDejar actuar 3-5 minutos antes de enjuagar para mejorar la eficacia del minoxidil.\n\nPRECAUCIONES\nEl minoxidil en shampoo tiene menor tiempo de contacto que una loción de uso diario, por lo que su efecto es complementario. Evitar contacto con los ojos. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Shampoo Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0224",
    "Nombre": "Gel Avanzado x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -124,13 +125,13 @@
    "Componentes": "Adapalene 0.1% + Hydrasensyl Glucan Green/Tinocare GL 0.5%",
    "Indicación": "Gel para acné con soporte calmante.\n\nAcné vulgar comedoniano e inflamatorio, leve a moderado, en pieles sensibles al tratamiento retinoide. El adapaleno normaliza la queratinización folicular, previniendo comedones; el Hydrasensyl Glucan Green/Tinocare GL calma y refuerza la barrera cutánea, compensando la sequedad e irritación esperables del retinoide.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; reevaluar antes de continuar\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0596",
    "Nombre": "Gel de Azucena x 30 g Envase Personalizado",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -138,13 +139,13 @@
    "Componentes": "Acido Glicolico 10% + Acido Hialuronico 0.5% + Alantoina 0.2% + Hidrocortisona 0.5% + Hidroquinona 2%",
    "Indicación": "Gel despigmentante suave.\n\nMelasma leve, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa; el ácido glicólico exfolia y potencia la penetración; la hidrocortisona controla la irritación asociada a la combinación; el ácido hialurónico y la alantoína hidratan y calman la piel.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción\n\nPRECAUCIONES\nEs esperable eritema y descamación leve al inicio del tratamiento por el ácido glicólico. Por el contenido de hidrocortisona, evitar el uso continuo prolongado sin supervisión. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0614",
    "Nombre": "Kiroxine Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -152,13 +153,13 @@
    "Componentes": "Desonida 0.1% + Ketoconazol 2%",
    "Indicación": "Crema antiinflamatoria y antimicótica.\n\nDermatitis seborreica y dermatosis con componente inflamatorio y fúngico mixto. La desonida controla la inflamación; el ketoconazol controla la colonización por Malassezia.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas para el brote agudo; reevaluar antes de continuar\n\nPRECAUCIONES\nAunque la desonida es de baja potencia, el uso continuo prolongado puede causar atrofia cutánea; evitar tratamientos continuos sin supervisión.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0206",
    "Nombre": "Limpiadora Syndet x 220 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "220",
@@ -166,13 +167,13 @@
    "Componentes": "Acido Láctico 0.4% + Base Syndet",
    "Indicación": "Limpiador facial y corporal sin jabón.\n\nHigiene diaria de piel sensible, seca o con tendencia a la dermatitis, donde los jabones convencionales resultan agresivos por su pH alcalino. La base Syndet (detergente sintético) limpia respetando el pH fisiológico de la piel y el manto ácido cutáneo; el ácido láctico refuerza esa compatibilidad con el pH natural de la piel.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o cuerpo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nFórmula de perfil muy seguro, apta para piel sensible y atópica. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Limpiadores Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP1057",
    "Nombre": "Milotop Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "30",
@@ -180,13 +181,13 @@
    "Componentes": "Aloe Vera 0,3% + Clindamicina 1% + Extracto de Hamamelis 1%",
    "Indicación": "Gel para acné con acción antibacteriana y calmante.\n\nAcné vulgar inflamatorio leve a moderado. La clindamicina actúa como antibiótico frente a Cutibacterium acnes; el extracto de hamamelis aporta acción astringente y antiinflamatoria; el aloe vera calma la piel.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0900",
    "Nombre": "Nutritivax Plus Emulgel x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulgel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -194,13 +195,13 @@
    "Componentes": "Alantoina 0.2% + D-Pantenol 5% + Phytantriol 0.2% + Vitamina A 3% + Vitamina C 8% + Vitamina E 5%",
    "Indicación": "Emulgel antioxidante y reparador.\n\nFotoenvejecimiento, piel apagada y barrera cutánea debilitada. La vitamina C aporta acción antioxidante potente y estimula la síntesis de colágeno; la vitamina A favorece la renovación celular; el D-pantenol y la alantoína calman y reparan la barrera cutánea; el phytantriol mejora la textura y tolerancia del vehículo; la vitamina E complementa la protección antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 1-2 aplicaciones de bomba)\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nPuede causar hormigueo o eritema leve al inicio por el contenido de vitamina C y vitamina A en concentración cosmética activa. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0401",
    "Nombre": "Post Laser Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -208,13 +209,13 @@
    "Componentes": "Desonida 0.1% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria post-procedimiento.\n\nCuidado de la piel tras procedimientos láser, peelings o exfoliaciones, cuando hay eritema, inflamación o irritación esperada del procedimiento. La desonida, corticoide de baja potencia, controla la inflamación posprocedimiento con buen perfil de seguridad; la vitamina E aporta acción antioxidante y favorece la recuperación de la piel.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia, según indicación del profesional que realizó el procedimiento\nCANTIDAD: capa fina cubriendo la zona tratada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 5-7 días, o según indicación específica del profesional a cargo del procedimiento\n\nPRECAUCIONES\nNo iniciar sobre piel con erosión activa o costras sin confirmar con el profesional que realizó el procedimiento. Aunque la desonida es de baja potencia, el uso continuo más allá de lo indicado puede causar atrofia cutánea.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0281",
    "Nombre": "Protector Solar Te Verde Emulsion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Protectores Solares",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Tubo Colapsible",
    "Tamaño": "120",
@@ -222,13 +223,13 @@
    "Componentes": "Extracto de Te Verde + Octilmetoxicinamato + Tinosorb M + Tinosorb S + Uvinul A Plus Granular + Uvinul MC 80 + Uvinul T150",
    "Indicación": "Emulsión fotoprotectora SPF 50+.\n\nFotoprotección (Protección Solar) de amplio espectro UVA/UVB en población general. Indicada en la prevención de quemadura solar, fotoenvejecimiento y cáncer cutáneo. Combina filtros orgánicos fotoestables de amplio espectro (Tinosorb M, Tinosorb S, Uvinul) que cubren de forma estable el rango UVA largo; el extracto de té verde aporta acción antioxidante complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, 15-30 minutos antes de la exposición solar\nCANTIDAD: cantidad generosa y uniforme; como referencia, 2 mg/cm² (aprox. 1/4 de cucharadita para el rostro)\nFRECUENCIA: reaplicar cada 2 horas de exposición, y después de nadar, sudar o secarse con toalla\nDuración estimada del tratamiento: uso diario continuo, incluso en días nublados\nNo olvidar orejas, cuello, escote y dorso de manos.\n\nPRECAUCIONES\nNo se especificaron los porcentajes de los filtros en la fórmula. Puede causar reacción de hipersensibilidad a alguno de los filtros orgánicos; suspender ante eritema o prurito persistente. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Protectores Solares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP1059",
    "Nombre": "Repardix Emulsion x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -236,13 +237,13 @@
    "Componentes": "Aloe Vera 0.3% + Calamina 3% + Oxido de Zinc 5% + Vitamina E 5%",
    "Indicación": "Emulsión reparadora/protectora de barrera cutánea (Cicatrizante).\n\nDermatitis irritativa, prurito y piel con barrera cutánea comprometida (picaduras de insecto, irritación leve, dermatitis del pañal). El aloe vera calma e hidrata la piel; la calamina calma el prurito y aporta acción astringente suave; el óxido de zinc protege físicamente la piel y ejerce acción astringente; la vitamina E aporta acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina a moderada cubriendo la zona afectada\nFRECUENCIA: 2-3 veces al día\nDuración estimada del tratamiento: uso mientras persista la irritación o el prurito; reevaluar en 7-10 días\n\nPRECAUCIONES\nNo aplicar sobre heridas infectadas o exudativas sin evaluación médica previa. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0858",
    "Nombre": "V-K 3% Crema x 30 g Envase de Lujo",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -250,8 +251,7 @@
    "Componentes": "Vitamina K 3%",
    "Indicación": "Crema con vitamina K para hematomas y discromía vascular.\n\nHematomas (moretones), púrpura postláser o post-procedimiento, rosácea con componente vascular, y ojeras de origen vascular. La vitamina K participa en la coagulación y en la reparación de la pared de pequeños vasos sanguíneos dañados, favoreciendo la reabsorción más rápida de la sangre extravasada y la reducción de la discromía violácea/amarillenta asociada.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, en la zona afectada\nCANTIDAD: capa fina cubriendo el hematoma o la zona de discromía vascular\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: 1-2 semanas para hematomas; uso continuo en ojeras o rosácea con componente vascular\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   }
  ]
 }

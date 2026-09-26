@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0166",
    "Nombre": "Aclarsoft Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Glicolico 10% + Hidroquinona 4%",
    "Indicación": "Crema despigmentante para hiperpigmentación.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido glicólico exfolia, acelera el recambio del estrato córneo pigmentado y potencia la penetración de la hidroquinona.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico al 10% está en el límite superior para uso domiciliario: es esperable eritema, hormigueo y descamación al inicio del tratamiento. Vigilar signos de dermatitis de contacto u ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0411",
    "Nombre": "Anagexil Fem Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -26,13 +27,13 @@
    "Componentes": "Alfa Estradiol 0.01% + D-Pantenol 1% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética, especialmente en mujeres con componente hiperandrogénico. El minoxidil es el estimulante principal del crecimiento folicular; el alfa estradiol modula receptores androgénicos locales del folículo; el D-pantenol acondiciona y repara la barrera del cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental, e irritación o sequedad del cuero cabelludo. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0306",
    "Nombre": "Anagexil Hom Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -40,13 +41,13 @@
    "Componentes": "D-Pantenol 5% + Dutasteride 0.05% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el dutasteride bloquea la conversión de testosterona a DHT a nivel local; el D-pantenol acondiciona el cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental. El dutasteride tópico conlleva riesgo teórico de absorción sistémica; contraindicado en mujeres embarazadas o en edad fértil que puedan estar embarazadas por riesgo de teratogenicidad. Contraindicado en lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0104",
    "Nombre": "C Rev - Vit C Emulgel x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulgel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -54,13 +55,13 @@
    "Componentes": "Vitamina C 15%",
    "Indicación": "Emulgel/sérum antioxidante con vitamina C.\n\nFotoenvejecimiento, piel apagada sin luminosidad e hiperpigmentación leve. La vitamina C aporta acción antioxidante potente, es cofactor esencial en la síntesis de colágeno e inhibe la tirosinasa con efecto despigmentante suave.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, antes del protector solar\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 3-4 gotas)\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles sobre luminosidad a partir de 4-8 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\nConservar protegido de la luz y el calor; el oscurecimiento del producto indica oxidación.\n\nPRECAUCIONES\nPuede causar hormigueo o eritema leve al inicio, especialmente en pieles sensibles; introducir de forma progresiva. Evitar contacto con ojos y mucosas.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0368",
    "Nombre": "Calcitopic Ungüento x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -68,13 +69,13 @@
    "Componentes": "Tacrolimus 0.05%",
    "Indicación": "Ungüento de tacrolimus al 0.05% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
    "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Otras Preparaciones Magistrales"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0185",
    "Nombre": "Clarfort Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -82,13 +83,13 @@
    "Componentes": "Acido Retinoico 0.015% + Furoato de Mometasona 0.1% + Hidroquinona 3%",
    "Indicación": "Crema despigmentante para melasma.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; el furoato de mometasona controla la irritación asociada a la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl furoato de mometasona está en su concentración comercial estándar (0.1%): el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Es esperable eritema y descamación leve por el ácido retinoico. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP1046",
    "Nombre": "Clindaper Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -96,13 +97,13 @@
    "Componentes": "Clindamicina 1% + Peróxido de Benzoilo 5%",
    "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 1% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. El peróxido de benzoilo al 5% aporta acción bactericida adicional, reduciendo el riesgo de resistencia bacteriana; a esta concentración puede generar más sequedad e irritación que concentraciones menores.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0089",
    "Nombre": "Clobeplus Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -110,13 +111,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0836",
    "Nombre": "Emoultra Crema x 500 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "500",
@@ -124,13 +125,13 @@
    "Componentes": "Aceite Mineral + Agua Purificada + Alcohol Cetoestearilico + Dimeticona + Irgasan (Triclosan) + Lauril Sulfato de Sodio + Propilenglicol + Vaselina",
    "Indicación": "Crema humectante con acción antimicrobiana.\n\nXerosis y piel seca con tendencia a la colonización bacteriana o a sobreinfección leve. La vaselina, el aceite mineral y la dimeticona forman una película oclusiva que reduce la pérdida transepidérmica de agua; el propilenglicol actúa como humectante; el irgasán (triclosán) aporta acción antimicrobiana de amplio espectro; el alcohol cetoestearílico y el lauril sulfato de sodio actúan como emulsionantes de la base.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-3 veces al día según el grado de sequedad\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\nNo se especificaron los porcentajes de los componentes en la fórmula.\n\nPRECAUCIONES\nNo fue posible verificar la concentración del irgasán (triclosán) contra su límite de uso seguro (máximo 0.3%) al no estar especificada en la fórmula; se recomienda documentar ese dato. El triclosán ha sido objeto de restricciones regulatorias por preocupación sobre resistencia antimicrobiana y disrupción endocrina, por lo que su uso en aplicación prolongada debe estar justificado. El lauril sulfato de sodio puede resultar irritante en pieles muy sensibles con exposición prolongada. La combinación de oclusivos puede ser comedogénica en pieles con tendencia acneica. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Estrategico"
   },
   {
    "Referencia Interna": "MP0068",
    "Nombre": "Fladerm Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -138,13 +139,13 @@
    "Componentes": "Metronidazol 1%",
    "Indicación": "Gel/crema para rosácea.\n\nRosácea papulopustulosa y dermatitis perioral. El metronidazol, en su concentración comercial de referencia, reduce las pápulas y pústulas inflamatorias por su acción antiinflamatoria e inmunomoduladora.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 semanas; el tratamiento de mantenimiento suele prolongarse varios meses\nEvitar los desencadenantes conocidos de la rosácea: sol, calor, alcohol, comidas picantes y cambios bruscos de temperatura.\n\nPRECAUCIONES\nPuede causar sequedad, ardor o prurito leve al inicio. La rosácea es una enfermedad crónica: la suspensión del tratamiento suele asociarse a recaída.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0185",
    "Nombre": "Formula Fm Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -152,13 +153,13 @@
    "Componentes": "Acido Retinoico 0.015% + Furoato de Mometasona 0.1% + Hidroquinona 3%",
    "Indicación": "Crema despigmentante para melasma.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; el furoato de mometasona controla la irritación asociada a la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl furoato de mometasona está en su concentración comercial estándar (0.1%): el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Es esperable eritema y descamación leve por el ácido retinoico. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0330",
    "Nombre": "Freshderm Emulsion x 50 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "50",
@@ -166,13 +167,13 @@
    "Componentes": "Acido Hialuronico 0.25% + Alantoina 0.2% + Aloe Vera 0.3% + Glicerina 3.5% + Silicona 5% + Vitamina E 2%",
    "Indicación": "Emulsión hidratante para piel seca.\n\nXerosis, piel deshidratada y pieles con barrera cutánea debilitada. El ácido hialurónico y la glicerina actúan como humectantes reteniendo agua en la epidermis; la silicona aporta oclusividad ligera y tacto sedoso; la alantoína y el aloe vera calman y favorecen la reparación de la barrera cutánea; la vitamina E complementa con acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0086",
    "Nombre": "Inflales - Momeplus Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -180,13 +181,13 @@
    "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0068",
    "Nombre": "Metroplus Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -194,13 +195,13 @@
    "Componentes": "Metronidazol 1%",
    "Indicación": "Gel/crema para rosácea.\n\nRosácea papulopustulosa y dermatitis perioral. El metronidazol, en su concentración comercial de referencia, reduce las pápulas y pústulas inflamatorias por su acción antiinflamatoria e inmunomoduladora.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 semanas; el tratamiento de mantenimiento suele prolongarse varios meses\nEvitar los desencadenantes conocidos de la rosácea: sol, calor, alcohol, comidas picantes y cambios bruscos de temperatura.\n\nPRECAUCIONES\nPuede causar sequedad, ardor o prurito leve al inicio. La rosácea es una enfermedad crónica: la suspensión del tratamiento suele asociarse a recaída.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0411",
    "Nombre": "Minobit AT Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -208,13 +209,13 @@
    "Componentes": "Alfa Estradiol 0.01% + D-Pantenol 1% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética, especialmente en mujeres con componente hiperandrogénico. El minoxidil es el estimulante principal del crecimiento folicular; el alfa estradiol modula receptores androgénicos locales del folículo; el D-pantenol acondiciona y repara la barrera del cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental, e irritación o sequedad del cuero cabelludo. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0089",
    "Nombre": "Propiomed Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -222,13 +223,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0096",
    "Nombre": "Terskin Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -236,13 +237,13 @@
    "Componentes": "Acido Retinoico 0.015% + Vitamina E 2%",
    "Indicación": "Crema/gel con retinoide y antioxidante.\n\nFotoenvejecimiento, textura irregular y acné leve a moderado. El ácido retinoico estimula el recambio celular, normaliza la queratinización folicular y estimula la síntesis de colágeno; la vitamina E aporta acción antioxidante y emoliente, compensando la sequedad del retinoide.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 12 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento (efecto retinoide), que suele ceder con el uso continuado. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección. No combinar con otros exfoliantes o retinoides en el mismo régimen.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0319",
    "Nombre": "Zinederm Locion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "30",
@@ -250,8 +251,7 @@
    "Componentes": "Acetato de Zinc 1.2% + Eritromicina 3%",
    "Indicación": "Loción antibacteriana para acné.\n\nAcné vulgar inflamatorio, leve a moderado, con predominio del componente bacteriano. La eritromicina actúa como antibiótico frente a Cutibacterium acnes; el acetato de zinc potencia su penetración cutánea y aporta acción seborreguladora y antiinflamatoria complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de eritromicina tópica en monoterapia favorece la resistencia bacteriana; se recomienda alternar o combinar con peróxido de benzoilo según criterio médico. Puede causar sequedad o irritación leve al inicio. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   }
  ]
 }

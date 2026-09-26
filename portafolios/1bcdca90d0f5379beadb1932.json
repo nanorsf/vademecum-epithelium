@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0765",
    "Nombre": "Formula Magistral - Acido Mandelico 50%, Acido Kojico 10%, Acido Fitico 4% Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Fitico 4% + Acido Kojico 10% + Acido Mandelico 50%",
    "Indicación": "Gel de peeling químico despigmentante (Peeling Medio).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma resistente, hiperpigmentación postinflamatoria, fotodaño y queratosis, en esquema de peeling químico de aplicación profesional. El ácido mandélico al 50% actúa como agente de peeling principal, con penetración lenta y uniforme que reduce el riesgo de hiperpigmentación postinflamatoria en fototipos altos; el ácido kójico inhibe la tirosinasa reforzando el efecto despigmentante; el ácido fítico aporta acción quelante y antioxidante.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio, por personal médico entrenado, sobre piel limpia, seca y desengrasada\nCANTIDAD: capa uniforme sobre la zona a tratar, controlando el tiempo de contacto\nFRECUENCIA: sesiones espaciadas cada 2-4 semanas según respuesta y tolerancia\nDuración estimada del tratamiento: protocolo habitual de 4-6 sesiones; reevaluar entre sesiones\nNeutralizar y retirar según el protocolo del peeling; no dejar más tiempo del indicado.\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante todo el tratamiento y el periodo posterior.\n\nPRECAUCIONES\nEl ácido mandélico al 50% y el ácido kójico al 10% superan ampliamente las concentraciones de uso domiciliario; se trata de una preparación para peeling de aplicación profesional, NO para uso del paciente en casa. Su uso en estos porcentajes depende de la valoración médica que se realice y de la experiencia del médico tratante. Riesgo de quemadura química, eritema intenso, descamación marcada e hiperpigmentación postinflamatoria, especialmente en fototipos altos. Contraindicado en embarazo, herpes activo, dermatitis o heridas en la zona, y en pacientes con uso reciente de isotretinoína oral.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP1055",
    "Nombre": "Formula Magistral - Minoxidil 5% + D-Pantenol 1% + Phytantriol 0.5% + Clobetasol 0.015% + Acido Retinoico 0.025% + Finasteride 0.025% Locion x 1 Lts",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "1000",
@@ -26,8 +27,7 @@
    "Componentes": "Acido Retinoico 0.025% + Clobetasol 0.015% + D-Pantenol 1% + Finasteride 0.025% + Minoxidil 5% + Phytantriol 0.5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina con componente inflamatorio del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; el finasteride bloquea la conversión de testosterona a DHT a nivel local; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil; phytantriol y D-pantenol acondicionan y reparan la barrera del cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nNingún componente supera su concentración máxima de referencia. El clobetasol está muy por debajo de su concentración típica (0.015% vs. 0.05% estándar), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia asociados a corticoides potentes en uso prolongado; aun así, vigilar signos de irritación o foliculitis. El finasteride tópico conlleva riesgo teórico de absorción sistémica (menor que la vía oral, pero no nulo) — contraindicado en mujeres embarazadas o en edad fértil que puedan estar embarazadas por riesgo de teratogenicidad. El minoxidil puede causar hipertricosis facial por contacto accidental. El ácido retinoico puede causar irritación/descamación inicial. Evitar en lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   }
  ]
 }

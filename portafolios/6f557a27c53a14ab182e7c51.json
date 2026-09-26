@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0285",
    "Nombre": "Antifoliculitis Locion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Salicilico 2% + Clindamicina 2% + Hidrocortisona 1%",
    "Indicación": "Loción para foliculitis.\n\nFoliculitis bacteriana superficial. El ácido salicílico aporta acción queratolítica, desobstruyendo el folículo; la clindamicina actúa como antibiótico frente a la flora bacteriana causante (principalmente Staphylococcus aureus); la hidrocortisona controla la inflamación y el prurito asociados.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 7-10 días; reevaluar si no hay mejoría en ese periodo\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. Por el contenido de hidrocortisona, evitar el uso continuo prolongado sin supervisión.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0562",
    "Nombre": "Formula Magistral - Aceponato de Metil Prednisolona 0.1% Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -26,13 +27,13 @@
    "Componentes": "Aceponato de Metil Prednisolona 0.1%",
    "Indicación": "Crema corticoide para dermatosis inflamatorias.\n\nDermatitis atópica, dermatitis de contacto, eccema y otras dermatosis inflamatorias que responden a corticoides. El aceponato de metilprednisolona es un corticoide de potencia media con perfil mejorado: se activa preferentemente en la piel y se metaboliza rápido a nivel sistémico, lo que reduce el riesgo de efectos adversos frente a corticoides clásicos de potencia equivalente.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: controlar la fase inflamatoria en 2-4 semanas; en dermatitis atópica no exceder 12 semanas continuas sin reevaluación\nNo aplicar bajo oclusión salvo indicación médica expresa.\n\nPRECAUCIONES\nPor tratarse de un corticoide tópico, el uso prolongado o en grandes superficies puede causar atrofia cutánea, telangiectasias, estrías y taquifilaxia. Extremar precaución en cara, pliegues y área del pañal. Evitar en infecciones cutáneas activas (bacterianas, micóticas o virales) sin tratamiento concomitante. Evitar en embarazo y lactancia sin indicación médica. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0471",
    "Nombre": "Formula Magistral - Acido Glicolico Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -40,13 +41,13 @@
    "Componentes": "Acido Glicolico 15%",
    "Indicación": "Loción exfoliante de ácido glicólico (Peeling Suave).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nFotoenvejecimiento, textura irregular, hiperqueratosis, hiperpigmentación superficial y acné comedoniano. El ácido glicólico es un AHA de molécula pequeña que rompe las uniones intercorneocitarias del estrato córneo, acelerando la renovación epidérmica, mejorando la textura y estimulando la síntesis de colágeno dérmico con el uso sostenido.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma progresiva según respuesta\nDuración estimada del tratamiento: 8-12 semanas de uso continuo antes de reevaluar\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico está por encima del límite recomendado para uso domiciliario (15% vs. hasta 10%), lo que aumenta el riesgo de eritema, hormigueo intenso, descamación marcada y quemadura química si no se respeta la pauta de introducción progresiva. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Riesgo de hiperpigmentación postinflamatoria en fototipos altos. Evitar exposición solar sin protección adecuada. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0788",
    "Nombre": "Formula Magistral - Minoxidil 2% + Biotina 2% Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -54,13 +55,13 @@
    "Componentes": "Biotina 2% + Minoxidil 2%",
    "Indicación": "Loción capilar para alopecia androgenética, concentración inicial.\n\nAlopecia androgenética leve, o como fórmula de inicio para evaluar tolerancia antes de escalar a concentraciones mayores de minoxidil. El minoxidil, en concentración baja, estimula el crecimiento folicular; la biotina es cofactor esencial en la síntesis de queratina.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental, e irritación o sequedad del cuero cabelludo. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0492",
    "Nombre": "Formula Magistral Vitamina C Piel Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -68,13 +69,13 @@
    "Componentes": "Vitamina C 25%",
    "Indicación": "Gel antioxidante con vitamina C de concentración alta.\n\nFotoenvejecimiento marcado, piel apagada e hiperpigmentación, en piel grasa o mixta que se beneficia de un vehículo en gel. La vitamina C, en concentración alta, aporta acción antioxidante potente, estimula la síntesis de colágeno e inhibe la tirosinasa con efecto despigmentante.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, antes del protector solar\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 3-4 gotas)\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles sobre luminosidad a partir de 4-8 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\nConservar protegido de la luz y el calor; el oscurecimiento del producto indica oxidación.\n\nPRECAUCIONES\nEsta es una concentración considerablemente más alta que la habitual en formulaciones cosméticas de vitamina C (15-20%), con mayor riesgo de hormigueo, eritema e irritación al inicio del tratamiento; se recomienda introducirla de forma progresiva. Evitar contacto con ojos y mucosas.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0655",
    "Nombre": "Med Peeling Forte Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -82,13 +83,13 @@
    "Componentes": "Acido Ferulico 4% + Acido Lactobionico 4% + Acido Tranexamico 4% + Arbutina 4%",
    "Indicación": "Crema despigmentante sin hidroquinona.\n\nMelasma, hiperpigmentación postinflamatoria y fotodaño, como alternativa en pacientes con intolerancia a la hidroquinona o para tratamientos de mantenimiento prolongado. El ácido tranexámico bloquea la vía plasmina-melanocito y reduce el componente vascular del melasma; la arbutina inhibe la tirosinasa de forma suave y sostenida; el ácido ferúlico aporta acción antioxidante y potencia la estabilidad de la fórmula; el ácido lactobiónico es un PHA que exfolia suavemente sin la irritación de los AHA convencionales.",
    "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; apto para uso prolongado de mantenimiento\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nAl no contener hidroquinona ni retinoides, presenta buen perfil de tolerancia y no conlleva riesgo de ocronosis exógena. Puede causar sensación de hormigueo leve al inicio. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Nuevo"
   },
   {
    "Referencia Interna": "MP0566",
    "Nombre": "Med Peeling Suave Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -96,8 +97,7 @@
    "Componentes": "Acido Lactobionico 3% + Acido Retinoico 0.025% + Acido Tranexámico 4%",
    "Indicación": "Crema despigmentante suave para melasma.\n\nMelasma leve a moderado, hiperpigmentación postinflamatoria y fotodaño, en pacientes que requieren un abordaje sin hidroquinona. El ácido tranexámico bloquea la vía plasmina-melanocito y reduce el componente vascular del melasma; el ácido retinoico acelera el recambio celular y potencia la penetración de los activos; el ácido lactobiónico es un PHA que exfolia suavemente y aporta acción antioxidante sin la irritación de los AHA convencionales.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; apto para uso prolongado de mantenimiento\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación leve al inicio del tratamiento por el contenido de ácido retinoico. Al no contener hidroquinona, no conlleva riesgo de ocronosis exógena. Contraindicada en embarazo y lactancia por el ácido retinoico. Evitar exposición solar sin protección adecuada.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Nuevo"
   }
  ]
 }

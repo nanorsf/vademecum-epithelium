@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0371",
    "Nombre": "Crema Cicatrizante Formula Avanzada Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -12,13 +13,13 @@
    "Componentes": "Aloe Vera 0.3% + Calamina 3% + D-Pantenol 5% + Irgasan (Triclosan) 0.6% + Oxido de Zinc 5% + Vitamina E 5%",
    "Indicación": "Crema reparadora/protectora de barrera cutánea (Cicatrizante).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis irritativa, prurito y piel con barrera cutánea comprometida (picaduras de insecto, irritación leve, dermatitis del pañal). El aloe vera calma e hidrata la piel; la calamina calma el prurito y aporta acción astringente suave; el óxido de zinc protege físicamente la piel y ejerce acción astringente; el D-pantenol favorece la reparación de la barrera cutánea; la vitamina E aporta acción antioxidante; el irgasán complementa como antiséptico de amplio espectro.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina a moderada cubriendo la zona afectada\nFRECUENCIA: 2-3 veces al día\nDuración estimada del tratamiento: uso mientras persista la irritación o el prurito; reevaluar en 7-10 días\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. No aplicar sobre heridas infectadas o exudativas sin evaluación médica previa. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0884",
    "Nombre": "Crema Despigmentante Dermaclar x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -26,13 +27,13 @@
    "Componentes": "Acido Fitico 2% + Acido Glicolico 1% + Acido Kojico 2% + Acido Mandelico 6% + Alfa Bisabolol 1%",
    "Indicación": "Crema despigmentante y exfoliante sin hidroquinona.\n\nMelasma, hiperpigmentación postinflamatoria, fotodaño y textura irregular, en pacientes que requieren un abordaje sin hidroquinona. El ácido mandélico es un AHA de molécula grande que exfolia de forma lenta y uniforme, con menor riesgo de irritación e hiperpigmentación postinflamatoria en fototipos altos; el ácido kójico inhibe la tirosinasa; los ácidos fítico y glicólico complementan la acción quelante y exfoliante; el alfa bisabolol calma la piel.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; apto para uso prolongado de mantenimiento\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido mandélico presenta mejor perfil de tolerancia que otros AHA en fototipos altos, por su penetración más lenta. Al no contener hidroquinona, no conlleva riesgo de ocronosis exógena. Puede causar hormigueo o eritema leve al inicio. El ácido kójico puede producir dermatitis de contacto en pacientes sensibilizados. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0871",
    "Nombre": "Locion para Moluscos x 20 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "20",
@@ -40,13 +41,13 @@
    "Componentes": "Acido Lactico 20% + Acido Salicilico 20%",
    "Indicación": "Solución queratolítica cáustica para molusco contagioso (Peeling Medio).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMolusco contagioso. Los ácidos láctico y salicílico, en concentración cáustica, destruyen por acción química directa el tejido de la lesión umbilicada característica del molusco contagioso.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio o bajo indicación médica expresa, sobre cada lesión únicamente\nCANTIDAD: una gota mínima por lesión, con aplicador fino, protegiendo la piel sana circundante\nFRECUENCIA: 1 vez cada 1-2 semanas, según indicación médica, hasta resolución de las lesiones\nDuración estimada del tratamiento: varias aplicaciones según el número de lesiones y su respuesta\nNo aplicar sobre piel sana; delimitar bien cada lesión antes de aplicar.\n\nPRECAUCIONES\nPreparado cáustico de aplicación médica dirigida, no de uso domiciliario extenso. Su uso depende de la valoración médica que se realice y de la experiencia del médico tratante. Riesgo de quemadura química, cicatriz o hipopigmentación residual en el sitio de aplicación. No aplicar en mucosas, párpados ni genitales. Precaución especial en población pediátrica por la mayor superficie corporal relativa y riesgo de absorción.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0872",
    "Nombre": "Syndet Acne Gel x 220 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "220",
@@ -54,8 +55,7 @@
    "Componentes": "Acido Salicilico 2% + Extracto de Calendula 3%",
    "Indicación": "Gel limpiador para piel con tendencia acneica.\n\nHigiene diaria de piel grasa o con tendencia acneica. El ácido salicílico aporta acción queratolítica, ayudando a mantener el poro desobstruido; el extracto de caléndula calma la piel durante la limpieza.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nPuede causar sensación de tirantez leve al inicio. Evitar contacto con los ojos. Suspender si aparece reacción de hipersensibilidad al extracto de caléndula (familia Asteraceae, con reactividad cruzada conocida).",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   }
  ]
 }

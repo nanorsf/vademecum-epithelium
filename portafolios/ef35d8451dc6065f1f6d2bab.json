@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0869",
    "Nombre": "Despigmentante ISIS Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Betametasona 0.05% + Hidroquinona 2% + Nicotinamida- (Niacinamida) 5% + Revinage 1%",
    "Indicación": "Crema despigmentante — Fase 2 de tratamiento.\n\nMelasma e hiperpigmentación postinflamatoria, en la fase de mantenimiento de un protocolo despigmentante escalonado. La hidroquinona, a dosis baja, inhibe la tirosinasa; la betametasona controla la irritación asociada; la niacinamida bloquea la transferencia de melanosomas al queratinocito; el Revinage aporta un mecanismo despigmentante/iluminador adicional.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nLa betametasona es un corticoide de potencia media-alta: el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0940",
    "Nombre": "Hidracare ISIS Emulsion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Tapa",
    "Tamaño": "60",
@@ -26,13 +27,13 @@
    "Componentes": "Aloe Vera 0.3% + Hydrasensyl Glucan Green/Tinocare GL 1.2% + Mantequilla de Karite 0.2% + Vitamina E 100% Acetato 0.5%",
    "Indicación": "Emulsión hidratante y calmante.\n\nXerosis, piel deshidratada y sensible. El aloe vera calma la piel; el Hydrasensyl Glucan Green/Tinocare GL refuerza la barrera cutánea y aporta acción calmante; la mantequilla de karité y la vitamina E acetato nutren e hidratan.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0943",
    "Nombre": "Hidraskyn ISIS x Emulsion 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Tapa",
    "Tamaño": "60",
@@ -40,13 +41,13 @@
    "Componentes": "Aceite de Rosa Mosqueta 3% + Acido Hialuronico 0.3% + Alantoina 0.2% + Aloe Vera 0.3% + Mantequilla de Karite 0.2% + Vitamina E Acetato 0.5%",
    "Indicación": "Emulsión hidratante y regeneradora facial.\n\nXerosis facial, piel deshidratada y pieles con barrera cutánea debilitada o en proceso de recuperación. El aceite de rosa mosqueta aporta ácidos grasos esenciales y favorece la regeneración cutánea; el ácido hialurónico y la mantequilla de karité hidratan y restauran los lípidos de barrera; la alantoína y el aloe vera calman la piel y favorecen la reepitelización; la vitamina E complementa con acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 1-2 aplicaciones de bomba)\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0939",
    "Nombre": "Syndet ISIS x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "120",
@@ -54,8 +55,7 @@
    "Componentes": "Aloe Vera 0.3% + Extracto de Calendula 2% + Mantequilla de Karite 0.25%",
    "Indicación": "Limpiador suave hidratante.\n\nHigiene diaria de piel sensible o seca. La base Syndet limpia respetando el pH fisiológico de la piel; el aloe vera calma; el extracto de caléndula aporta acción calmante adicional; la mantequilla de karité repone los lípidos de barrera durante la limpieza.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o cuerpo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nFórmula de perfil muy seguro, apta para piel sensible. Suspender si aparece reacción de hipersensibilidad al extracto de caléndula (familia Asteraceae, con reactividad cruzada conocida). Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   }
  ]
 }
