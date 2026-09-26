@@ -1,0 +1,103 @@
+{
+ "cliente": "Farmapiel Garzon - Carolina Andrea Murcia Alvarez",
+ "productos": [
+  {
+   "Referencia Interna": "MP1014",
+   "Nombre": "Acne Less Gel x 30 g Envase Airless",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Eritromicina 3%",
+   "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; la eritromicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). No prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación; su uso prolongado en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0222",
+   "Nombre": "Acne Soft Gel x 30 g - Sin envase",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Clindamicina 2%",
+   "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno, en su concentración comercial de referencia, normaliza la queratinización folicular, previniendo comedones; la clindamicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). El uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Estrategico",
+   "Categoría del Producto": "Acné - Rosacea"
+  },
+  {
+   "Referencia Interna": "MP0863",
+   "Nombre": "Acne Soft Gel x 30 g Envase Airless",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Clindamicina 2%",
+   "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno, en su concentración comercial de referencia, normaliza la queratinización folicular, previniendo comedones; la clindamicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). El uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0075",
+   "Nombre": "Bactricin Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Fusidico 2% + Desonida 0.05%",
+   "Indicación": "Crema antibacteriana y antiinflamatoria de baja potencia.\n\nDermatosis inflamatorias leves con sobreinfección bacteriana, especialmente en zonas de piel fina (cara, pliegues) o en población pediátrica: eccema impetiginizado leve, dermatitis irritativa sobreinfectada e intertrigo. El ácido fusídico actúa como antibiótico frente a estafilococos y estreptococos; la desonida, corticoide de baja potencia, controla la inflamación y el prurito con menor riesgo de atrofia cutánea que los corticoides potentes.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 5-10 días; reevaluar si no hay mejoría en ese periodo\nRetirar el tratamiento antibiótico una vez controlada la sobreinfección.\n\nPRECAUCIONES\nPor su baja potencia, la desonida es de elección en cara, pliegues y población pediátrica, pero aun así el uso prolongado puede causar atrofia cutánea y telangiectasias; evitar tratamientos continuos sin supervisión. El uso prolongado de ácido fusídico tópico favorece la resistencia bacteriana; limitar la duración del tratamiento. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+  },
+  {
+   "Referencia Interna": "MP0251",
+   "Nombre": "Clindatrex Gel x 30 g - Sin envase",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Retinoico 0.015% + Clindamicina 2%",
+   "Indicación": "Gel para acné vulgar.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El ácido retinoico normaliza la queratinización folicular, previniendo la formación de comedones; la clindamicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 obligatoria durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación al inicio del tratamiento (efecto retinoide). El uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. Contraindicado en embarazo y lactancia por el ácido retinoico. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Acné - Rosacea"
+  },
+  {
+   "Referencia Interna": "MP0097",
+   "Nombre": "GP - 17 Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Retinoico 0.01%",
+   "Indicación": "Crema con retinoide de baja concentración.\n\nFotoenvejecimiento leve, textura irregular y acné leve, especialmente indicada como fórmula de inicio en pacientes sin experiencia previa con retinoides o con piel sensible. El ácido retinoico estimula el recambio celular, normaliza la queratinización folicular y estimula la síntesis de colágeno.",
+   "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 12 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación leve al inicio del tratamiento (efecto retinoide esperable), que suele ceder con el uso continuado. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Despigmentantes"
+  },
+  {
+   "Referencia Interna": "MP0651",
+   "Nombre": "Tricelex Airless Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Clindamicina Fosfato 1% + Peroxido de Benzoilo 2.5%",
+   "Indicación": "Gel para acné vulgar con doble acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; la clindamicina fosfato y el peróxido de benzoilo aportan una doble acción antibacteriana frente a Cutibacterium acnes, reduciendo el riesgo de resistencia al combinar dos mecanismos distintos.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación durante las primeras semanas (efecto retinoide). El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

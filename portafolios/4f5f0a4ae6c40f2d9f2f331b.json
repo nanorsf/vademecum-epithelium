@@ -1,0 +1,47 @@
+{
+ "cliente": "Plenufarma - Dr. Jesus Enrique Vasquez",
+ "productos": [
+  {
+   "Referencia Interna": "MP0816",
+   "Nombre": "Inflalox Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Diclofenaco Sodico 3% + Extracto de Arnica 3% + Extracto de Calendula 3% + Lidocaina Liposomada 5%",
+   "Indicación": "Crema antiinflamatoria y analgésica con anestésico local.\n\nDolor e inflamación localizada de origen musculoesquelético, con componente de dolor superficial que se beneficia de acción anestésica adicional. El diclofenaco sódico inhibe la ciclooxigenasa, reduciendo la síntesis de prostaglandinas; los extractos de árnica y caléndula aportan acción antiinflamatoria y descongestiva natural complementaria; la lidocaína liposomada aporta anestesia local de acción más sostenida por su vehiculización en liposomas.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia, seca e íntegra, en la zona dolorosa\nCANTIDAD: cantidad suficiente para cubrir la zona, masajeando suavemente hasta absorción\nFRECUENCIA: 2-3 veces al día\nDuración estimada del tratamiento: no prolongar más de 2-3 semanas continuas sin reevaluación médica\nNo aplicar sobre superficies corporales extensas de una sola vez, por el contenido de lidocaína.\n\nPRECAUCIONES\nEl diclofenaco tópico puede causar fotosensibilidad. La lidocaína al 5%, si se aplica en superficies extensas, bajo oclusión, o de forma repetida en poco tiempo, puede absorberse sistémicamente y causar efectos adversos serios (arritmias, toxicidad del sistema nervioso central) — respetar estrictamente la dosis y el área de aplicación indicadas. Suspender si aparece reacción de hipersensibilidad a los extractos vegetales (árnica y caléndula, familia Asteraceae, con reactividad cruzada conocida). Contraindicado en el tercer trimestre del embarazo. No aplicar sobre piel lesionada, heridas abiertas o mucosas.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0844",
+   "Nombre": "Plenuclind Gel x 60 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "60",
+   "Masa": "g",
+   "Componentes": "Clindamicina 2%",
+   "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 2% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. En esta concentración reforzada, se recomienda para acné más extenso o resistente a clindamicina al 1%.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0847",
+   "Nombre": "Plenukids Emulsion x 60 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Emulsion",
+   "Presentación Farmacéutica": "Frasco Rollon",
+   "Tamaño": "60",
+   "Masa": "ml",
+   "Componentes": "Clorhidroxido de Aluminio - Zirconio 10% + Irgasan (Triclosan) 0.4% + Mantequilla de Karite 0.3%",
+   "Indicación": "Emulsión protectora y astringente para piel infantil.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis irritativa e intertrigo en población pediátrica, con necesidad de acción astringente y protectora leve. El clorhidróxido de aluminio-zirconio, en baja concentración, aporta acción astringente que reduce la humedad y fricción de la zona; el irgasán complementa como antiséptico; la mantequilla de karité nutre y protege la piel.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso mientras persista la irritación; reevaluar en 7-10 días\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.4% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización, particularmente relevante en piel infantil. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Evitar contacto con ojos y mucosas.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

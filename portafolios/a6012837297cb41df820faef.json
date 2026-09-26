@@ -1,0 +1,19 @@
+{
+ "cliente": "Boston Medical Group de Colombia S.A.S.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0473",
+   "Nombre": "Anestesico Topico Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Lidocaina 11% + Lidocaina Liposomada 4% + Tetracaina 5%",
+   "Indicación": "Crema anestésica tópica compuesta.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAnestesia tópica previa a procedimientos dermatológicos menores (depilación láser, procedimientos con aguja, toma de biopsias superficiales, tatuajes). Combina lidocaína en dos formas (convencional y liposomada, para una liberación más sostenida) con tetracaína, sumando distintos anestésicos locales para una acción más profunda y prolongada que un anestésico único.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio o bajo indicación médica expresa, sobre piel limpia e íntegra, en el área exacta del procedimiento\nCANTIDAD: capa fina, limitada estrictamente a una sola extremidad o un área limitada equivalente por aplicación\nFRECUENCIA: aplicación única antes del procedimiento (no de uso repetido varias veces al día)\nDuración estimada del tratamiento: dejar actuar 20-45 minutos según indicación específica del profesional, sin exceder el tiempo indicado; retirar el excedente antes de iniciar el procedimiento\nNUNCA cubrir con plástico, film transparente o vendaje oclusivo — esto incrementa drásticamente la absorción y el riesgo de toxicidad sistémica grave.\n\nPRECAUCIONES\nEsta es una preparación anestésica de ALTA CONCENTRACIÓN, muy por encima de las cremas anestésicas comerciales de venta libre (4-5% de lidocaína). Su uso depende estrictamente de la valoración médica que se realice y de la experiencia del médico o profesional tratante — NO es para uso domiciliario libre del paciente. Existen reportes documentados de toxicidad sistémica grave (convulsiones, arritmias cardíacas, paro cardiorrespiratorio, incluyendo casos fatales) por la aplicación de anestésicos tópicos de alta concentración en superficies corporales extensas y, especialmente, bajo oclusión (envoltura plástica) antes de procedimientos como depilación láser. NUNCA aplicar bajo oclusión ni sobre una superficie corporal mayor a la indicada por el profesional. Suspender de inmediato y buscar atención médica urgente ante hormigueo peribucal, sabor metálico, zumbido en los oídos, mareo, habla arrastrada, confusión o cualquier síntoma neurológico o cardíaco — son signos de toxicidad sistémica por anestésico local. No aplicar sobre piel lesionada, mucosas, ni en niños pequeños sin estricta supervisión médica especializada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

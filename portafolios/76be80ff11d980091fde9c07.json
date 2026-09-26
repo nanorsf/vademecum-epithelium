@@ -1,0 +1,61 @@
+{
+ "cliente": "Dermocosmeticos de Santander S.A.S.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0256",
+   "Nombre": "GP - 62 Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Retinoico 0.015% + Beta Estradiol 0.02% + Clobetasol 0.015% + Minoxidil 5%",
+   "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el beta estradiol modula receptores androgénicos locales del folículo; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Capilares"
+  },
+  {
+   "Referencia Interna": "MP0290",
+   "Nombre": "Keto D (K-Dl) Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "D-Pantenol 5% + Desonida 0.1% + Ketoconazol 2% + Irgasan (Triclosan) 0.6%",
+   "Indicación": "Loción capilar antiinflamatoria y antimicótica con antiséptico.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis seborreica del cuero cabelludo con componente inflamatorio marcado. La desonida controla la inflamación; el ketoconazol controla la colonización por Malassezia; el D-pantenol acondiciona el cuero cabelludo; el irgasán aporta acción antiséptica complementaria.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre cuero cabelludo húmedo o seco\nCANTIDAD: cantidad suficiente para cubrir el cuero cabelludo\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas para el brote agudo; reevaluar antes de continuar\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Aunque la desonida es de baja potencia, el uso continuo prolongado puede causar atrofia cutánea.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0250",
+   "Nombre": "Piloforte Locion (PF) x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Net 3% + Acido Retinoico 0.025% + Clobetasol 0.015% + D-Pantenol 1% + Minoxidil 5% + Phytantriol 0.2% + Vitamina E 1%",
+   "Indicación": "Loción capilar para alopecia androgenética con componente inflamatorio.\n\nAlopecia androgenética con componente inflamatorio o seborreico del cuero cabelludo asociado. El minoxidil es el estimulante principal del crecimiento folicular; el Ac.Net regula la seborrea del cuero cabelludo; el ácido retinoico potencia la penetración del minoxidil; el clobetasol, a dosis baja, controla la inflamación de base; el phytantriol y el D-pantenol acondicionan y reparan la barrera del cuero cabelludo; la vitamina E aporta acción antioxidante.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia asociados a corticoides potentes en uso prolongado; aun así, vigilar signos de irritación o foliculitis. Es esperable irritación o descamación leve del cuero cabelludo por el ácido retinoico. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0017",
+   "Nombre": "Querato Fort (Qt) Locion x 10 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "10",
+   "Masa": "ml",
+   "Componentes": "Acido Lactico 15% + Acido Salicilico 22% + Podofilina 10%",
+   "Indicación": "Solución queratolítica cáustica para verrugas (Peeling Medio).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nVerrugas vulgares y plantares. El ácido láctico (15%) y el ácido salicílico (22%) actúan como queratolíticos intensos, destruyendo por acción cáustica directa el tejido de la verruga; la podofilina (10%) aporta acción citotóxica adicional sobre el tejido verrugoso.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio o bajo indicación médica expresa, sobre la verruga únicamente\nCANTIDAD: una gota o cantidad mínima, cubriendo solo la superficie de la lesión, protegiendo la piel sana circundante (ej. con vaselina)\nFRECUENCIA: 1 vez cada 3-7 días, según indicación médica\nDuración estimada del tratamiento: varias aplicaciones hasta la resolución de la lesión; reevaluar periódicamente\nNo aplicar sobre piel sana, mucosas, cara, genitales o pliegues.\nPuede lavarse la zona algunas horas después de la aplicación, según indicación médica.\n\nPRECAUCIONES\nLas concentraciones de ácido láctico y salicílico corresponden a un preparado cáustico de aplicación médica dirigida, no de uso domiciliario extenso — deben aplicarse exclusivamente sobre el tejido de la verruga. Su uso depende de la valoración médica que se realice y de la experiencia del médico tratante. La podofilina es citotóxica y está formalmente contraindicada en el embarazo por su riesgo teratogénico y embriotóxico; no aplicar sobre grandes superficies por riesgo de absorción sistémica y toxicidad (neuropatía, mielosupresión). No aplicar en mucosas ni en piel de niños pequeños sin estricta supervisión médica. Riesgo de quemadura química en piel sana por contacto accidental.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Virales- Queratolíticos - Antiparasitarios"
+  }
+ ]
+}

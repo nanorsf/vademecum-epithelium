@@ -1,0 +1,75 @@
+{
+ "cliente": "Carolina Palacio S.A.S.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0910",
+   "Nombre": "Formula Magistral - Acido Azelaico 15% Gel x 30 g - Jarabero Valvula",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Azelaico 15%",
+   "Indicación": "Gel de ácido azelaico para acné y rosácea.\n\nAcné vulgar comedoniano e inflamatorio, rosácea papulopustulosa e hiperpigmentación postinflamatoria. El ácido azelaico al 15% normaliza la queratinización folicular, aporta acción antibacteriana frente a Cutibacterium acnes, reduce la inflamación y actúa como inhibidor competitivo de la tirosinasa, con efecto despigmentante selectivo sobre melanocitos hiperactivos.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez al día la primera semana para evaluar tolerancia; luego 2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 4 semanas en acné y rosácea; en hiperpigmentación, 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEs esperable ardor, prurito y eritema transitorio durante las primeras semanas, que suele ceder con el uso continuado. A diferencia de la hidroquinona, no conlleva riesgo de ocronosis y es seguro en embarazo y lactancia. Evitar en piel con heridas abiertas o dermatitis activa. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Despigmentantes"
+  },
+  {
+   "Referencia Interna": "MP0368",
+   "Nombre": "Formula Magistral - Tacrolimus 0.05% Ungüento x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Ungüento",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.05%",
+   "Indicación": "Ungüento de tacrolimus al 0.05% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
+   "Etiquetas de producto": "Foco",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  },
+  {
+   "Referencia Interna": "MP0357",
+   "Nombre": "Formula Magistral - Tacrolimus 0.1% Ungüento x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Ungüento",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.1%",
+   "Indicación": "Ungüento de tacrolimus, concentración estándar para adultos.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica moderada a severa en adultos, como alternativa a corticoides tópicos. El tacrolimus, en su concentración comercial máxima de referencia, es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo y controlando la inflamación en dermatitis atópica.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. Esta concentración (0.1%) es exclusiva para adultos; no usar en niños, para quienes se reserva la concentración 0.03%.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  },
+  {
+   "Referencia Interna": "MP0794",
+   "Nombre": "HSEM 186 Crema x 50 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "50",
+   "Masa": "g",
+   "Componentes": "Aceite de Coco 0.3% + Acido Hialuronico 0.5% + Colageno 1.5% + K-viar 2% + Mantequilla de Karite 0.25% + Matrixyl 1.5% + Vitamina E 0.5%",
+   "Indicación": "Crema antienvejecimiento con péptidos.\n\nFotoenvejecimiento, pérdida de firmeza y densidad cutánea, arrugas y líneas de expresión. K-viar y Matrixyl son complejos peptídicos y bioactivos que estimulan la síntesis de matriz dérmica y mejoran firmeza y elasticidad; el colágeno y el ácido hialurónico hidratan y mejoran la turgencia; mantequilla de karité y aceite de coco restauran los lípidos de barrera; la vitamina E aporta acción antioxidante.",
+   "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro y cuello\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; uso continuo\nSe recomienda fotoprotección FPS 30-50 durante el día.\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece reacción de hipersensibilidad a alguno de los complejos peptídicos. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+  },
+  {
+   "Referencia Interna": "MP0912",
+   "Nombre": "Reparador de Cejas Serum x 4.2 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Serum",
+   "Presentación Farmacéutica": "Frasco Pincel",
+   "Tamaño": "4.2",
+   "Masa": "ml",
+   "Componentes": "Aceite de Ricino 0.5% + Capillisil 0.5% + D-Pantenol 0.5% + Extracto de Cola de Caballo 0.5% + Minoxidil 2% + Procapil 0.5%",
+   "Indicación": "Sérum para crecimiento de pestañas y cejas.\n\nHipotricosis de pestañas y cejas, madarosis y debilitamiento de la fibra por uso de extensiones, micropigmentación o depilación repetida. El minoxidil al 2% estimula el crecimiento folicular prolongando la fase anágena; procapil y Capillisil mejoran el anclaje y la vitalidad del folículo; el extracto de cola de caballo aporta silicio orgánico; D-pantenol y aceite de ricino acondicionan y aportan flexibilidad a la fibra.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca, libre de maquillaje\nCANTIDAD: una línea fina del aplicador a lo largo de la base de las pestañas y/o sobre las cejas\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; uso continuo mientras se busque mantener el efecto\nRetirar el exceso con un pañuelo para evitar el contacto con la superficie ocular.\n\nPRECAUCIONES\nEvitar el contacto directo con los ojos por el contenido de minoxidil; en caso de contacto, enjuagar con abundante agua. Puede causar irritación o prurito palpebral al inicio, e hipertricosis en zonas de contacto accidental. Evitar en embarazo y lactancia. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Nuevo",
+   "Categoría del Producto": "Capilares"
+  }
+ ]
+}

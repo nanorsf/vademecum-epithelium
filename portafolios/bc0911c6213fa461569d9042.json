@@ -1,0 +1,33 @@
+{
+ "cliente": "Dr. Juan Sebastian Suarez",
+ "productos": [
+  {
+   "Referencia Interna": "MP1060",
+   "Nombre": "Azuret Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Retinoico 0.05% + Extracto de Azucena 1%",
+   "Indicación": "Crema con retinoide y extracto calmante.\n\nFotoenvejecimiento moderado y textura irregular, en pacientes con experiencia previa en el uso de retinoides tópicos. El ácido retinoico estimula el recambio celular y la síntesis de colágeno; el extracto de azucena aporta acción calmante e hidratante, compensando la sequedad del retinoide.",
+   "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 12 semanas; uso continuo\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento (efecto retinoide), que suele ceder con el uso continuado. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP1032",
+   "Nombre": "Niazinc Serum x 30 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Serum",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "ml",
+   "Componentes": "Acetato de Zinc 2% + Nicotinamida (Niacinamida) 12%",
+   "Indicación": "Sérum seborregulador para piel grasa y acné.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPiel grasa o mixta con brillo excesivo, poros dilatados y acné leve a moderado. La niacinamida regula la producción sebácea, reduce el tamaño aparente del poro, aporta acción antiinflamatoria y mejora la función de barrera; el acetato de zinc complementa con acción seborreguladora, astringente y antiinflamatoria.",
+   "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 3-4 gotas)\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles sobre seborrea y poro a partir de 8-12 semanas\nPuede usarse bajo protector solar y maquillaje.\n\nPRECAUCIONES\nLa niacinamida está por encima de su concentración habitual de uso tópico (12% vs. 2-5% típico, con un techo práctico de 10%), lo que aumenta el riesgo de eritema, sensación de rubor (flushing), ardor e irritación, especialmente en pieles sensibles o con rosácea. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Se recomienda introducirlo de forma progresiva. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

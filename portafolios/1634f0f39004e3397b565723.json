@@ -1,0 +1,89 @@
+{
+ "cliente": "Epidermica S.A.S.- Dra. Alejandra Zuluaga",
+ "productos": [
+  {
+   "Referencia Interna": "MP1051",
+   "Nombre": "Clarite Emulsion x 50 ml Envase Airless",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Emulsion",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "50",
+   "Masa": "ml",
+   "Componentes": "Acido Azelaico 8% + Acido Lactobionico 5% + Acido Tranexamico 4% + Nicotinamida (Niacinamida) 5%",
+   "Indicación": "Emulsión despigmentante sin hidroquinona.\n\nMelasma, hiperpigmentación postinflamatoria y fotodaño, especialmente en pacientes con intolerancia a la hidroquinona o en tratamientos de mantenimiento prolongado. El ácido azelaico inhibe de forma selectiva la tirosinasa de melanocitos hiperactivos; el ácido tranexámico bloquea la vía plasmina-melanocito y reduce el componente vascular del melasma; la niacinamida bloquea la transferencia de melanosomas al queratinocito; el ácido lactobiónico es un PHA que exfolia suavemente y aporta acción antioxidante sin la irritación de los AHA convencionales.",
+   "Dosis Recomendada": "APLICACIÓN: de día o de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; apto para uso prolongado de mantenimiento\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nAl no contener hidroquinona ni retinoides, presenta buen perfil de tolerancia y no conlleva riesgo de ocronosis exógena. Puede causar ardor o sensación de hormigueo transitorio al inicio. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0828",
+   "Nombre": "Duoacne Gel de Noche Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.3% + Peroxido de Benzoilo 2.5%",
+   "Indicación": "Gel para acné vulgar, retinoide de concentración máxima comercial.\n\nAcné vulgar resistente, en pacientes con tolerancia previa demostrada a retinoides tópicos. El adapaleno, en su concentración comercial máxima de referencia (0.3%), normaliza de forma intensiva la queratinización folicular; el peróxido de benzoilo aporta acción bactericida frente a Cutibacterium acnes.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1-2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma muy progresiva según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación durante las primeras semanas, más marcada por tratarse de la concentración más alta de adapaleno disponible. No recomendado como primera experiencia con retinoides. El peróxido de benzoilo decolora telas, toallas y cabello. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0964",
+   "Nombre": "Luminique Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Kojico 3% + Acido Mandelico 8% + Arbutina 3% + Extracto de Calendula 2% + Iseligth 2% + Melaslow 3%",
+   "Indicación": "Crema despigmentante para hiperpigmentación.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. El ácido kójico y la arbutina inhiben la tirosinasa por vías complementarias; el ácido mandélico exfolia de forma lenta y uniforme, con menor riesgo de irritación e hiperpigmentación postinflamatoria en fototipos altos; el Melaslow y el Iselight aportan mecanismos despigmentantes adicionales; el extracto de caléndula calma la piel.",
+   "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nAl no contener hidroquinona, presenta buen perfil de tolerancia y no conlleva riesgo de ocronosis exógena. El ácido kójico puede producir dermatitis de contacto en pacientes sensibilizados. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0829",
+   "Nombre": "Mat Skin Cream Gel de Día Emulsión x 60 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Emulsion",
+   "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
+   "Tamaño": "60",
+   "Masa": "ml",
+   "Componentes": "Ac.Net 3% + Aloe Vera 0.3% + Cafeina 1% + Extracto de Hamamelis 3% + Extracto de Te Verde 1% + Nicotinamida (Niacinamida) 4%",
+   "Indicación": "Emulsión seborreguladora y matificante para piel grasa.\n\nPiel grasa o mixta con brillo excesivo, poros dilatados y tendencia acneica leve. El Ac.Net regula la producción sebácea y matifica; la niacinamida controla el sebo, reduce el tamaño aparente del poro y aporta acción antiinflamatoria; el extracto de hamamelis actúa como astringente; cafeína y extracto de té verde aportan efecto antioxidante y descongestivo; el aloe vera calma la piel.",
+   "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir el rostro (aprox. 1-2 aplicaciones de bomba)\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como parte de la rutina de cuidado de piel grasa; reevaluar a las 8-12 semanas\nPuede usarse bajo protector solar y maquillaje.\n\nPRECAUCIONES\nEvitar contacto con ojos y mucosas. Suspender si aparece irritación persistente o reacción de hipersensibilidad. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0830",
+   "Nombre": "Syndet Dermoacne Syndet x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Syndet",
+   "Presentación Farmacéutica": "Cilindro Bala",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Lactico 0.6% + Acido Net 1% + Acido Salicilico 2%",
+   "Indicación": "Limpiador para piel grasa y acné.\n\nHigiene diaria de piel grasa, mixta o con tendencia acneica. La base Syndet limpia respetando el pH fisiológico de la piel; el ácido láctico refuerza esa compatibilidad; el Ac.Net regula la producción sebácea; el ácido salicílico aporta acción queratolítica y comedolítica leve, ayudando a desobstruir el folículo durante la limpieza.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o zonas seborreicas\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento; reevaluar a las 8-12 semanas\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nPuede causar sensación de tirantez leve al inicio. Evitar contacto con los ojos y mucosas. Evitar en piel con dermatitis activa o heridas abiertas.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0827",
+   "Nombre": "Triacne Gel de Noche Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Clindamicina Fosfato 1% + Peroxido de Benzoilo 5%",
+   "Indicación": "Gel para acné vulgar con doble acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; la clindamicina fosfato y el peróxido de benzoilo al 5% aportan una doble acción antibacteriana frente a Cutibacterium acnes.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación durante las primeras semanas (efecto retinoide). Al 5% el peróxido de benzoilo puede generar más sequedad e irritación que concentraciones menores, y decolora telas, toallas y cabello. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

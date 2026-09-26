@@ -1,0 +1,33 @@
+{
+ "cliente": "L´Essence Clinique S.A.S.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0587",
+   "Nombre": "Dermatopic Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
+   "Indicación": "Crema antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Corticoides / Dermatitis"
+  },
+  {
+   "Referencia Interna": "MP0256",
+   "Nombre": "GP - 62 Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Retinoico 0.015% + Beta Estradiol 0.02% + Clobetasol 0.015% + Minoxidil 5%",
+   "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el beta estradiol modula receptores androgénicos locales del folículo; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Capilares"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+{
+ "cliente": "Productos Neodermis S.A.S.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0226",
+   "Nombre": "Formula Magistral - Acido Azelaico 15% Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Azelaico 15%",
+   "Indicación": "Gel de ácido azelaico para acné y rosácea.\n\nAcné vulgar comedoniano e inflamatorio, rosácea papulopustulosa e hiperpigmentación postinflamatoria. El ácido azelaico al 15% normaliza la queratinización folicular, aporta acción antibacteriana frente a Cutibacterium acnes, reduce la inflamación y actúa como inhibidor competitivo de la tirosinasa, con efecto despigmentante selectivo sobre melanocitos hiperactivos.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez al día la primera semana para evaluar tolerancia; luego 2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 4 semanas en acné y rosácea; en hiperpigmentación, 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEs esperable ardor, prurito y eritema transitorio durante las primeras semanas, que suele ceder con el uso continuado. A diferencia de la hidroquinona, no conlleva riesgo de ocronosis y es seguro en embarazo y lactancia. Evitar en piel con heridas abiertas o dermatitis activa. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Despigmentantes"
+  },
+  {
+   "Referencia Interna": "MP0079",
+   "Nombre": "Formula Magistral - Clobetasol 0.05% Acido Salicilico 3% Crema 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Salicilico 3% + Clobetasol 0.06%",
+   "Indicación": "Crema queratolítica y antiinflamatoria de alta potencia.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias resistentes con componente hiperqueratósico, como psoriasis en placas. El ácido salicílico aporta acción queratolítica, desobstruyendo la hiperqueratosis y facilitando la penetración; el clobetasol controla la inflamación e hiperproliferación cutánea.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, telangiectasias y taquifilaxia. No usar en cara ni pliegues sin indicación médica expresa. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Corticoides / Dermatitis"
+  },
+  {
+   "Referencia Interna": "MP0089",
+   "Nombre": "Formula Magistral - Clobetasol 0.06% Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
+   "Indicación": "Crema antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Corticoides / Dermatitis"
+  },
+  {
+   "Referencia Interna": "MP0688",
+   "Nombre": "Formula Magistral - Tacrolimus 0.03% Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.03%",
+   "Indicación": "Crema de tacrolimus al 0.03% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  },
+  {
+   "Referencia Interna": "MP0612",
+   "Nombre": "Formula Magistral - Tacrolimus 0.03% Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.03%",
+   "Indicación": "Gel de tacrolimus al 0.03% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  },
+  {
+   "Referencia Interna": "MP0845",
+   "Nombre": "Formula Magistral - Tacrolimus 0.03% Ungüento x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Ungüento",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.03%",
+   "Indicación": "Ungüento de tacrolimus al 0.03% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  },
+  {
+   "Referencia Interna": "MP0357",
+   "Nombre": "Formula Magistral - Tacrolimus 0.1% Ungüento x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Ungüento",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.1%",
+   "Indicación": "Ungüento de tacrolimus, concentración estándar para adultos.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica moderada a severa en adultos, como alternativa a corticoides tópicos. El tacrolimus, en su concentración comercial máxima de referencia, es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo y controlando la inflamación en dermatitis atópica.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. Esta concentración (0.1%) es exclusiva para adultos; no usar en niños, para quienes se reserva la concentración 0.03%.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  }
+ ]
+}

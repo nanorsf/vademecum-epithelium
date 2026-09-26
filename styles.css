@@ -261,6 +261,13 @@ body {
     line-height: 1.4;
 }
 
+.home-saludo {
+    display: block;
+    color: #1552a8;
+    font-size: 20px;
+    margin-bottom: 4px;
+}
+
 /* BOTÓN LO NUEVO */
 .btn-nuevo {
     padding: 10px 16px;
@@ -596,6 +603,85 @@ body {
     color: #6b3a0c;
 }
 
+/* ===== MI PORTAFOLIO: tema azul ===== */
+#portScreen .header {
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='120' viewBox='0 0 220 120'%3E%3Cg fill='none' stroke='white' stroke-opacity='0.22' stroke-width='1.4' stroke-linejoin='round'%3E%3Cpath d='M40 18l17 10v20l-17 10-17-10V28z'/%3E%3Cpath d='M40 25l11 6.5v13L40 51l-11-6.5v-13z' stroke-dasharray='3 3'/%3E%3Cpath d='M57 28l16-9M40 58v14M73 19l14 8'/%3E%3Ccircle cx='87' cy='27' r='3.5'/%3E%3Ccircle cx='40' cy='75' r='3'/%3E%3Cpath d='M150 14h14M153 14v22l-14 26a4 4 0 0 0 3.5 6h29a4 4 0 0 0 3.5-6l-14-26V14'/%3E%3Cpath d='M145 52h32'/%3E%3Cpath d='M112 78h8M114 78v18a2 2 0 0 0 4 0V78M113 72h6v6h-6z'/%3E%3Cpath d='M116 104c-3 4-3 7 0 7s3-3 0-7z'/%3E%3Cpath d='M190 90c-5 7-5 12 0 12s5-5 0-12z'/%3E%3Cpath d='M14 100c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Ccircle cx='70' cy='100' r='5'/%3E%3Ccircle cx='88' cy='92' r='3'/%3E%3Cpath d='M75 98l9-4'/%3E%3C/g%3E%3C/svg%3E") repeat,
+        radial-gradient(circle at 85% 20%, rgba(120, 190, 255, 0.55) 0%, transparent 45%),
+        linear-gradient(120deg, #0b2f6e 0%, #1557b8 50%, #3d8fe8 100%);
+    background-size: 170px 93px, auto, auto;
+    background-position: 30px 6px, 0 0, 0 0;
+}
+
+#portScreen .header::before {
+    background: linear-gradient(90deg, rgba(5, 25, 70, 0.55) 0%, transparent 60%);
+}
+
+#portScreen {
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='200' viewBox='0 0 240 200'%3E%3Cg fill='none' stroke='%231e63c4' stroke-opacity='0.09' stroke-width='1.5' stroke-linejoin='round'%3E%3Cpath d='M50 30l20 11.5v23L50 76 30 64.5v-23z'/%3E%3Cpath d='M50 38l13 7.5v15L50 68l-13-7.5v-15z' stroke-dasharray='3 3'/%3E%3Cpath d='M70 41.5l18-10M50 76v16'/%3E%3Ccircle cx='92' cy='29' r='4'/%3E%3Ccircle cx='50' cy='96' r='3.5'/%3E%3Cpath d='M165 20h16M168 20v26l-16 30a4 4 0 0 0 3.5 6h35a4 4 0 0 0 3.5-6l-16-30V20'/%3E%3Cpath d='M158 64h38'/%3E%3Cpath d='M120 130h10M122 130v22a3 3 0 0 0 6 0v-22M121 122h8v8h-8z'/%3E%3Cpath d='M125 162c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Cpath d='M205 140c-6 8-6 14 0 14s6-6 0-14z'/%3E%3Cpath d='M25 150c-5 6-5 11 0 11s5-5 0-11z'/%3E%3Ccircle cx='75' cy='175' r='6'/%3E%3Ccircle cx='97' cy='166' r='4'/%3E%3Cpath d='M81 173l12-5'/%3E%3C/g%3E%3C/svg%3E") repeat,
+        radial-gradient(circle at 100% 0%, rgba(120, 190, 255, 0.14) 0%, transparent 35%),
+        linear-gradient(180deg, #edf4fd 0%, #f6f9fe 50%, #edf4fd 100%);
+    background-size: 240px 200px, auto, auto;
+    background-attachment: local, local, local;
+}
+
+#portScreen .producto-card {
+    border-left-color: #1e63c4;
+    background: linear-gradient(135deg, #ffffff 70%, #e6f0fc 100%);
+}
+
+#portScreen .producto-card h3 {
+    color: #1552a8;
+}
+
+#portScreen .filters input,
+#portScreen .filters select {
+    border-color: #c9dbf3;
+}
+
+#portScreen .filters input:focus,
+#portScreen .filters select:focus {
+    border-color: #1e63c4;
+    box-shadow: 0 0 5px rgba(30, 99, 196, 0.35);
+}
+
+.home-btn.home-btn-port {
+    border-left-color: #1e63c4;
+    background: linear-gradient(135deg, #ffffff 60%, #e6f0fc 100%);
+}
+
+.home-btn.home-btn-port svg {
+    background: linear-gradient(135deg, #0b2f6e, #3d8fe8);
+}
+
+.home-btn.home-btn-port .home-btn-text strong {
+    color: #12458f;
+}
+
+.modal-content.theme-port {
+    border-top-color: #1e63c4;
+    background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='200' viewBox='0 0 240 200'%3E%3Cg fill='none' stroke='%231e63c4' stroke-opacity='0.09' stroke-width='1.5' stroke-linejoin='round'%3E%3Cpath d='M50 30l20 11.5v23L50 76 30 64.5v-23z'/%3E%3Cpath d='M50 38l13 7.5v15L50 68l-13-7.5v-15z' stroke-dasharray='3 3'/%3E%3Cpath d='M70 41.5l18-10M50 76v16'/%3E%3Ccircle cx='92' cy='29' r='4'/%3E%3Ccircle cx='50' cy='96' r='3.5'/%3E%3Cpath d='M165 20h16M168 20v26l-16 30a4 4 0 0 0 3.5 6h35a4 4 0 0 0 3.5-6l-16-30V20'/%3E%3Cpath d='M158 64h38'/%3E%3Cpath d='M120 130h10M122 130v22a3 3 0 0 0 6 0v-22M121 122h8v8h-8z'/%3E%3Cpath d='M125 162c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Cpath d='M205 140c-6 8-6 14 0 14s6-6 0-14z'/%3E%3Cpath d='M25 150c-5 6-5 11 0 11s5-5 0-11z'/%3E%3Ccircle cx='75' cy='175' r='6'/%3E%3Ccircle cx='97' cy='166' r='4'/%3E%3Cpath d='M81 173l12-5'/%3E%3C/g%3E%3C/svg%3E") repeat,
+        radial-gradient(circle at 100% 0%, rgba(120, 190, 255, 0.16) 0%, transparent 40%),
+        linear-gradient(180deg, #e9f1fc 0%, #ffffff 35%, #f5f8fe 100%);
+    background-size: 240px 200px, auto, auto;
+}
+
+.modal-content.theme-port #detailContent h2 {
+    color: #1552a8;
+}
+
+.modal-content.theme-port #detailContent > strong {
+    color: #12458f;
+    border-bottom-color: rgba(30, 99, 196, 0.25);
+}
+
+.modal-content.theme-port .producto-label {
+    background: #dbe8fa;
+    color: #0b2f6e;
+}
+
 /* ===== LO NUEVO: tema fucsia-violeta ===== */
 .btn-nuevo.active {
     background: linear-gradient(120deg, #6a2bd8, #d63384);
@@ -604,7 +690,8 @@ body {
     box-shadow: 0 4px 14px rgba(214, 51, 132, 0.35);
 }
 
-#mainScreen.modo-nuevo .header {
+#mainScreen.modo-nuevo .header,
+#portScreen.modo-nuevo .header {
     background:
         url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='120' viewBox='0 0 220 120'%3E%3Cg fill='none' stroke='white' stroke-opacity='0.22' stroke-width='1.4' stroke-linejoin='round'%3E%3Cpath d='M40 18l17 10v20l-17 10-17-10V28z'/%3E%3Cpath d='M40 25l11 6.5v13L40 51l-11-6.5v-13z' stroke-dasharray='3 3'/%3E%3Cpath d='M57 28l16-9M40 58v14M73 19l14 8'/%3E%3Ccircle cx='87' cy='27' r='3.5'/%3E%3Ccircle cx='40' cy='75' r='3'/%3E%3Cpath d='M150 14h14M153 14v22l-14 26a4 4 0 0 0 3.5 6h29a4 4 0 0 0 3.5-6l-14-26V14'/%3E%3Cpath d='M145 52h32'/%3E%3Cpath d='M112 78h8M114 78v18a2 2 0 0 0 4 0V78M113 72h6v6h-6z'/%3E%3Cpath d='M116 104c-3 4-3 7 0 7s3-3 0-7z'/%3E%3Cpath d='M190 90c-5 7-5 12 0 12s5-5 0-12z'/%3E%3Cpath d='M14 100c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Ccircle cx='70' cy='100' r='5'/%3E%3Ccircle cx='88' cy='92' r='3'/%3E%3Cpath d='M75 98l9-4'/%3E%3C/g%3E%3C/svg%3E") repeat,
         radial-gradient(circle at 85% 20%, rgba(255, 120, 190, 0.55) 0%, transparent 45%),
@@ -613,11 +700,13 @@ body {
     background-position: 30px 6px, 0 0, 0 0;
 }
 
-#mainScreen.modo-nuevo .header::before {
+#mainScreen.modo-nuevo .header::before,
+#portScreen.modo-nuevo .header::before {
     background: linear-gradient(90deg, rgba(50, 15, 110, 0.55) 0%, transparent 60%);
 }
 
-#mainScreen.modo-nuevo {
+#mainScreen.modo-nuevo,
+#portScreen.modo-nuevo {
     background:
         url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='200' viewBox='0 0 240 200'%3E%3Cg fill='none' stroke='%23b0307a' stroke-opacity='0.09' stroke-width='1.5' stroke-linejoin='round'%3E%3Cpath d='M50 30l20 11.5v23L50 76 30 64.5v-23z'/%3E%3Cpath d='M50 38l13 7.5v15L50 68l-13-7.5v-15z' stroke-dasharray='3 3'/%3E%3Cpath d='M70 41.5l18-10M50 76v16'/%3E%3Ccircle cx='92' cy='29' r='4'/%3E%3Ccircle cx='50' cy='96' r='3.5'/%3E%3Cpath d='M165 20h16M168 20v26l-16 30a4 4 0 0 0 3.5 6h35a4 4 0 0 0 3.5-6l-16-30V20'/%3E%3Cpath d='M158 64h38'/%3E%3Cpath d='M120 130h10M122 130v22a3 3 0 0 0 6 0v-22M121 122h8v8h-8z'/%3E%3Cpath d='M125 162c-4 5-4 9 0 9s4-4 0-9z'/%3E%3Cpath d='M205 140c-6 8-6 14 0 14s6-6 0-14z'/%3E%3Cpath d='M25 150c-5 6-5 11 0 11s5-5 0-11z'/%3E%3Ccircle cx='75' cy='175' r='6'/%3E%3Ccircle cx='97' cy='166' r='4'/%3E%3Cpath d='M81 173l12-5'/%3E%3C/g%3E%3C/svg%3E") repeat,
         radial-gradient(circle at 100% 0%, rgba(214, 51, 132, 0.12) 0%, transparent 35%),
@@ -627,13 +716,17 @@ body {
 }
 
 #mainScreen .producto-card.es-nuevo,
-#mainScreen.modo-nuevo .producto-card {
+#portScreen .producto-card.es-nuevo,
+#mainScreen.modo-nuevo .producto-card,
+#portScreen.modo-nuevo .producto-card {
     border-left-color: #c02e8a;
     background: linear-gradient(135deg, #ffffff 70%, #fbeaf5 100%);
 }
 
 #mainScreen .producto-card.es-nuevo h3,
-#mainScreen.modo-nuevo .producto-card h3 {
+#portScreen .producto-card.es-nuevo h3,
+#mainScreen.modo-nuevo .producto-card h3,
+#portScreen.modo-nuevo .producto-card h3 {
     color: #8e2bb8;
 }
 
