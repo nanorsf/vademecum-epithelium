@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0350",
    "Nombre": "Agualips Labial x 4.5 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Protectores Solares",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Shapstick",
    "Tamaño": "4.5",
@@ -12,13 +13,13 @@
    "Componentes": "Aceite de Almendras + Aceite de Castor + Aceite de Olivas + Filtro UVA - UVB + Manteca de Cacao + Mantequilla de Karite + Vitamina E",
    "Indicación": "Barra labial hidratante con fotoprotección.\n\nLabios secos, agrietados o expuestos a sol y viento, y queilitis leve. Manteca de cacao, mantequilla de karité y los aceites vegetales (almendras, ricino, oliva) forman una película oclusiva que restaura y mantiene la barrera labial; el sistema de filtros UVA/UVB aporta fotoprotección; la vitamina E complementa con acción antioxidante.",
    "Dosis Recomendada": "APLICACIÓN: sobre los labios, en cualquier momento del día\nCANTIDAD: una capa fina cubriendo toda la superficie labial\nFRECUENCIA: las veces que sea necesario; reaplicar cada 2 horas en caso de exposición solar\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\nNo se especificaron los porcentajes de los componentes en la fórmula.\n\nPRECAUCIONES\nSuspender si aparece ardor o reacción de hipersensibilidad a alguno de los filtros solares. Uso tópico externo únicamente; evitar la ingesta deliberada del producto.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Protectores Solares"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0536",
    "Nombre": "Bexalc Emulsion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "120",
@@ -26,13 +27,13 @@
    "Componentes": "Alcanfor 0.05% + Clobetasol 0.1% + Mentol 0.5% + Vitamina E 1%",
    "Indicación": "Emulsión antiinflamatoria y antipruriginosa de alta potencia.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias con prurito marcado: eccema, dermatitis de contacto y psoriasis leve. El clobetasol controla de forma potente la inflamación y la hiperproliferación cutánea; el alcanfor y el mentol generan efecto refrescante y antipruriginoso inmediato; la vitamina E aporta acción antioxidante.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está duplicado respecto a su concentración máxima de referencia (0.1% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. El mentol puede producir sensación de frío intenso sobre piel erosionada. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0075",
    "Nombre": "Biocor D Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -40,13 +41,13 @@
    "Componentes": "Acido Fusidico 2% + Desonida 0.05%",
    "Indicación": "Crema antibacteriana y antiinflamatoria de baja potencia.\n\nDermatosis inflamatorias leves con sobreinfección bacteriana, especialmente en zonas de piel fina (cara, pliegues) o en población pediátrica: eccema impetiginizado leve, dermatitis irritativa sobreinfectada e intertrigo. El ácido fusídico actúa como antibiótico frente a estafilococos y estreptococos; la desonida, corticoide de baja potencia, controla la inflamación y el prurito con menor riesgo de atrofia cutánea que los corticoides potentes.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 5-10 días; reevaluar si no hay mejoría en ese periodo\nRetirar el tratamiento antibiótico una vez controlada la sobreinfección.\n\nPRECAUCIONES\nPor su baja potencia, la desonida es de elección en cara, pliegues y población pediátrica, pero aun así el uso prolongado puede causar atrofia cutánea y telangiectasias; evitar tratamientos continuos sin supervisión. El uso prolongado de ácido fusídico tópico favorece la resistencia bacteriana; limitar la duración del tratamiento. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0074",
    "Nombre": "Biocort D Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -54,13 +55,13 @@
    "Componentes": "Acido Fusidico 2% + Desonida 0.05%",
    "Indicación": "Crema antibacteriana y antiinflamatoria de baja potencia.\n\nDermatosis inflamatorias leves con sobreinfección bacteriana, especialmente en zonas de piel fina (cara, pliegues) o en población pediátrica: eccema impetiginizado leve, dermatitis irritativa sobreinfectada e intertrigo. El ácido fusídico actúa como antibiótico frente a estafilococos y estreptococos; la desonida, corticoide de baja potencia, controla la inflamación y el prurito con menor riesgo de atrofia cutánea que los corticoides potentes.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 5-10 días; reevaluar si no hay mejoría en ese periodo\nRetirar el tratamiento antibiótico una vez controlada la sobreinfección.\n\nPRECAUCIONES\nPor su baja potencia, la desonida es de elección en cara, pliegues y población pediátrica, pero aun así el uso prolongado puede causar atrofia cutánea y telangiectasias; evitar tratamientos continuos sin supervisión. El uso prolongado de ácido fusídico tópico favorece la resistencia bacteriana; limitar la duración del tratamiento. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0071",
    "Nombre": "Biocort I Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -68,13 +69,13 @@
    "Componentes": "Acido Fusidico 2.5%",
    "Indicación": "Crema antibacteriana tópica.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nInfecciones cutáneas superficiales por bacterias grampositivas: impétigo, foliculitis, forunculosis, eritrasma, heridas y quemaduras superficiales sobreinfectadas. El ácido fusídico inhibe la síntesis proteica bacteriana y es especialmente activo frente a Staphylococcus aureus, incluidas cepas resistentes a otros antibióticos tópicos.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca, retirando previamente costras si las hay\nCANTIDAD: capa fina cubriendo la lesión y un margen de piel sana alrededor\nFRECUENCIA: 2-3 veces al día\nDuración estimada del tratamiento: 7-10 días; no prolongar más allá de este periodo sin reevaluación\nPuede cubrirse con apósito si la localización lo requiere.\n\nPRECAUCIONES\nEl ácido fusídico está por encima de su concentración comercial estándar (2.5% vs. 2%), sin evidencia establecida de mayor eficacia clínica. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso prolongado o repetido de ácido fusídico tópico es un factor conocido de resistencia de Staphylococcus aureus, por lo que deben respetarse tratamientos cortos y evitarse el uso profiláctico. Suspender ante reacción de hipersensibilidad. Uso tópico externo únicamente; evitar contacto con ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0144",
    "Nombre": "Derma Expert Emulsion x 240 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "240",
@@ -82,13 +83,13 @@
    "Componentes": "Dimeticona 3% + Lanolina 0.5% + Simeticona 3%",
    "Indicación": "Emulsión protectora de barrera cutánea.\n\nProtección de la piel frente a la humedad y la fricción, en dermatitis del pañal, intertrigo y zonas de piel expuestas a maceración. La dimeticona y la silicona forman una película protectora no oclusiva que repele la humedad; la lanolina aporta emoliencia complementaria.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona a proteger\nFRECUENCIA: en cada cambio de pañal o 2-3 veces al día\nDuración estimada del tratamiento: uso continuo como protección de mantenimiento\n\nPRECAUCIONES\nLa lanolina es una causa conocida de dermatitis alérgica de contacto en pacientes sensibilizados. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0090",
    "Nombre": "Dermo D Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -96,13 +97,13 @@
    "Componentes": "Desonida 0.05% + Vitamina E 2%",
    "Indicación": "Crema/emulsión antiinflamatoria de baja potencia con antioxidante.\n\nDermatosis inflamatorias leves: dermatitis atópica leve, dermatitis de contacto y eccema leve. La desonida, corticoide de baja potencia, controla la inflamación y el prurito; la vitamina E aporta acción antioxidante y emoliente.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nAunque la desonida es un corticoide de baja potencia, el uso continuo prolongado puede causar atrofia cutánea; evitar tratamientos continuos sin supervisión.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0140",
    "Nombre": "Dermo D Emulsion x 100 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "100",
@@ -110,13 +111,13 @@
    "Componentes": "Desonida 0.05% + Vitamina E 2%",
    "Indicación": "Crema/emulsión antiinflamatoria de baja potencia con antioxidante.\n\nDermatosis inflamatorias leves: dermatitis atópica leve, dermatitis de contacto y eccema leve. La desonida, corticoide de baja potencia, controla la inflamación y el prurito; la vitamina E aporta acción antioxidante y emoliente.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nAunque la desonida es un corticoide de baja potencia, el uso continuo prolongado puede causar atrofia cutánea; evitar tratamientos continuos sin supervisión.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0086",
    "Nombre": "Fisio DA Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -124,13 +125,13 @@
    "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0587",
    "Nombre": "Fisio DA Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -138,13 +139,13 @@
    "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0540",
    "Nombre": "Fisio DA Emulsion x 100 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "100",
@@ -152,13 +153,13 @@
    "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
    "Indicación": "Emulsión antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0584",
    "Nombre": "Fisio DA Emulsion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Tapa",
    "Tamaño": "60",
@@ -166,13 +167,13 @@
    "Componentes": "Furoato de Mometasona 0.15% + Vitamina E 2%",
    "Indicación": "Emulsión antiinflamatoria de potencia media con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias que responden a corticoides de potencia media: dermatitis atópica, dermatitis de contacto, eccema y psoriasis leve a moderada. El furoato de mometasona controla la inflamación, el prurito y la hiperproliferación cutánea; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2-4 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl furoato de mometasona está por encima de su concentración comercial de referencia (0.15% vs. 0.1%), sin evidencia clara de mayor eficacia por encima de ese nivel. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El uso continuo prolongado o en grandes superficies puede causar atrofia cutánea y telangiectasias, especialmente en cara y pliegues. Contraindicado en infecciones cutáneas virales o micóticas no tratadas. Evitar en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0233",
    "Nombre": "Hidex Rollon x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Desodorantes",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Rollon",
    "Tamaño": "60",
@@ -180,13 +181,13 @@
    "Componentes": "Clorhidroxido Aluminio - Zirconio 18% + Irgasan (Triclosan) 0.4%",
    "Indicación": "Antitranspirante clínico en rollon.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nHiperhidrosis axilar leve a moderada. El clorhidróxido de aluminio-zirconio forma un tapón temporal en el conducto de las glándulas sudoríparas ecrinas, reduciendo la sudoración; el irgasán aporta acción antibacteriana complementaria, reduciendo el olor asociado a la descomposición bacteriana del sudor.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca, preferiblemente de noche (las glándulas sudoríparas están menos activas y el producto tiene más tiempo de acción antes del lavado matutino)\nCANTIDAD: una aplicación cubriendo toda la zona axilar\nFRECUENCIA: 1 vez al día, o según necesidad\nDuración estimada del tratamiento: uso continuo según necesidad de control de la sudoración\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.4% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. No aplicar sobre piel recién depilada o irritada, por mayor riesgo de irritación. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Desodorantes"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0347",
    "Nombre": "Hidex Talco x 100 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Desodorantes",
    "Forma Farmacéutica": "Talco",
    "Presentación Farmacéutica": "Talquera",
    "Tamaño": "100",
@@ -194,13 +195,13 @@
    "Componentes": "Clorhidroxido Aluminio - Zirconio 25% + Irgasan (Triclosan) 0.8% + Alantoina 0.2% + Terbinafina 2%",
    "Indicación": "Antitranspirante y antimicótico en talco.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nHiperhidrosis con maceración y riesgo de sobreinfección fúngica en pliegues (axilas, pies). El clorhidróxido de aluminio-zirconio reduce la sudoración; la terbinafina aporta acción antifúngica frente a dermatofitos y levaduras; el irgasán complementa como antiséptico; la alantoína calma la piel; el talco absorbe la humedad residual.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas para el componente antifúngico; el uso antitranspirante puede continuarse según necesidad\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.8% vs. 0.3% de límite regulatorio histórico), y la terbinafina está duplicada respecto a su concentración comercial estándar (2% vs. 1%). Ambos exceden su referencia y su uso depende de la valoración médica que se realice y de la experiencia del médico tratante — mayor riesgo de irritación y sensibilización por el irgasán, y de dermatitis de contacto por la terbinafina en esta concentración. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Desodorantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0327",
    "Nombre": "Hindex Locion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Desodorantes",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "120",
@@ -208,13 +209,13 @@
    "Componentes": "Clorhidroxido Aluminio - Zirconio 25% + Irgasan (Triclosan) 0.6%",
    "Indicación": "Antitranspirante clínico en loción.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nHiperhidrosis axilar moderada a severa. El clorhidróxido de aluminio-zirconio, en concentración de uso clínico reforzado, forma un tapón temporal en el conducto de las glándulas sudoríparas ecrinas, reduciendo la sudoración de forma más intensa; el irgasán aporta acción antibacteriana complementaria.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca, preferiblemente de noche\nCANTIDAD: cantidad suficiente para cubrir toda la zona axilar\nFRECUENCIA: 1 vez al día, o según necesidad\nDuración estimada del tratamiento: uso continuo según necesidad de control de la sudoración\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. No aplicar sobre piel recién depilada o irritada. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Desodorantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0836",
    "Nombre": "Hydro Expert Crema x 500 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "500",
@@ -222,13 +223,13 @@
    "Componentes": "Aceite Mineral + Agua Purificada + Alcohol Cetoestearilico + Dimeticona + Irgasan (Triclosan) + Lauril Sulfato de Sodio + Propilenglicol + Vaselina",
    "Indicación": "Crema humectante con acción antimicrobiana.\n\nXerosis y piel seca con tendencia a la colonización bacteriana o a sobreinfección leve. La vaselina, el aceite mineral y la dimeticona forman una película oclusiva que reduce la pérdida transepidérmica de agua; el propilenglicol actúa como humectante; el irgasán (triclosán) aporta acción antimicrobiana de amplio espectro; el alcohol cetoestearílico y el lauril sulfato de sodio actúan como emulsionantes de la base.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-3 veces al día según el grado de sequedad\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\nNo se especificaron los porcentajes de los componentes en la fórmula.\n\nPRECAUCIONES\nNo fue posible verificar la concentración del irgasán (triclosán) contra su límite de uso seguro (máximo 0.3%) al no estar especificada en la fórmula; se recomienda documentar ese dato. El triclosán ha sido objeto de restricciones regulatorias por preocupación sobre resistencia antimicrobiana y disrupción endocrina, por lo que su uso en aplicación prolongada debe estar justificado. El lauril sulfato de sodio puede resultar irritante en pieles muy sensibles con exposición prolongada. La combinación de oclusivos puede ser comedogénica en pieles con tendencia acneica. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Estrategico"
   },
   {
    "Referencia Interna": "MP0357",
    "Nombre": "Inmuno T 0.1% Ungüento x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -236,13 +237,13 @@
    "Componentes": "Tacrolimus 0.1%",
    "Indicación": "Ungüento de tacrolimus, concentración estándar para adultos.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica moderada a severa en adultos, como alternativa a corticoides tópicos. El tacrolimus, en su concentración comercial máxima de referencia, es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo y controlando la inflamación en dermatitis atópica.",
    "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. Esta concentración (0.1%) es exclusiva para adultos; no usar en niños, para quienes se reserva la concentración 0.03%.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Otras Preparaciones Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0845",
    "Nombre": "Inmuno T Ungüento x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -250,13 +251,13 @@
    "Componentes": "Tacrolimus 0.03%",
    "Indicación": "Ungüento de tacrolimus al 0.03% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
    "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Otras Preparaciones Magistrales"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0368",
    "Nombre": "Inmunot 0.05% Ungüento x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -264,13 +265,13 @@
    "Componentes": "Tacrolimus 0.05%",
    "Indicación": "Ungüento de tacrolimus al 0.05% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
    "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Otras Preparaciones Magistrales"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0240",
    "Nombre": "Isoben A Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -278,13 +279,13 @@
    "Componentes": "Adapalene 0.1% + Peróxido de Benzoilo 2.5%",
    "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; el peróxido de benzoilo aporta acción bactericida frente a Cutibacterium acnes.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto. No prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación; su uso prolongado en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0238",
    "Nombre": "Isoben C Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -292,13 +293,13 @@
    "Componentes": "Clindamicina 1% + Peróxido de Benzoilo 2.5%",
    "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 1% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. El peróxido de benzoilo aporta acción bactericida adicional, reduciendo el riesgo de resistencia bacteriana asociado al uso prolongado de clindamicina sola.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0228",
    "Nombre": "Isoben E Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -306,13 +307,13 @@
    "Componentes": "Adapalene 0.1% + Eritromicina 3%",
    "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; la eritromicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). No prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación; su uso prolongado en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0343",
    "Nombre": "Iver Drops Gotas x 15 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "15",
@@ -320,13 +321,13 @@
    "Componentes": "Ivermectina 0.4%",
    "Indicación": "Loción para pediculosis (piojos).\n\nPediculosis capitis (piojos de la cabeza). La ivermectina tópica paraliza y elimina tanto los piojos adultos como parte de las liendres viables, con una única aplicación en la mayoría de los casos, sin necesidad de peinado exhaustivo posterior con liendrera en muchos protocolos.",
    "Dosis Recomendada": "APLICACIÓN: sobre cabello seco y cuero cabelludo\nCANTIDAD: cantidad suficiente para cubrir todo el cuero cabelludo y el cabello seco\nFRECUENCIA: aplicación única\nDuración estimada del tratamiento: dejar actuar 10 minutos y enjuagar con agua tibia\nSi persisten piojos vivos a los 7 días, puede repetirse una segunda aplicación según indicación médica.\nRevisar y tratar simultáneamente a los convivientes con pediculosis activa.\n\nPRECAUCIONES\nEvitar contacto con los ojos. No usar en niños menores de 6 meses. Producto inflamable (vehículo con alcohol): mantener alejado del fuego hasta su completo secado.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Virales- Queratolíticos - Antiparasitarios"
+   "Etiquetas de producto": "Estrategico"
   },
   {
    "Referencia Interna": "MP0526",
    "Nombre": "Kera D Emulsion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Tapa",
    "Tamaño": "30",
@@ -334,13 +335,13 @@
    "Componentes": "Desonida 0.1% + Ketoconazol 2%",
    "Indicación": "Crema/emulsión/loción antiinflamatoria y antimicótica.\n\nDermatitis seborreica y dermatosis con componente inflamatorio y fúngico mixto. La desonida controla la inflamación; el ketoconazol controla la colonización por Malassezia.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas para el brote agudo; reevaluar antes de continuar\n\nPRECAUCIONES\nAunque la desonida es de baja potencia, el uso continuo prolongado puede causar atrofia cutánea; evitar tratamientos continuos sin supervisión.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0293",
    "Nombre": "Ketosal Locion x 100 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Antimicoticos / Antifungicos / Antisepticos",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "100",
@@ -348,13 +349,13 @@
    "Componentes": "Acido Salicilico 3% + Clobetasol 0.025% + Irgasan (Triclosan) 0.8% + Ketoconazol 1%",
    "Indicación": "Loción para dermatosis seborreica del cuero cabelludo.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis seborreica y psoriasis del cuero cabelludo con componente descamativo. El ketoconazol controla la colonización por Malassezia; el ácido salicílico aporta acción queratolítica, ayudando a desprender la escama; el clobetasol, a dosis baja, controla la inflamación asociada; el irgasán complementa como antiséptico de amplio espectro.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre cuero cabelludo limpio y seco o húmedo, según preferencia\nCANTIDAD: cantidad suficiente para cubrir la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 4-6 semanas para el brote agudo; no usar de forma continua e ininterrumpida más allá de este periodo sin reevaluación\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.8% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El clobetasol está por debajo de su concentración estándar (0.025% vs. 0.05%), lo cual reduce el riesgo asociado a corticoides en uso prolongado; aun así, vigilar signos de atrofia o foliculitis con uso continuo.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Antimicoticos / Antifungicos / Antisepticos"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0271",
    "Nombre": "Lidosoft Crema x 10 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "10",
@@ -362,13 +363,13 @@
    "Componentes": "Lidocaina 20% + Procaina 5%",
    "Indicación": "Crema anestésica tópica compuesta.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAnestesia tópica previa a procedimientos dermatológicos menores (depilación láser, procedimientos con aguja, toma de biopsias superficiales, tatuajes). Combina lidocaína y procaína para anestesia tópica previa a procedimientos.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio o bajo indicación médica expresa, sobre piel limpia e íntegra, en el área exacta del procedimiento\nCANTIDAD: capa fina, limitada estrictamente a una sola extremidad o un área limitada equivalente por aplicación\nFRECUENCIA: aplicación única antes del procedimiento (no de uso repetido varias veces al día)\nDuración estimada del tratamiento: dejar actuar 20-45 minutos según indicación específica del profesional, sin exceder el tiempo indicado; retirar el excedente antes de iniciar el procedimiento\nNUNCA cubrir con plástico, film transparente o vendaje oclusivo — esto incrementa drásticamente la absorción y el riesgo de toxicidad sistémica grave.\n\nPRECAUCIONES\nEsta es una preparación anestésica de ALTA CONCENTRACIÓN, muy por encima de las cremas anestésicas comerciales de venta libre (4-5% de lidocaína). Su uso depende estrictamente de la valoración médica que se realice y de la experiencia del médico o profesional tratante — NO es para uso domiciliario libre del paciente. Existen reportes documentados de toxicidad sistémica grave (convulsiones, arritmias cardíacas, paro cardiorrespiratorio, incluyendo casos fatales) por la aplicación de anestésicos tópicos de alta concentración en superficies corporales extensas y, especialmente, bajo oclusión (envoltura plástica) antes de procedimientos como depilación láser. NUNCA aplicar bajo oclusión ni sobre una superficie corporal mayor a la indicada por el profesional. Suspender de inmediato y buscar atención médica urgente ante hormigueo peribucal, sabor metálico, zumbido en los oídos, mareo, habla arrastrada, confusión o cualquier síntoma neurológico o cardíaco — son signos de toxicidad sistémica por anestésico local. No aplicar sobre piel lesionada, mucosas, ni en niños pequeños sin estricta supervisión médica especializada.",
-   "Etiquetas de producto": "Consultorio",
-   "Categoría del Producto": "Anestésicos / Antibioticos / Cicatrizantes"
+   "Etiquetas de producto": "Consultorio"
   },
   {
    "Referencia Interna": "MP0166",
    "Nombre": "Melanocel AHA Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -376,13 +377,13 @@
    "Componentes": "Acido Glicolico 10% + Hidroquinona 4%",
    "Indicación": "Crema despigmentante para hiperpigmentación.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido glicólico exfolia, acelera el recambio del estrato córneo pigmentado y potencia la penetración de la hidroquinona.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico al 10% está en el límite superior para uso domiciliario: es esperable eritema, hormigueo y descamación al inicio del tratamiento. Vigilar signos de dermatitis de contacto u ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0155",
    "Nombre": "Melanocel AHA Gel x 60 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "60",
@@ -390,13 +391,13 @@
    "Componentes": "Acido Glicolico 10% + Acido Salicilico 3% + Aloe Vera 0.3% + Hidroquinona 3%",
    "Indicación": "Gel despigmentante y queratolítico para hiperpigmentación.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares, especialmente cuando coexisten con piel grasa, textura irregular o hiperqueratosis. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido glicólico exfolia y potencia la penetración; el ácido salicílico aporta acción queratolítica y comedolítica, útil en pieles seborreicas; el aloe vera calma la piel frente a la irritación esperable de la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nLa combinación de dos queratolíticos (glicólico y salicílico) aumenta el riesgo de irritación, sequedad y descamación, especialmente durante las primeras semanas. El ácido glicólico al 10% está en el límite superior para uso domiciliario. Vigilar signos de dermatitis de contacto u ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0100",
    "Nombre": "Melanocel ARB Emulsion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "30",
@@ -404,13 +405,13 @@
    "Componentes": "Acido Glicolico 12% + Acido Kojico 4% + Arbutina 5% + Furoato de Mometasona 0.1% + Vitamina E 5%",
    "Indicación": "Emulsión despigmentante (Peeling Suave).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La arbutina al 5% y el ácido kójico inhiben la tirosinasa por vías complementarias; el ácido glicólico al 12% exfolia de forma intensa, acelerando el recambio del estrato córneo pigmentado; el furoato de mometasona controla la irritación asociada a la combinación; la vitamina E aporta acción antioxidante y emoliente.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma progresiva según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico está por encima del límite recomendado para uso domiciliario (12% vs. hasta 10%), lo que aumenta el riesgo de eritema, hormigueo intenso, descamación marcada y quemadura química si no se respeta la pauta de introducción progresiva. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El furoato de mometasona es un corticoide de potencia media: el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0759",
    "Nombre": "Melanocel ARB Emulsion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "60",
@@ -418,13 +419,13 @@
    "Componentes": "Acido Glicolico 12% + Acido Kojico 4% + Arbutina 5% + Furoato de Mometasona 0.1% + Vitamina E 5%",
    "Indicación": "Emulsión despigmentante (Peeling Suave).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La arbutina al 5% y el ácido kójico inhiben la tirosinasa por vías complementarias; el ácido glicólico al 12% exfolia de forma intensa, acelerando el recambio del estrato córneo pigmentado; el furoato de mometasona controla la irritación asociada a la combinación; la vitamina E aporta acción antioxidante y emoliente.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma progresiva según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico está por encima del límite recomendado para uso domiciliario (12% vs. hasta 10%), lo que aumenta el riesgo de eritema, hormigueo intenso, descamación marcada y quemadura química si no se respeta la pauta de introducción progresiva. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El furoato de mometasona es un corticoide de potencia media: el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0180",
    "Nombre": "Melanocel Des Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -432,13 +433,13 @@
    "Componentes": "Desonida 0.1% + Hidroquinona 4% + Acido Retinoico 0.025",
    "Indicación": "Crema/gel despigmentante para melasma (fórmula media).\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. Corresponde al escalón intermedio de una fórmula despigmentante de tipo Kligman: la hidroquinona inhibe la tirosinasa; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; la desonida controla la irritación asociada a la combinación con una potencia intermedia entre la versión suave (hidrocortisona) y la fuerte (clobetasol) de esta misma familia de fórmulas.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Por el contenido de desonida, evitar el uso continuo prolongado sin supervisión. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0150",
    "Nombre": "Melanocel Des Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -446,13 +447,13 @@
    "Componentes": "Desonida 0.1% + Hidroquinona 4% + Acido Retinoico 0.025",
    "Indicación": "Crema/gel despigmentante para melasma (fórmula media).\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. Corresponde al escalón intermedio de una fórmula despigmentante de tipo Kligman: la hidroquinona inhibe la tirosinasa; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; la desonida controla la irritación asociada a la combinación con una potencia intermedia entre la versión suave (hidrocortisona) y la fuerte (clobetasol) de esta misma familia de fórmulas.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Por el contenido de desonida, evitar el uso continuo prolongado sin supervisión. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0182",
    "Nombre": "Melanocel Forte Crema x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -460,13 +461,13 @@
    "Componentes": "Acido Retinoico 0.025% + Clobetasol 0.025% + Hidroquinona 4%",
    "Indicación": "Crema/gel despigmentante para melasma (fórmula fuerte).\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; el clobetasol controla la irritación asociada a la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Por el contenido de clobetasol, evitar el uso continuo prolongado sin supervisión, vigilando signos de atrofia cutánea o telangiectasias. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0268",
    "Nombre": "Melanocel Forte Gel x 15 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "15",
@@ -474,13 +475,13 @@
    "Componentes": "Acido Retinoico 0.025% + Clobetasol 0.025% + Hidroquinona 4%",
    "Indicación": "Crema/gel despigmentante para melasma (fórmula fuerte).\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; el clobetasol controla la irritación asociada a la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEs esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Por el contenido de clobetasol, evitar el uso continuo prolongado sin supervisión, vigilando signos de atrofia cutánea o telangiectasias. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP1048",
    "Nombre": "Melanocel G Emulsion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "60",
@@ -488,13 +489,13 @@
    "Componentes": "Acido Glicolico 12% + Acido Kojico 5% + Acido Salicilico 3% + Acido Tranexamico 5% + Extracto de Hamamelis 1% + Hidroquinona 3%",
    "Indicación": "Emulsión despigmentante y queratolítica (Peeling Suave).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares, especialmente cuando coexisten con piel grasa o textura irregular. La hidroquinona inhibe la tirosinasa; el ácido kójico complementa por la misma vía; el ácido tranexámico bloquea la vía plasmina-melanocito y reduce el componente vascular del melasma; los ácidos glicólico y salicílico exfolian de forma intensa y desobstruyen el folículo; el extracto de hamamelis aporta acción astringente y vascular.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma progresiva según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico está por encima del límite recomendado para uso domiciliario (12% vs. hasta 10%), lo que aumenta el riesgo de eritema, hormigueo intenso, descamación marcada y quemadura química si no se respeta la pauta de introducción progresiva. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El ácido kójico está también por encima de su rango habitual de uso domiciliario (5% vs. 1%-4%), con mayor riesgo de dermatitis de contacto y sensibilización. La combinación de dos queratolíticos incrementa la irritación esperable. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0171",
    "Nombre": "Melanocel H1 Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -502,13 +503,13 @@
    "Componentes": "Acido Citrico 3% + Acido Retinoico 0.025% + Betametasona 0.1% + Hidroquinona 5%",
    "Indicación": "Crema despigmentante para melasma.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. Corresponde a una fórmula despigmentante de tipo Kligman: la hidroquinona inhibe la tirosinasa; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; la betametasona controla la irritación asociada a la combinación; el ácido cítrico aporta acción quelante y antioxidante.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nLa hidroquinona está por encima de su concentración máxima de referencia (5% vs. 4% en formulación magistral), lo que aumenta el riesgo de irritación, dermatitis de contacto y ocronosis exógena con uso prolongado. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Es esperable eritema, sequedad y descamación al inicio por el contenido de ácido retinoico. La betametasona es un corticoide de potencia media-alta: el uso continuo prolongado puede causar atrofia cutánea, telangiectasias y dermatitis perioral, especialmente en rostro — se recomienda uso intermitente y supervisado. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0170",
    "Nombre": "Melanocel H2 Crema x 60 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "60",
@@ -516,13 +517,13 @@
    "Componentes": "Acido Ascorbico 1% + Acido Retinoico 0.015% + Desonida 0.1% + Hidroquinona 7%",
    "Indicación": "Crema despigmentante para melasma.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. Corresponde a una fórmula despigmentante de tipo Kligman modificada: la hidroquinona al 7% inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; la desonida controla la irritación asociada a la combinación; el ácido ascórbico aporta acción antioxidante y despigmentante complementaria.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nLa hidroquinona está por encima de su concentración máxima de referencia (7% vs. 4% en formulación magistral), lo que aumenta el riesgo de irritación, dermatitis de contacto y ocronosis exógena con uso prolongado. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Es esperable eritema, sequedad y descamación al inicio del tratamiento por el contenido de ácido retinoico. Contraindicada en embarazo y lactancia (hidroquinona y ácido retinoico). Por el contenido de desonida, evitar el uso continuo prolongado sin supervisión, vigilando signos de atrofia cutánea o telangiectasias. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0149",
    "Nombre": "Melanocel KOJ Gel x 20 g NOTA: Contiene Acido Kojico por lo que, con el tiempo, puede presentar cambio de color de gel transparente a amarillo",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "20",
@@ -530,13 +531,13 @@
    "Componentes": "Acido Glicolico 12% + Acido Kojico 3% + Hidroquinona 5%",
    "Indicación": "Gel despigmentante (Peeling Suave).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares resistentes. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido kójico complementa por la misma vía; el ácido glicólico al 12% exfolia de forma intensa, acelerando el recambio del estrato córneo pigmentado.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma progresiva según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico está por encima del límite recomendado para uso domiciliario (12% vs. hasta 10%), lo que aumenta el riesgo de eritema, hormigueo intenso, descamación marcada y quemadura química si no se respeta la pauta de introducción progresiva. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. La hidroquinona está además por encima de su concentración máxima de referencia (5% vs. 4% en formulación magistral), con mayor riesgo de irritación, dermatitis de contacto y ocronosis exógena. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación. No combinar con retinoides ni otros exfoliantes en el mismo régimen.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0354",
    "Nombre": "Mineral 50/50 Ungüento x 200 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "200",
@@ -544,13 +545,13 @@
    "Componentes": "Aceite Mineral 50% + Vaselina 50%",
    "Indicación": "Ungüento emoliente oclusivo.\n\nXerosis severa, ictiosis, hiperqueratosis y protección de piel muy seca o fisurada. También se emplea como base o vehículo para preparaciones magistrales. La vaselina y el aceite mineral, en partes iguales, forman una película altamente oclusiva que reduce de forma marcada la pérdida transepidérmica de agua y protege la piel frente a irritantes externos.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia, preferiblemente húmeda tras el baño\nCANTIDAD: capa fina a moderada cubriendo la zona a tratar\nFRECUENCIA: 1-3 veces al día según el grado de sequedad\nDuración estimada del tratamiento: uso continuo como emoliente de mantenimiento\nSu carácter oclusivo puede dejar sensación grasa; se recomienda la aplicación nocturna en zonas extensas.\n\nPRECAUCIONES\nPor su alta oclusividad puede ser comedogénico y favorecer foliculitis o miliaria en zonas de pliegue, oclusión o clima caluroso. Evitar sobre heridas infectadas o exudativas sin evaluación médica previa. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0213",
    "Nombre": "Nail Soft Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -558,13 +559,13 @@
    "Componentes": "Terbinafina 2% + Urea 40%",
    "Indicación": "Crema antifúngica y queratolítica intensiva para onicomicosis.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nOnicomicosis con engrosamiento de la lámina ungueal. La terbinafina actúa como fungicida frente a dermatofitos; la urea al 40% ablanda y facilita la remoción química de la porción de uña engrosada e infectada, mejorando la penetración del antifúngico.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre la uña afectada, limpia y seca\nCANTIDAD: capa generosa cubriendo toda la superficie de la uña, protegiendo la piel circundante\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varias semanas a meses; el debridamiento con urea facilita la penetración desde el inicio\nRetirar la porción de uña ablandada con lima o instrumento adecuado entre aplicaciones.\n\nPRECAUCIONES\nLa terbinafina está al doble de su concentración comercial estándar (2% vs. 1%), sin evidencia clara de mayor eficacia por encima de ese nivel y con mayor riesgo de irritación local. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. La urea al 40% puede causar ardor sobre el reborde periungueal si hay piel fisurada. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Virales- Queratolíticos - Antiparasitarios"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0059",
    "Nombre": "Preb AS Plus Ungüento x 60 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Ungüento",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "60",
@@ -572,13 +573,13 @@
    "Componentes": "Acido Salicilico 3% + Clobetasol 0.1% + Urea 15%",
    "Indicación": "Ungüento queratolítica intensiva y antiinflamatoria de alta potencia.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas con hiperqueratosis marcada y otras dermatosis muy resistentes. El ácido salicílico y la urea al 15% actúan en conjunto como queratolíticos, ablandando y removiendo la escama gruesa; esto facilita la penetración del clobetasol, que controla la inflamación e hiperproliferación de base.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina a moderada según grosor de la placa, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\nPuede ocluirse con vendaje solo bajo indicación médica puntual, dado el mayor riesgo de absorción sistémica.\n\nPRECAUCIONES\nEl clobetasol está duplicado respecto a su concentración máxima de referencia (0.1% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. La combinación de urea y ácido salicílico aumenta significativamente la penetración y absorción sistémica del corticoide, especialmente en piel con barrera comprometida; riesgo de salicilismo si se aplica en áreas extensas. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0089",
    "Nombre": "Preb B Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -586,13 +587,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Crema antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0142",
    "Nombre": "Preb B Emulsion x 100 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "100",
@@ -600,13 +601,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Emulsión antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0536",
    "Nombre": "Preb B Forte Emulsion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "120",
@@ -614,13 +615,13 @@
    "Componentes": "Alcanfor 0.05% + Clobetasol 0.1% + Mentol 0.5% + Vitamina E 1%",
    "Indicación": "Emulsión antiinflamatoria y antipruriginosa de alta potencia.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatosis inflamatorias con prurito marcado: eccema, dermatitis de contacto y psoriasis leve. El clobetasol controla de forma potente la inflamación y la hiperproliferación cutánea; el alcanfor y el mentol generan efecto refrescante y antipruriginoso inmediato; la vitamina E aporta acción antioxidante.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está duplicado respecto a su concentración máxima de referencia (0.1% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. El mentol puede producir sensación de frío intenso sobre piel erosionada. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia sin indicación médica.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0414",
    "Nombre": "Preb B Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -628,13 +629,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Loción antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada, sin oclusión salvo indicación médica expresa\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0052",
    "Nombre": "Preb B Shampoo x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Shampoo",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "120",
@@ -642,13 +643,13 @@
    "Componentes": "Clobetasol 0.06% + Vitamina E 2%",
    "Indicación": "Shampoo antiinflamatoria de alta potencia con antioxidante.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nPsoriasis en placas, dermatitis atópica severa y otras dermatosis inflamatorias resistentes a corticoides de menor potencia. El clobetasol controla la inflamación e hiperproliferación epidérmica; la vitamina E aporta acción antioxidante y ayuda a mitigar el efecto resecante del corticoide sobre la piel.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre cuero cabelludo húmedo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando el cuero cabelludo\nFRECUENCIA: 1-2 veces por semana (no diario, por la alta potencia del clobetasol)\nDuración estimada del tratamiento: no más de 2 semanas continuas; reevaluar antes de repetir ciclo\nDejar actuar 5 minutos antes de enjuagar.\n\nPRECAUCIONES\nEl clobetasol está por encima de su concentración máxima de referencia (0.06% vs. 0.05% estándar). Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Por ser corticoide de clase I, el uso prolongado o en grandes superficies puede causar atrofia cutánea, estrías, telangiectasias y supresión del eje hipotálamo-hipófisis-adrenal. No usar en cara, pliegues, ni en niños pequeños. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Corticoides / Dermatitis"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0305",
    "Nombre": "Propil CL Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -656,13 +657,13 @@
    "Componentes": "Clobetasol 0.05% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética con componente inflamatorio del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; el clobetasol controla la inflamación de base.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está en su concentración de referencia (0.05%): aunque no excede el límite, por ser corticoide de clase I el uso continuo prolongado puede causar atrofia cutánea o foliculitis; se recomienda reevaluación periódica. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0304",
    "Nombre": "Propil DE Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -670,13 +671,13 @@
    "Componentes": "D-Pantenol 0.5% + Dutasteride 0.05% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el dutasteride bloquea la conversión de testosterona a DHT a nivel local; el D-pantenol acondiciona el cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental. El dutasteride tópico conlleva riesgo teórico de absorción sistémica; contraindicado en mujeres embarazadas o en edad fértil que puedan estar embarazadas por riesgo de teratogenicidad. Contraindicado en lactancia.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0270",
    "Nombre": "VPH Film Locion x 15 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "15",
@@ -684,8 +685,7 @@
    "Componentes": "Acido Salicilico 26% + Colodion Elastico",
    "Indicación": "Solución queratolítica cáustica de alta concentración (Peeling Fuerte).\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nCallosidades, verrugas plantares e hiperqueratosis muy marcada. El ácido salicílico al 26%, en base de colodión elástico, ejerce una acción queratolítica intensa por destrucción química directa del tejido hiperqueratósico; el colodión forma una película que mantiene el contacto del ácido con la lesión y protege parcialmente la piel circundante.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: en consultorio o bajo indicación médica expresa, sobre la lesión únicamente\nCANTIDAD: una gota mínima, cubriendo solo la superficie de la lesión, protegiendo la piel sana circundante (ej. con vaselina)\nFRECUENCIA: 1 vez cada 3-7 días, según indicación médica\nDuración estimada del tratamiento: varias aplicaciones hasta la resolución de la lesión; reevaluar periódicamente\nNo aplicar sobre piel sana, mucosas, cara ni genitales.\nPuede requerir remoción del tejido macerado con lima o bisturí entre aplicaciones, por personal entrenado.\n\nPRECAUCIONES\nEl ácido salicílico al 26% es una concentración cáustica de aplicación médica dirigida, no de uso domiciliario extenso. Su uso depende de la valoración médica que se realice y de la experiencia del médico tratante. Riesgo de quemadura química en piel sana por contacto accidental. Contraindicado en pacientes diabéticos o con insuficiencia vascular periférica sin estricta supervisión médica, por el riesgo de úlceras de difícil cicatrización. No aplicar en niños pequeños sin supervisión.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Virales- Queratolíticos - Antiparasitarios"
+   "Etiquetas de producto": "Portafolio"
   }
  ]
 }

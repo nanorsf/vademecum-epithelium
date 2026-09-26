@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0306",
    "Nombre": "Anagexil Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -12,13 +13,13 @@
    "Componentes": "D-Pantenol 5% + Dutasteride 0.05% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el dutasteride bloquea la conversión de testosterona a DHT a nivel local; el D-pantenol acondiciona el cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental. El dutasteride tópico conlleva riesgo teórico de absorción sistémica; contraindicado en mujeres embarazadas o en edad fértil que puedan estar embarazadas por riesgo de teratogenicidad. Contraindicado en lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0734",
    "Nombre": "Formula Magistral - Minoxidil 5% Niacinamida 1% Espuma x 200 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion/Espuma",
    "Presentación Farmacéutica": "Frasco Espumero",
    "Tamaño": "200",
@@ -26,13 +27,13 @@
    "Componentes": "Minoxidil 5% + Nicotinamida- (Niacinamida) 1%",
    "Indicación": "Espuma capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; la niacinamida bloquea procesos inflamatorios locales y mejora la función de barrera del cuero cabelludo.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: media dosis de espuma (aprox. medio dispensador), distribuida en las zonas de mayor caída y masajeada suavemente\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\nDejar secar antes de acostarse para evitar transferencia a la almohada.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental, e irritación o sequedad del cuero cabelludo. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Nuevo"
   },
   {
    "Referencia Interna": "MP0568",
    "Nombre": "Formula Magistral - Pore Reductyl 3% Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -40,13 +41,13 @@
    "Componentes": "Eritromicina 3% + Extracto de Hamamelis 1% + Pore Reductyl 3%",
    "Indicación": "Gel para acné con acción seborreguladora.\n\nAcné vulgar inflamatorio con poros dilatados y piel grasa asociada. La eritromicina actúa como antibiótico frente a Cutibacterium acnes; el Pore Reductyl reduce la apariencia del poro; el extracto de hamamelis aporta acción astringente y antiinflamatoria complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de eritromicina tópica en monoterapia favorece la resistencia bacteriana; se recomienda alternar o combinar con peróxido de benzoilo según criterio médico.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Acné - Rosacea"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0560",
    "Nombre": "Formula Magistral - Whitonyl 3% Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -54,13 +55,13 @@
    "Componentes": "Acido Glicolico 10% + Acido Lactobionico 4% + Alantoina 0.2% + Extracto de Manzanilla 1.5% + Whitonyl 3%",
    "Indicación": "Crema despigmentante e iluminadora sin hidroquinona.\n\nMelasma leve, hiperpigmentación postinflamatoria y falta de luminosidad, en pacientes que requieren un abordaje sin hidroquinona. El Whitonyl es un activo despigmentante de origen marino que actúa sobre la síntesis y transferencia de melanina; el ácido glicólico exfolia y acelera la eliminación del pigmento superficial; el ácido lactobiónico es un PHA que exfolia suavemente y aporta acción antioxidante; alantoína y extracto de manzanilla calman la piel.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; apto para uso prolongado de mantenimiento\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl ácido glicólico al 10% está en el límite superior para uso domiciliario: es esperable eritema, hormigueo y descamación al inicio del tratamiento. Al no contener hidroquinona ni retinoides, presenta buen perfil de tolerancia y no conlleva riesgo de ocronosis exógena. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Nuevo",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Nuevo"
   },
   {
    "Referencia Interna": "MP0836",
    "Nombre": "Hidratante Crema x 500 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "500",
@@ -68,8 +69,7 @@
    "Componentes": "Aceite Mineral + Agua Purificada + Alcohol Cetoestearilico + Dimeticona + Irgasan (Triclosan) + Lauril Sulfato de Sodio + Propilenglicol + Vaselina",
    "Indicación": "Crema humectante con acción antimicrobiana.\n\nXerosis y piel seca con tendencia a la colonización bacteriana o a sobreinfección leve. La vaselina, el aceite mineral y la dimeticona forman una película oclusiva que reduce la pérdida transepidérmica de agua; el propilenglicol actúa como humectante; el irgasán (triclosán) aporta acción antimicrobiana de amplio espectro; el alcohol cetoestearílico y el lauril sulfato de sodio actúan como emulsionantes de la base.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-3 veces al día según el grado de sequedad\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\nNo se especificaron los porcentajes de los componentes en la fórmula.\n\nPRECAUCIONES\nNo fue posible verificar la concentración del irgasán (triclosán) contra su límite de uso seguro (máximo 0.3%) al no estar especificada en la fórmula; se recomienda documentar ese dato. El triclosán ha sido objeto de restricciones regulatorias por preocupación sobre resistencia antimicrobiana y disrupción endocrina, por lo que su uso en aplicación prolongada debe estar justificado. El lauril sulfato de sodio puede resultar irritante en pieles muy sensibles con exposición prolongada. La combinación de oclusivos puede ser comedogénica en pieles con tendencia acneica. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Estrategico",
-   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+   "Etiquetas de producto": "Estrategico"
   }
  ]
 }

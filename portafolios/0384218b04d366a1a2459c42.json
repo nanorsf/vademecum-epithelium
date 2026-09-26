@@ -5,6 +5,7 @@
    "Referencia Interna": "MP1015",
    "Nombre": "Formula Magistral - Minoxidil 7% Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
    "Tamaño": "60",
@@ -12,8 +13,7 @@
    "Componentes": "Minoxidil 7%",
    "Indicación": "Loción capilar para alopecia androgenética, concentración reforzada.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAlopecia androgenética resistente a la concentración estándar de minoxidil. El minoxidil estimula el crecimiento folicular prolongando la fase anágena.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil está por encima de su concentración máxima aprobada (7% vs. 5% estándar) — no hay evidencia sólida de mayor eficacia por encima de 5%, y sí mayor riesgo de efectos adversos como hipertricosis facial por contacto accidental, irritación local, taquicardia o mareo por mayor absorción sistémica potencial. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   }
  ]
 }

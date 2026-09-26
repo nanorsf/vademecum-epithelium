@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0285",
    "Nombre": "Antifoliculitis Locion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Salicilico 2% + Clindamicina 2% + Hidrocortisona 1%",
    "Indicación": "Loción para foliculitis.\n\nFoliculitis bacteriana superficial. El ácido salicílico aporta acción queratolítica, desobstruyendo el folículo; la clindamicina actúa como antibiótico frente a la flora bacteriana causante (principalmente Staphylococcus aureus); la hidrocortisona controla la inflamación y el prurito asociados.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 7-10 días; reevaluar si no hay mejoría en ese periodo\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. Por el contenido de hidrocortisona, evitar el uso continuo prolongado sin supervisión.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0259",
    "Nombre": "GP - 09 Locion x 60 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -26,13 +27,13 @@
    "Componentes": "Acido Retinoico 0.015% + Clobetasol 0.015% + Minoxidil 5%",
    "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Capilares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0784",
    "Nombre": "Queatolitico AHA Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -40,8 +41,7 @@
    "Componentes": "Acido Glicolico 10% + Acido Salicilico 3% + Aloe Vera 0.3% + Hidroquinona 3%",
    "Indicación": "Gel despigmentante y queratolítico para hiperpigmentación.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares, especialmente cuando coexisten con piel grasa, textura irregular o hiperqueratosis. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido glicólico exfolia y potencia la penetración; el ácido salicílico aporta acción queratolítica y comedolítica, útil en pieles seborreicas; el aloe vera calma la piel frente a la irritación esperable de la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nLa combinación de dos queratolíticos (glicólico y salicílico) aumenta el riesgo de irritación, sequedad y descamación, especialmente durante las primeras semanas. El ácido glicólico al 10% está en el límite superior para uso domiciliario. Vigilar signos de dermatitis de contacto u ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Despigmentantes"
+   "Etiquetas de producto": "Portafolio"
   }
  ]
 }

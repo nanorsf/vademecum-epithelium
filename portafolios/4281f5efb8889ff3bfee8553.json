@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0148",
    "Nombre": "Uñ1 Esmalte x 15 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Corticoides / Dermatitis",
    "Forma Farmacéutica": "Esmalte",
    "Presentación Farmacéutica": "Frasco Esmalte",
    "Tamaño": "15",
@@ -12,13 +13,13 @@
    "Componentes": "Aceite de Ajo 1% + Vitamina E 5%",
    "Indicación": "Esmalte fortalecedor para uñas frágiles.\n\nOnicofragilidad, uñas quebradizas, descamadas o con crecimiento lento. El aceite de ajo aporta azufre orgánico, que participa en la formación de queratina de la lámina ungueal; la vitamina E actúa como antioxidante y emoliente, flexibilizando la uña y el reborde periungueal.",
    "Dosis Recomendada": "APLICACIÓN: sobre la uña limpia, seca y libre de esmalte cosmético\nCANTIDAD: una capa fina cubriendo la lámina ungueal y el reborde periungueal\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 3-6 meses; el resultado depende del ciclo de crecimiento de la uña\nPuede aplicarse como base bajo esmalte cosmético.\n\nPRECAUCIONES\nSuspender si aparece irritación o reacción de hipersensibilidad en el reborde periungueal. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Uñas"
+   "Etiquetas de producto": "Foco"
   },
   {
    "Referencia Interna": "MP0512",
    "Nombre": "Uñ4 Ciclopiroxolamina Locion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Antimicoticos / Antifungicos / Antisepticos",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "30",
@@ -26,8 +27,7 @@
    "Componentes": "Ciclopiroxolamina 1%",
    "Indicación": "Loción antimicótica.\n\nPitiriasis versicolor, dermatofitosis (tiña) y candidiasis cutánea superficial. La ciclopiroxolamina es un antifúngico de amplio espectro con actividad frente a dermatofitos, levaduras y algunos mohos, y aporta además cierta actividad antiinflamatoria y antibacteriana.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada y bordes adyacentes\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: 2-4 semanas; continuar unos días después de la resolución visible para evitar recaída\n\nPRECAUCIONES\nPuede causar irritación o ardor leve al inicio. Evitar contacto con ojos y mucosas. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Antimicoticos / Antifungicos / Antisepticos"
+   "Etiquetas de producto": "Portafolio"
   }
  ]
 }

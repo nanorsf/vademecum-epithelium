@@ -5,6 +5,7 @@
    "Referencia Interna": "MP0702",
    "Nombre": "Aclarante 5 Crema x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Despigmentantes",
    "Forma Farmacéutica": "Crema",
    "Presentación Farmacéutica": "Pote",
    "Tamaño": "30",
@@ -12,13 +13,13 @@
    "Componentes": "Acido Retinoico 0.05% + Furoato de Mometasona 0.1% + Hidroquinona 4%",
    "Indicación": "Crema despigmentante para melasma.\n\nMelasma, hiperpigmentación postinflamatoria y lentigos solares. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido retinoico acelera el recambio celular y potencia la penetración de la hidroquinona; el furoato de mometasona controla la irritación asociada a la combinación.",
    "Dosis Recomendada": "APLICACIÓN: solo de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: inicial 2-3 veces por semana la primera semana para evaluar tolerancia; aumentar a diario según respuesta\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nEl furoato de mometasona está en su concentración comercial estándar (0.1%): el uso continuo prolongado en rostro puede causar atrofia cutánea, telangiectasias y dermatitis perioral — se recomienda uso intermitente y supervisado. Es esperable eritema y descamación leve por el ácido retinoico. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0615",
    "Nombre": "Prot-Sol Locion x 120 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Protectores Solares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Cilindro Bala",
    "Tamaño": "120",
@@ -26,13 +27,13 @@
    "Componentes": "Extracto de Te Verde + Octilmetoxicinamato + Tinosorb M + Tinosorb S + Uvinul A Plus Granular + Uvinul Mc 80 + Uvinul T 150",
    "Indicación": "Loción fotoprotectora SPF 30+.\n\nFotoprotección (Protección Solar) de amplio espectro UVA/UVB para exposición solar moderada o uso diario en piel no especialmente fotosensible. Combina filtros orgánicos fotoestables de amplio espectro (Tinosorb M, Tinosorb S, Uvinul) que cubren de forma estable el rango UVA largo; el extracto de té verde aporta acción antioxidante complementaria.",
    "Dosis Recomendada": "APLICACIÓN: de día, sobre piel limpia y seca, 15-30 minutos antes de la exposición solar\nCANTIDAD: cantidad generosa y uniforme; como referencia, 2 mg/cm² (aprox. 1/4 de cucharadita para el rostro)\nFRECUENCIA: reaplicar cada 2 horas de exposición, y después de nadar, sudar o secarse con toalla\nDuración estimada del tratamiento: uso diario continuo\nNo olvidar orejas, cuello, escote y dorso de manos.\n\nPRECAUCIONES\nNo se especificaron los porcentajes de los filtros en la fórmula. En exposición solar intensa o prolongada (playa, montaña, mediodía), un SPF 50+ ofrece mayor margen de protección. Puede causar reacción de hipersensibilidad a alguno de los filtros orgánicos. Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Portafolio",
-   "Categoría del Producto": "Protectores Solares"
+   "Etiquetas de producto": "Portafolio"
   },
   {
    "Referencia Interna": "MP0223",
    "Nombre": "Renovador Celular Gel x 30 g",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Acné - Rosacea",
    "Forma Farmacéutica": "Gel",
    "Presentación Farmacéutica": "Airless",
    "Tamaño": "30",
@@ -40,13 +41,13 @@
    "Componentes": "Adapalene 0.29%",
    "Indicación": "Gel con retinoide de concentración reforzada.\n\nAcné vulgar resistente y fotoenvejecimiento moderado a marcado, en pacientes con tolerancia previa demostrada a retinoides tópicos. El adapaleno, en una concentración cercana al máximo comercial de referencia (0.3%), normaliza de forma intensiva la queratinización folicular y estimula la renovación celular.",
    "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1-2 veces por semana las primeras 2 semanas para evaluar tolerancia; aumentar de forma muy progresiva según respuesta\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas; reevaluar antes de continuar\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). Al ser una concentración reforzada, el riesgo de irritación es mayor que con presentaciones estándar; no recomendado como primera experiencia con retinoides. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada. No combinar con otros exfoliantes o retinoides en el mismo régimen.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0366",
    "Nombre": "Revitalizante Capilar Locion x 60 ml Dra. Mabel Avila",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Locion",
    "Presentación Farmacéutica": "Gotero",
    "Tamaño": "60",
@@ -54,13 +55,13 @@
    "Componentes": "Acido Retinoico 0.01% + Clobetasol Propionato 0.02% + D-Pantenol 0.5% + Ketoconazol 1% + Minoxidil 5% + Phytantriol 0.2% + Irgasan (Triclosan) 0.6% + Vitamina E 1%",
    "Indicación": "Loción capilar para alopecia androgenética con componente antimicótico.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAlopecia androgenética con componente seborreico o predisposición a dermatitis seborreica del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; el ketoconazol controla la colonización por Malassezia y la seborrea asociada; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil; el irgasán complementa como antiséptico; phytantriol, D-pantenol y vitamina E acondicionan y protegen el cuero cabelludo.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. El clobetasol está muy por debajo de su concentración estándar (0.02% vs. 0.05%), lo cual es deliberado para uso crónico. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0044",
    "Nombre": "Shampoo Control Dermatitis x 220 ml Dra. Mabel Avila",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Shampoo Magistrales",
    "Forma Farmacéutica": "Shampoo",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "220",
@@ -68,13 +69,13 @@
    "Componentes": "Climbazol 1% + Piroctona Olamina 1.5% + Piritionato de Zinc",
    "Indicación": "Shampoo para dermatitis seborreica y caspa.\n\nDermatitis seborreica y caspa del cuero cabelludo. El climbazol y el piritionato de zinc controlan la colonización por Malassezia; la piroctona olamina (octopirox) complementa la acción antifúngica.",
    "Dosis Recomendada": "APLICACIÓN: sobre cuero cabelludo húmedo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando el cuero cabelludo\nFRECUENCIA: 2-3 veces por semana\nDuración estimada del tratamiento: uso continuo mientras persista la caspa o la seborrea; reevaluar en 4-6 semanas\nDejar actuar 3-5 minutos antes de enjuagar para potenciar el efecto antifúngico.\nNo se especificó el porcentaje de piritionato de zinc en la fórmula.\n\nPRECAUCIONES\nPuede causar sequedad del cabello con uso muy frecuente. Evitar contacto con los ojos. Uso tópico externo únicamente.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0490",
    "Nombre": "SP - 02 Emulsion x 30 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Capilares",
    "Forma Farmacéutica": "Emulsion",
    "Presentación Farmacéutica": "Frasco Jarabero con Tapa",
    "Tamaño": "30",
@@ -82,13 +83,13 @@
    "Componentes": "Alantoina 0.2% + D-Pantenol 5% + Desonida 0.1% + Ketoconazol 2% + Irgasan (Triclosan) 0.6% + Vitamina E 5%",
    "Indicación": "Emulsión antiinflamatoria y antimicótica.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nDermatitis seborreica y dermatosis con componente inflamatorio y colonización por Malassezia. El ketoconazol controla la colonización fúngica; la desonida, a dosis baja, controla la inflamación con buen perfil de seguridad para uso prolongado; el D-pantenol y la vitamina E calman y reparan la barrera cutánea; el irgasán complementa como antiséptico.",
    "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo la zona afectada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas para el brote agudo; reevaluar antes de continuar\n\nPRECAUCIONES\nEl irgasán (triclosán) está por encima de su concentración máxima de referencia (0.6% vs. 0.3% de límite regulatorio histórico), con mayor riesgo de irritación y sensibilización. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Aunque la desonida es de baja potencia, el uso continuo prolongado puede causar atrofia cutánea; evitar tratamientos continuos sin supervisión.",
-   "Etiquetas de producto": "Cliente",
-   "Categoría del Producto": ""
+   "Etiquetas de producto": "Cliente"
   },
   {
    "Referencia Interna": "MP0210",
    "Nombre": "Syndet Magistral x 220 ml",
    "Grupo de Producto": "Magistral de Pedido",
+   "Categoría del Producto": "Otras Preparaciones Magistrales",
    "Forma Farmacéutica": "Syndet",
    "Presentación Farmacéutica": "Frasco Elico",
    "Tamaño": "220",
@@ -96,8 +97,7 @@
    "Componentes": "Extracto de Caléndula 2% + Base Syndet",
    "Indicación": "Limpiador suave con caléndula.\n\nHigiene diaria de piel sensible, seca o irritada. La base Syndet limpia respetando el pH fisiológico de la piel; el extracto de caléndula calma y complementa con acción antiinflamatoria.",
    "Dosis Recomendada": "APLICACIÓN: sobre piel húmeda, en rostro y/o cuerpo\nCANTIDAD: cantidad suficiente para generar espuma, masajeando suavemente\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: uso continuo como limpiador de mantenimiento\nEnjuagar con abundante agua tibia.\n\nPRECAUCIONES\nSuspender si aparece reacción de hipersensibilidad al extracto de caléndula (familia Asteraceae, con reactividad cruzada conocida). Evitar contacto con los ojos.",
-   "Etiquetas de producto": "Foco",
-   "Categoría del Producto": "Limpiadores Magistrales"
+   "Etiquetas de producto": "Foco"
   }
  ]
 }
