@@ -268,6 +268,31 @@ body {
     margin-bottom: 4px;
 }
 
+/* Nombre del producto en el vademécum Epithelium (Mi Portafolio) */
+.producto-card p.nombre-epithelium,
+#detailContent p.nombre-epithelium {
+    display: inline-block;
+    margin: -2px 0 8px;
+    padding: 3px 10px;
+    border-radius: 6px;
+    background: #e6f4ec;
+    color: #006b4f;
+    font-size: 13px;
+    line-height: 1.4;
+}
+
+.producto-card p.nombre-epithelium strong,
+#detailContent p.nombre-epithelium strong {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    border: none;
+    color: #006b4f;
+    font-size: inherit;
+    text-transform: none;
+    letter-spacing: 0;
+}
+
 /* BOTÓN LO NUEVO */
 .btn-nuevo {
     padding: 10px 16px;
@@ -683,6 +708,19 @@ body {
 }
 
 /* ===== LO NUEVO: tema fucsia-violeta ===== */
+.home-btn.home-btn-nuevo {
+    border-left-color: #c02e8a;
+    background: linear-gradient(135deg, #ffffff 60%, #fbeaf5 100%);
+}
+
+.home-btn.home-btn-nuevo svg {
+    background: linear-gradient(135deg, #6a2bd8, #d63384);
+}
+
+.home-btn.home-btn-nuevo .home-btn-text strong {
+    color: #8e2bb8;
+}
+
 .btn-nuevo.active {
     background: linear-gradient(120deg, #6a2bd8, #d63384);
     color: white;
