@@ -314,7 +314,7 @@ function filtrar(k = 'prod') {
 }
 
 // Nombre del mismo producto en Epithelium, marcado con el símbolo del logo
-const lineaEpithelium = nombre => `<p class="nombre-epithelium" title="Nombre Epithelium"><img src="logo-simbolo.png" alt="Epithelium">${nombre}</p>`;
+const lineaEpithelium = nombre => `<p class="nombre-epithelium" title="Nombre Epithelium"><img src="logo-simbolo.png" alt="Epithelium"><span>${nombre}</span></p>`;
 
 function mostrarResultados(k = 'prod') {
     const cat = CATALOGOS[k];
