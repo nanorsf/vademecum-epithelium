@@ -160,6 +160,16 @@ body {
     align-items: center;
     gap: 14px;
     min-width: 0;
+    flex: 1;
+}
+
+.header-logo h1 {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.header .logout-btn {
+    flex-shrink: 0;
 }
 
 .header-logo-img {
@@ -273,12 +283,13 @@ body {
 #detailContent p.nombre-epithelium {
     display: inline-block;
     margin: -2px 0 8px;
-    padding: 3px 10px;
-    border-radius: 6px;
-    background: #e6f4ec;
+    padding: 2px 8px;
+    border-radius: 5px;
+    background: #d9f0e3;
+    border-left: 3px solid #009460;
     color: #006b4f;
-    font-size: 13px;
-    line-height: 1.4;
+    font-size: 11px;
+    line-height: 1.35;
 }
 
 .producto-card p.nombre-epithelium strong,
@@ -528,12 +539,14 @@ body {
     }
 
     .header h1 {
-        font-size: 15px;
+        font-size: 14px;
         padding-left: 10px;
+        white-space: normal;
+        line-height: 1.15;
     }
 
     .header-logo-img {
-        height: 32px;
+        height: 29px;
     }
 
     .logout-btn {

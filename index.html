@@ -68,7 +68,8 @@
 
             <div class="filters filters-productos">
                 <input type="text" id="searchName" placeholder="Buscar por nombre..." oninput="filtrar()">
-                <input type="text" id="searchComponents" placeholder="Buscar por componentes..." oninput="filtrar()">
+                <input type="text" id="searchComponents" list="dlComponentes" placeholder="Buscar o elegir componente..." oninput="filtrar()" autocomplete="off">
+                <datalist id="dlComponentes"></datalist>
                 <select id="filterCategory" onchange="filtrar()">
                     <option value="">Todas las categorías</option>
                 </select>
@@ -93,7 +94,8 @@
 
             <div class="filters filters-productos">
                 <input type="text" id="pfSearchName" placeholder="Buscar por nombre..." oninput="filtrar('port')">
-                <input type="text" id="pfSearchComponents" placeholder="Buscar por componentes..." oninput="filtrar('port')">
+                <input type="text" id="pfSearchComponents" list="pfDlComponentes" placeholder="Buscar o elegir componente..." oninput="filtrar('port')" autocomplete="off">
+                <datalist id="pfDlComponentes"></datalist>
                 <select id="pfFilterCategory" onchange="filtrar('port')">
                     <option value="">Todas las categorías</option>
                 </select>
@@ -118,9 +120,10 @@
 
             <div class="filters filters-mp">
                 <input type="text" id="mpSearchName" placeholder="Buscar por nombre..." oninput="filtrarMP()">
-                <input type="text" id="mpSearchUso" placeholder="Buscar por uso o indicación..." oninput="filtrarMP()">
+                <input type="text" id="mpSearchUso" list="dlUsos" placeholder="Buscar o elegir uso / indicación..." oninput="filtrarMP()" autocomplete="off">
+                <datalist id="dlUsos"></datalist>
                 <select id="mpFilterEtiqueta" onchange="filtrarMP()">
-                    <option value="">Todas las etiquetas</option>
+                    <option value="">Todas las categorías</option>
                 </select>
             </div>
 
