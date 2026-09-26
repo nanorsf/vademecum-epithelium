@@ -163,7 +163,7 @@ body {
 }
 
 .header-logo-img {
-    height: 56px;
+    height: 50px;
     width: auto;
     display: block;
 }
@@ -533,7 +533,7 @@ body {
     }
 
     .header-logo-img {
-        height: 38px;
+        height: 32px;
     }
 
     .logout-btn {
@@ -544,7 +544,7 @@ body {
 
 @media (max-width: 380px) {
     .header-logo-img {
-        height: 32px;
+        height: 27px;
     }
 
     .header h1 {
