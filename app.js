@@ -146,6 +146,39 @@ function cerrarSesion() {
     }
 }
 
+// Búsqueda sin distinguir mayúsculas ni tildes
+const normalizar = t => String(t || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().trim();
+
+// Opciones únicas (sin repetir por mayúsculas/tildes) y en orden alfabético
+function opcionesUnicas(textos) {
+    const mapa = new Map();
+    textos.forEach(t => {
+        const limpio = t.replace(/\s+/g, ' ').trim();
+        if (limpio.length > 1 && !mapa.has(normalizar(limpio))) mapa.set(normalizar(limpio), limpio);
+    });
+    return [...mapa.values()].sort((a, b) => a.localeCompare(b, 'es', { sensitivity: 'base' }));
+}
+
+function llenarDatalist(id, valores) {
+    const lista = document.getElementById(id);
+    lista.innerHTML = '';
+    valores.forEach(v => {
+        const option = document.createElement('option');
+        option.value = v;
+        lista.appendChild(option);
+    });
+}
+
+// "Acido Glicolico 12%" -> "Acido Glicolico"
+const componentesDe = p => String(p['Componentes'] || '').split(/\+|\n/)
+    .map(c => c.replace(/\s+\d[\d.,]*\s*(%|mg|ui)?(\s.*)?$/i, '').trim());
+
+// Usos cortos a partir del texto de "Uso Terapéutico y Cosmético"
+const usosDe = m => String(m['Uso Terapéutico y Cosmético'] || '').split(/[,;\n]|\s\/\s/)
+    .map(u => u.replace(/\(.*$/, '').replace(/^Función cosmética:\s*/i, '').replace(/[.:]+$/, '').trim())
+    .filter(u => u.length > 2 && u.length <= 45)
+    .map(u => u.charAt(0).toUpperCase() + u.slice(1));
+
 // Orden alfabético; si el nombre es el mismo (sin el "x 30 ml"), primero el menor volumen
 const nombreBase = p => p['Nombre'].replace(/\s+x\s+[\d.,]+\s*[a-zA-Z]*/i, '').trim();
 const volumen = p => parseFloat(String(p['Tamaño']).replace(',', '.')) || 0;
@@ -246,6 +279,7 @@ function inicializarFiltros(k = 'prod') {
         formas.sort();
     }
     llenarSelect(document.getElementById(cat.ids.categoria), categorias);
+    llenarDatalist(k === 'port' ? 'pfDlComponentes' : 'dlComponentes', opcionesUnicas(datos.flatMap(componentesDe)));
     llenarSelect(document.getElementById(cat.ids.forma), formas);
 }
 
@@ -264,13 +298,13 @@ function toggleNuevo(k = 'prod') {
 function filtrar(k = 'prod') {
     const cat = CATALOGOS[k];
     const valor = campo => document.getElementById(cat.ids[campo]).value;
-    const searchName = valor('nombre').toLowerCase();
-    const searchComponents = valor('componentes').toLowerCase();
+    const searchName = normalizar(valor('nombre'));
+    const searchComponents = normalizar(valor('componentes'));
     const filterCategory = valor('categoria');
     const filterFormula = valor('forma');
     cat.filtrados = cat.datos().filter(p => {
-        const matchName = p['Nombre'].toLowerCase().includes(searchName) || (p.nombreEpithelium || '').toLowerCase().includes(searchName);
-        const matchComponents = !searchComponents || (p['Componentes'] && p['Componentes'].toLowerCase().includes(searchComponents));
+        const matchName = normalizar(p['Nombre']).includes(searchName) || normalizar(p.nombreEpithelium).includes(searchName);
+        const matchComponents = !searchComponents || normalizar(p['Componentes']).includes(searchComponents);
         const matchCategory = !filterCategory || p['Categoría del Producto'] === filterCategory;
         const matchFormula = !filterFormula || p['Forma Farmacéutica'] === filterFormula;
         const matchNuevo = !cat.soloNuevos || p['Etiquetas de producto'] === 'Nuevo';
@@ -278,6 +312,9 @@ function filtrar(k = 'prod') {
     });
     mostrarResultados(k);
 }
+
+// Nombre del mismo producto en Epithelium, marcado con el símbolo del logo
+const lineaEpithelium = nombre => `<p class="nombre-epithelium" title="Nombre Epithelium"><img src="logo-simbolo.png" alt="Epithelium"><span>${nombre}</span></p>`;
 
 function mostrarResultados(k = 'prod') {
     const cat = CATALOGOS[k];
@@ -301,7 +338,7 @@ function mostrarResultados(k = 'prod') {
         card.className = esNuevo ? 'producto-card es-nuevo' : 'producto-card';
         card.onclick = () => mostrarDetalle(p, cat.tema);
         const badge = p.nuevoEpithelium ? '<span class="badge-nuevo">NUEVO EPITHELIUM</span>' : (esNuevo ? '<span class="badge-nuevo">NUEVO</span>' : '');
-        card.innerHTML = `<h3>${p['Nombre']}${badge}</h3>${p.nombreEpithelium ? `<p class="nombre-epithelium"><strong>Epithelium:</strong> ${p.nombreEpithelium}</p>` : ''}<p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Categoría del Producto'] ? `<p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>` : ''}${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
+        card.innerHTML = `<h3>${p['Nombre']}${badge}</h3>${p.nombreEpithelium ? lineaEpithelium(p.nombreEpithelium) : ''}<p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Categoría del Producto'] ? `<p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>` : ''}${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
         container.appendChild(card);
     });
 }
@@ -316,7 +353,7 @@ function mostrarDetalle(producto, tema = '') {
     temaModal(producto['Etiquetas de producto'] === 'Nuevo' ? 'theme-nuevo' : tema);
     const modal = document.getElementById('modalDetail');
     const content = document.getElementById('detailContent');
-    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto.nombreEpithelium ? `<p class="nombre-epithelium"><strong>Epithelium:</strong> ${producto.nombreEpithelium}</p>` : ''}${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p>${producto['Categoría del Producto'] ? `<strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>` : ''}<strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto.nuevoEpithelium ? 'Nuevo Epithelium' : producto['Etiquetas de producto']}</span></p>` : ''}`;
+    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto.nombreEpithelium ? lineaEpithelium(producto.nombreEpithelium) : ''}${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p>${producto['Categoría del Producto'] ? `<strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>` : ''}<strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto.nuevoEpithelium ? 'Nuevo Epithelium' : producto['Etiquetas de producto']}</span></p>` : ''}`;
     modal.classList.add('active');
 }
 
@@ -325,6 +362,7 @@ function inicializarFiltrosMP() {
     const select = document.getElementById('mpFilterEtiqueta');
     select.length = 1;
     const etiquetas = [...new Set(materiasPrimas.map(m => m['Etiqueta de Materia Prima']).filter(e => e))].sort();
+    llenarDatalist('dlUsos', opcionesUnicas(materiasPrimas.flatMap(usosDe)));
     etiquetas.forEach(e => {
         const option = document.createElement('option');
         option.value = e;
@@ -334,12 +372,12 @@ function inicializarFiltrosMP() {
 }
 
 function filtrarMP() {
-    const searchName = document.getElementById('mpSearchName').value.toLowerCase();
-    const searchUso = document.getElementById('mpSearchUso').value.toLowerCase();
+    const searchName = normalizar(document.getElementById('mpSearchName').value);
+    const searchUso = normalizar(document.getElementById('mpSearchUso').value);
     const filterEtiqueta = document.getElementById('mpFilterEtiqueta').value;
     materiasPrimasFiltradas = materiasPrimas.filter(m => {
-        const matchName = m['Nombre'].toLowerCase().includes(searchName);
-        const textoUso = (m['Uso Terapéutico y Cosmético'] + ' ' + m['Identificación Técnica']).toLowerCase();
+        const matchName = normalizar(m['Nombre']).includes(searchName);
+        const textoUso = normalizar(m['Uso Terapéutico y Cosmético'] + ' ' + m['Identificación Técnica']);
         const matchUso = !searchUso || textoUso.includes(searchUso);
         const matchEtiqueta = !filterEtiqueta || m['Etiqueta de Materia Prima'] === filterEtiqueta;
         return matchName && matchUso && matchEtiqueta;
@@ -363,7 +401,7 @@ function mostrarResultadosMP() {
         card.className = 'producto-card';
         card.onclick = () => mostrarDetalleMP(m);
         const uso = m['Uso Terapéutico y Cosmético'];
-        card.innerHTML = `<h3>${m['Nombre']}</h3><p><strong>Etiqueta:</strong> ${m['Etiqueta de Materia Prima']}</p>${m['Concentración de Uso'] ? `<p><strong>Concentración:</strong> ${m['Concentración de Uso'].split('\n')[0]}</p>` : ''}${uso ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${uso.length > 100 ? uso.substring(0, 100) + '...' : uso}</p>` : ''}`;
+        card.innerHTML = `<h3>${m['Nombre']}</h3><p><strong>Categoría:</strong> ${m['Etiqueta de Materia Prima']}</p>${m['Concentración de Uso'] ? `<p><strong>Concentración:</strong> ${m['Concentración de Uso'].split('\n')[0]}</p>` : ''}${uso ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${uso.length > 100 ? uso.substring(0, 100) + '...' : uso}</p>` : ''}`;
         container.appendChild(card);
     });
 }
@@ -373,7 +411,7 @@ function mostrarDetalleMP(m) {
     const modal = document.getElementById('modalDetail');
     const content = document.getElementById('detailContent');
     const bloque = (titulo, texto) => texto ? `<strong>${titulo}</strong><p>${texto.replace(/\n/g, '<br>')}</p>` : '';
-    content.innerHTML = `<h2>${m['Nombre']}</h2>${bloque('Identificación Técnica', m['Identificación Técnica'])}${bloque('Uso Terapéutico y Cosmético', m['Uso Terapéutico y Cosmético'])}${bloque('Concentración de Uso', m['Concentración de Uso'])}${bloque('Referencia Interna', m['Referencia Interna'])}${m['Etiqueta de Materia Prima'] ? `<strong>Etiqueta</strong><p><span class="producto-label">${m['Etiqueta de Materia Prima']}</span></p>` : ''}`;
+    content.innerHTML = `<h2>${m['Nombre']}</h2>${bloque('Identificación Técnica', m['Identificación Técnica'])}${bloque('Uso Terapéutico y Cosmético', m['Uso Terapéutico y Cosmético'])}${bloque('Concentración de Uso', m['Concentración de Uso'])}${bloque('Referencia Interna', m['Referencia Interna'])}${m['Etiqueta de Materia Prima'] ? `<strong>Categoría</strong><p><span class="producto-label">${m['Etiqueta de Materia Prima']}</span></p>` : ''}`;
     modal.classList.add('active');
 }
 
