@@ -1,0 +1,1562 @@
+[
+  {
+    "Referencia Interna": "MA0364",
+    "Nombre": "5 Fluoracilo",
+    "Identificación Técnica": "USP: Fluorouracil\nAntimetabolito, agente citotóxico/antiproliferativo",
+    "Uso Terapéutico y Cosmético": "Queratosis actínicas, carcinoma basocelular superficial, verrugas resistentes",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Inmunomoduladores y Antiproliferativos"
+  },
+  {
+    "Referencia Interna": "MA0002",
+    "Nombre": "Ac.Net",
+    "Identificación Técnica": "Es una asociación de ácido oleanólico y ácido nordihidroguaiarético en un gel osmótico. Estéticamente, es utilizado en tónicos, emulsiones, geles, máscaras, bases de maquillaje ara la piel grasa y propensa al acné. Este producto combate \"acné\" al reducir hiperseborrea, hiperqueratosis, la inflamación y la proliferación bacteriana. AC.NET™ proporciona un tratamiento global para la piel grasosa y propensa al acné. El gel osmótico ayuda a controlar el crecimiento bacteriano.",
+    "Uso Terapéutico y Cosmético": "Para seborrea de tipo facial y capilar",
+    "Concentración de Uso": "",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0331",
+    "Nombre": "Aceite Coffee",
+    "Identificación Técnica": "INCI: Coffea Arabica Seed Oil\nUSP: Sin monografía USP\nEmoliente, antioxidante (aceite de semilla de café)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y suavizado de la piel, aporte antioxidante",
+    "Concentración de Uso": "1%-20% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0315",
+    "Nombre": "Aceite de Ajo",
+    "Identificación Técnica": "INCI: Allium Sativum (Garlic) Oil\nUSP: Sin monografía USP\nAntimicrobiano, antioxidante (aceite esencial)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: aporte antimicrobiano/antioxidante en formulaciones capilares",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual, riesgo de irritación a mayor %)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0003",
+    "Nombre": "Aceite de Almendras",
+    "Identificación Técnica": "INCI: Prunus Amygdalus Dulcis (Sweet Almond) Oil\nUSP: Sin monografía USP\nEmoliente, humectante (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y suavizado de piel y cabello",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0360",
+    "Nombre": "Aceite de Arbol de Te",
+    "Identificación Técnica": "INCI: Melaleuca Alternifolia (Tea Tree) Leaf Oil\nUSP: Sin monografía USP\nAntimicrobiano, antifúngico, antiinflamatorio (aceite esencial)",
+    "Uso Terapéutico y Cosmético": "Acné, dermatitis seborreica, micosis leves (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (mayor concentración aumenta riesgo de irritación/sensibilización)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0329",
+    "Nombre": "Aceite de Betacaroteno",
+    "Identificación Técnica": "INCI: Daucus Carota Sativa (Carrot) Oil\nUSP: Sin monografía USP\nAntioxidante, colorante natural, precursor de vitamina A",
+    "Uso Terapéutico y Cosmético": "Función cosmética: antioxidante y aporte de color/tono en formulaciones",
+    "Concentración de Uso": "0.1%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0004",
+    "Nombre": "Aceite de Coco",
+    "Identificación Técnica": "INCI: Cocos Nucifera (Coconut) Oil\nUSP: Sin monografía USP\nEmoliente, humectante, agente oclusivo (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y suavizado de piel y cabello",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0351",
+    "Nombre": "Aceite de Jojoba",
+    "Identificación Técnica": "INCI: Simmondsia Chinensis (Jojoba) Seed Oil\nUSP: Sin monografía USP\nEmoliente, regulador de sebo (cera líquida vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación no grasa, similar al sebo natural de la piel",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0005",
+    "Nombre": "Aceite de Maiz",
+    "Identificación Técnica": "INCI: Zea Mays (Corn) Oil\nUSP: Sin monografía USP\nEmoliente (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y suavizado de la piel",
+    "Concentración de Uso": "1%-20% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0006",
+    "Nombre": "Aceite de Maracuya",
+    "Identificación Técnica": "INCI: Passiflora Edulis Seed Oil\nUSP: Sin monografía USP\nEmoliente, antioxidante (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación, suavizado y aporte antioxidante",
+    "Concentración de Uso": "1%-20% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0328",
+    "Nombre": "Aceite de Massage",
+    "Identificación Técnica": "INCI: Sin nombre INCI único (mezcla comercial)\nUSP: Sin monografía USP\nEmoliente, base para masaje (mezcla de aceites)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: lubricante/emoliente para masaje corporal",
+    "Concentración de Uso": "Uso puro o como base",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0007",
+    "Nombre": "Aceite de Olivas",
+    "Identificación Técnica": "INCI: Olea Europaea (Olive) Fruit Oil\nUSP: Sin monografía USP\nEmoliente, antioxidante (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación, suavizado y aporte antioxidante",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0008",
+    "Nombre": "Aceite de Ricino",
+    "Identificación Técnica": "INCI: Ricinus Communis (Castor) Seed Oil\nUSP: Castor Oil\nEmoliente, humectante, estimulante capilar (uso tradicional)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación, brillo capilar, base de formulaciones",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0369",
+    "Nombre": "Aceite de Romero",
+    "Identificación Técnica": "INCI: Rosmarinus Officinalis (Rosemary) Leaf Oil\nUSP: Sin monografía USP\nEstimulante circulatorio, antioxidante (aceite esencial)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: estimulante de microcirculación en cuero cabelludo, antioxidante",
+    "Concentración de Uso": "0.5%-3%\nMáximo uso: 3% (uso tópico cosmético habitual, riesgo de irritación a mayor %)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0009",
+    "Nombre": "Aceite de Rosa Mosqueta",
+    "Identificación Técnica": "INCI: Rosa Canina Fruit Oil\nUSP: Sin monografía USP\nRegenerador cutáneo, antioxidante (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: cicatrices, estrías, fotoenvejecimiento (uso cosmético)",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0010",
+    "Nombre": "Aceite de Semilla de Girasol",
+    "Identificación Técnica": "INCI: Helianthus Annuus (Sunflower) Seed Oil\nUSP: Sin monografía USP\nEmoliente, antioxidante (aceite vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y suavizado de la piel",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0330",
+    "Nombre": "Aceite de Zanahoria",
+    "Identificación Técnica": "INCI: Daucus Carota Sativa (Carrot) Root Extract\nUSP: Sin monografía USP\nAntioxidante, colorante natural (aceite vegetal/extracto)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: antioxidante y aporte de tono en formulaciones",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0011",
+    "Nombre": "Aceite Mineral",
+    "Identificación Técnica": "INCI: Mineral Oil\nUSP: Mineral Oil\nEmoliente, agente oclusivo",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación, suavizado y protección de barrera cutánea",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0012",
+    "Nombre": "Aceponato de Metilprednisolona",
+    "Identificación Técnica": "USP: Sin monografía USP\nCorticosteroide tópico de mediana-alta potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dermatitis atópica, eccemas, dermatitis de contacto, psoriasis",
+    "Concentración de Uso": "0.1%\nMáximo uso: 0.1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0013",
+    "Nombre": "Acetato de Zinc",
+    "Identificación Técnica": "INCI: Zinc Acetate\nUSP: Sin monografia USP\nAstringente, antiseborreico",
+    "Uso Terapéutico y Cosmético": "Caspa, piel grasa (uso cosmetico)",
+    "Concentración de Uso": "0.1%-1%\nMaximo uso: 1% (uso topico cosmetico habitual)",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0015",
+    "Nombre": "Acido Alpha Lipoico",
+    "Identificación Técnica": "INCI: Thioctic Acid\nUSP: Alpha Lipoic Acid\nAntioxidante, agente antienvejecimiento",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante cutánea",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0017",
+    "Nombre": "Acido Azelaico",
+    "Identificación Técnica": "INCI: Azelaic Acid\nUSP: Azelaic Acid\nAntibacteriano, antiinflamatorio, inhibidor de tirosinasa",
+    "Uso Terapéutico y Cosmético": "Acné, rosácea, hiperpigmentación (melasma)",
+    "Concentración de Uso": "10%-20%\nMáximo uso: 20% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0018",
+    "Nombre": "Acido Citrico",
+    "Identificación Técnica": "INCI: Citric Acid\nUSP: Citric Acid\nRegulador de pH, quelante, exfoliante suave (AHA)",
+    "Uso Terapéutico y Cosmético": "Ajuste de pH en formulaciones, exfoliación leve",
+    "Concentración de Uso": "0.1%-2% (regulador de pH)\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0020",
+    "Nombre": "Acido Fenilbencimidazol Sulfonico (Eusolex 232)",
+    "Identificación Técnica": "INCI: Phenylbenzimidazole Sulfonic Acid\nUSP: Sin monografía USP\nFiltro solar UVB (Ensulizol)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección UVB",
+    "Concentración de Uso": "1%-4%\nMáximo uso: 4% (límite regulatorio FDA/UE para uso como filtro UV)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0021",
+    "Nombre": "Acido Ferulico",
+    "Identificación Técnica": "INCI: Ferulic Acid\nUSP: Sin monografía USP\nAntioxidante, estabilizador de vitamina C",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante cutánea",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0022",
+    "Nombre": "Acido Fitico",
+    "Identificación Técnica": "INCI: Phytic Acid\nUSP: Sin monografía USP\nQuelante, antioxidante, despigmentante leve",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentación leve, exfoliación química suave",
+    "Concentración de Uso": "1%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0023",
+    "Nombre": "Acido Fusidico",
+    "Identificación Técnica": "USP: Sin monografía USP\nAntibiótico tópico (ácido fusídico)",
+    "Uso Terapéutico y Cosmético": "Infecciones bacterianas cutáneas (impétigo, foliculitis)",
+    "Concentración de Uso": "2%\nMáximo uso: 2% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0024",
+    "Nombre": "Acido Glicolico",
+    "Identificación Técnica": "INCI: Glycolic Acid\nUSP: Sin monografía USP\nExfoliante químico (AHA), queratolítico",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, hiperpigmentación, acné, textura cutánea",
+    "Concentración de Uso": "5%-20% (uso profesional hasta 70%)\nMáximo uso: 10% en productos de venta libre; hasta 70% en peelings profesionales supervisados",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0181",
+    "Nombre": "Acido Hialuronico",
+    "Identificación Técnica": "INCI: Sodium Hyaluronate / Hyaluronic Acid\nUSP: Hyaluronic Acid\nHumectante, agente hidratante de alto peso molecular",
+    "Uso Terapéutico y Cosmético": "Hidratación cutánea, mejora de elasticidad, antienvejecimiento",
+    "Concentración de Uso": "0.1%-2%\nMáximo uso: sin límite regulatorio estricto en uso tópico cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0025",
+    "Nombre": "Acido Kojico",
+    "Identificación Técnica": "INCI: Kojic Acid\nUSP: Sin monografía USP\nInhibidor de tirosinasa, despigmentante",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentación, melasma, manchas solares",
+    "Concentración de Uso": "1%-4%\nMáximo uso: 1% en UE (restricción regulatoria); hasta 4% en otras regiones",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0026",
+    "Nombre": "Acido Lactico",
+    "Identificación Técnica": "INCI: Lactic Acid\nUSP: Lactic Acid\nExfoliante químico (AHA), humectante",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, hiperpigmentación, xerosis (piel seca)",
+    "Concentración de Uso": "5%-12% (uso profesional hasta 50%)\nMáximo uso: 10% en productos de venta libre; hasta 50-70% en peelings profesionales",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0027",
+    "Nombre": "Acido Lactobionico",
+    "Identificación Técnica": "INCI: Lactobionic Acid\nUSP: Sin monografía USP\nExfoliante suave (PHA), antioxidante, humectante",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, piel sensible que requiere exfoliación suave",
+    "Concentración de Uso": "3%-10%\nMáximo uso: 10% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0028",
+    "Nombre": "Acido Mandelico",
+    "Identificación Técnica": "INCI: Mandelic Acid\nUSP: Sin monografía USP\nExfoliante químico (AHA), antibacteriano leve",
+    "Uso Terapéutico y Cosmético": "Acné, fotoenvejecimiento, hiperpigmentación, piel sensible",
+    "Concentración de Uso": "5%-20% (uso profesional hasta 40%)\nMáximo uso: 10% en productos de venta libre; hasta 40% en peelings profesionales",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0029",
+    "Nombre": "Acido Retinoico",
+    "Identificación Técnica": "USP: Tretinoin\nRetinoide, regulador de la diferenciación epidérmica, antiacné",
+    "Uso Terapéutico y Cosmético": "Acné, fotoenvejecimiento, hiperpigmentación",
+    "Concentración de Uso": "0.025%-0.1%\nMáximo uso: 0.1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0030",
+    "Nombre": "Acido Salicilico",
+    "Identificación Técnica": "INCI: Salicylic Acid\nUSP: Salicylic Acid\nExfoliante químico (BHA), queratolítico, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Acné, queratosis, verrugas, caspa",
+    "Concentración de Uso": "0.5%-2% (uso profesional hasta 30%)\nMáximo uso: 2% en productos de venta libre; hasta 30% en peelings profesionales",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0031",
+    "Nombre": "Acido Tranexamico",
+    "Identificación Técnica": "INCI: Tranexamic Acid\nUSP: Sin monografía USP\nDespigmentante, inhibidor de la activación de melanocitos",
+    "Uso Terapéutico y Cosmético": "Melasma, hiperpigmentación",
+    "Concentración de Uso": "2%-5% tópico\nMáximo uso: 5% (uso tópico dermatológico habitual)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0032",
+    "Nombre": "Acido Tricloroacetico",
+    "Identificación Técnica": "USP: Sin monografía USP\nAgente cauterizante/queratolítico fuerte (peeling químico)",
+    "Uso Terapéutico y Cosmético": "Verrugas, queratosis, peelings químicos profundos, cicatrices de acné",
+    "Concentración de Uso": "10%-50% según profundidad de peeling deseada\nMáximo uso: 50% en uso profesional supervisado; concentraciones mayores requieren extrema precaución",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0033",
+    "Nombre": "Adapalene",
+    "Identificación Técnica": "USP: Adapalene\nRetinoide de tercera generación, antiacné",
+    "Uso Terapéutico y Cosmético": "Acné vulgar",
+    "Concentración de Uso": "0.1%-0.3%\nMáximo uso: 0.3% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0346",
+    "Nombre": "Adenosina",
+    "Identificación Técnica": "INCI: Adenosine\nUSP: Sin monografía USP\nAgente antienvejecimiento, estimulante de reparación celular",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, arrugas finas",
+    "Concentración de Uso": "0.04%-0.1%\nMáximo uso: 0.1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0036",
+    "Nombre": "Agua de Rosas",
+    "Identificación Técnica": "INCI: Rosa Damascena Flower Water\nUSP: Sin monografia USP\nTonico, calmante, vehiculo aromatico (hidrolato)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: tonificacion, sensacion refrescante y aroma",
+    "Concentración de Uso": "Csp 100% o como fase acuosa de la formulacion",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0037",
+    "Nombre": "Alantoina",
+    "Identificación Técnica": "INCI: Allantoin\nUSP: Allantoin\nCalmante, cicatrizante, queratolitico suave",
+    "Uso Terapéutico y Cosmético": "Piel irritada, dermatitis leve, cicatrizacion superficial",
+    "Concentración de Uso": "0.1%-2%\nMaximo uso: 2% (limite regulatorio habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0038",
+    "Nombre": "Alcanfor",
+    "Identificación Técnica": "INCI: Camphor\nUSP: Camphor\nRubefaciente, analgesico topico leve, antipruriginoso",
+    "Uso Terapéutico y Cosmético": "Dolor muscular localizado, prurito",
+    "Concentración de Uso": "0.1%-11%\nMaximo uso: 11% (limite regulatorio FDA en productos de venta libre)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0043",
+    "Nombre": "Alcohol Etilico 96%",
+    "Identificación Técnica": "INCI: Alcohol\nUSP: Alcohol\nDisolvente, astringente, antiseptico",
+    "Uso Terapéutico y Cosmético": "Antisepsia cutanea (concentraciones altas), astringente en formulaciones",
+    "Concentración de Uso": "Variable segun formulacion; antiseptico habitual 60-90%",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0044",
+    "Nombre": "Alcohol Isopropilico",
+    "Identificación Técnica": "INCI: Isopropyl Alcohol\nUSP: Isopropyl Alcohol\nDisolvente, antiseptico, astringente",
+    "Uso Terapéutico y Cosmético": "Antisepsia cutanea, desgrasante en formulaciones",
+    "Concentración de Uso": "Variable segun formulacion; antiseptico habitual 60-90%",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0045",
+    "Nombre": "Alfa Bisabolol",
+    "Identificación Técnica": "INCI: Bisabolol\nUSP: Sin monografía USP\nAntiinflamatorio, calmante, antimicrobiano (derivado de manzanilla)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, irritada, post-procedimiento",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0046",
+    "Nombre": "Alfa Estradiol",
+    "Identificación Técnica": "USP: Sin monografía USP\nAntiandrogénico local, inhibidor de la 5α-reductasa, estrógeno débil",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenética (pérdida de cabello con patrón) en hombres y mujeres",
+    "Concentración de Uso": "Máximo uso: no hay límite regulatorio estricto; habitual en uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0049",
+    "Nombre": "Aloe Vera",
+    "Identificación Técnica": "INCI: Aloe Barbadensis Leaf Juice\nUSP: Aloe\nCalmante, hidratante, antiinflamatorio natural",
+    "Uso Terapéutico y Cosmético": "Piel irritada, quemaduras leves, hidratación",
+    "Concentración de Uso": "1%-100% (gel puro)\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0054",
+    "Nombre": "Arbutina",
+    "Identificación Técnica": "INCI: Arbutin\nUSP: Sin monografía USP\nInhibidor de tirosinasa, despigmentante",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentación, melasma, manchas solares",
+    "Concentración de Uso": "2%-7%\nMáximo uso: 7% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0306",
+    "Nombre": "Arginina HCL",
+    "Identificación Técnica": "INCI: Arginine HCl\nUSP: Arginine Hydrochloride\nAminoácido, humectante, agente acondicionador",
+    "Uso Terapéutico y Cosmético": "Hidratación cutánea (uso cosmético, no farmacológico específico)",
+    "Concentración de Uso": "0.1%-2%\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0055",
+    "Nombre": "Argireline Liquido",
+    "Identificación Técnica": "INCI: Acetyl Hexapeptide-8\nUSP: Sin monografia USP\nPeptido antienvejecimiento (acetil hexapeptido-8), relajante muscular topico",
+    "Uso Terapéutico y Cosmético": "Arrugas de expresion (lineas finas, patas de gallo)",
+    "Concentración de Uso": "5%-10% (solucion al 10-50% del peptido)\nMaximo uso: sin limite regulatorio estricto en uso cosmetico",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0058",
+    "Nombre": "Ascorbil Fosfato Sodico",
+    "Identificación Técnica": "INCI: Sodium Ascorbyl Phosphate\nUSP: Sin monografia USP\nDerivado estable de vitamina C, antioxidante, despigmentante",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, hiperpigmentacion",
+    "Concentración de Uso": "3%-10%\nMaximo uso: 10% (uso topico cosmetico habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0059",
+    "Nombre": "Asebiol Ls 2539 BT 2",
+    "Identificación Técnica": "INCI: Asebiol Ls 2539 BT 2 (nombre comercial, composición exacta no confirmada con certeza)\nUSP: Sin monografía USP\nProbable activo antiseborreico/regulador de sebo",
+    "Uso Terapéutico y Cosmético": "Piel/cuero cabelludo graso, caspa (uso referencial, sin confirmacion de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0061",
+    "Nombre": "Azufre",
+    "Identificación Técnica": "INCI: Sulfur\nUSP: Sulfur\nQueratolítico, antiacné, antifúngico leve",
+    "Uso Terapéutico y Cosmético": "Acné, rosácea, dermatitis seborreica",
+    "Concentración de Uso": "2%-10%\nMáximo uso: 10% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0063",
+    "Nombre": "Bentonita",
+    "Identificación Técnica": "INCI: Bentonite\nUSP: Bentonite\nAgente absorbente, espesante, mascarillas purificantes",
+    "Uso Terapéutico y Cosmético": "Piel grasa/mixta, control de sebo (uso cosmético)",
+    "Concentración de Uso": "5%-30%\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0064",
+    "Nombre": "Beta Estradiol",
+    "Identificación Técnica": "USP: Estradiol\nEstrógeno, agente hormonal (uso tópico dermatológico/capilar)",
+    "Uso Terapéutico y Cosmético": "Alopecia (uso capilar), atrofia cutánea hormonal",
+    "Concentración de Uso": "0.01%-0.05%\nMáximo uso: no hay límite regulatorio estricto uniforme para uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0065",
+    "Nombre": "Betametasona",
+    "Identificación Técnica": "USP: Betamethasone\nCorticosteroide tópico de alta potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dermatitis, eccemas, psoriasis, liquen plano",
+    "Concentración de Uso": "0.05%-0.1%\nMáximo uso: 0.1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0068",
+    "Nombre": "Bifonazol",
+    "Identificación Técnica": "USP: Sin monografía USP\nAntifúngico (imidazol)",
+    "Uso Terapéutico y Cosmético": "Micosis cutáneas, tiña, candidiasis cutánea, pitiriasis versicolor",
+    "Concentración de Uso": "1%\nMáximo uso: 1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0373",
+    "Nombre": "Bimatoprost",
+    "Identificación Técnica": "USP: Bimatoprost\nAnálogo de prostaglandina, estimulante del crecimiento de pestañas/cejas",
+    "Uso Terapéutico y Cosmético": "Hipotricosis de pestañas, alopecia de cejas",
+    "Concentración de Uso": "0.01%-0.03%\nMáximo uso: 0.03% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0069",
+    "Nombre": "Biophytex LS 8740",
+    "Identificación Técnica": "Seborregulador",
+    "Uso Terapéutico y Cosmético": "shampoo acne",
+    "Concentración de Uso": "",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0114",
+    "Nombre": "Biotina",
+    "Identificación Técnica": "INCI: Biotin\nUSP: Biotin\nVitamina B7, fortalecedor capilar/ungueal",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: fortalecimiento capilar y de unas",
+    "Concentración de Uso": "0.01%-0.5%\nMaximo uso: sin limite regulatorio estricto en uso cosmetico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0070",
+    "Nombre": "Biotina Plus",
+    "Identificación Técnica": "INCI: Biotin\nUSP: Sin monografia USP\nVitamina B7, fortalecedor capilar/ungueal",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: fortalecimiento capilar y de unas",
+    "Concentración de Uso": "0.01%-0.5%\nMaximo uso: sin limite regulatorio estricto en uso cosmetico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0325",
+    "Nombre": "Blend Baby 29",
+    "Identificación Técnica": "",
+    "Uso Terapéutico y Cosmético": "",
+    "Concentración de Uso": "",
+    "Etiqueta de Materia Prima": "Por Clasificar (sin información)"
+  },
+  {
+    "Referencia Interna": "MA0071",
+    "Nombre": "Cafeina",
+    "Identificación Técnica": "INCI: Caffeine\nUSP: Caffeine\nEstimulante microcirculatorio, lipolítico, antioxidante",
+    "Uso Terapéutico y Cosmético": "Celulitis, ojeras, alopecia (estimulante folicular)",
+    "Concentración de Uso": "1%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0074",
+    "Nombre": "Canadian Willowherb",
+    "Identificación Técnica": "INCI: Epilobium Angustifolium Extract\nUSP: Sin monografia USP\nAntiinflamatorio, calmante (extracto vegetal - Epilobium)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, irritada, rosacea leve (uso cosmetico)",
+    "Concentración de Uso": "0.5%-5%\nMaximo uso: 5% (uso topico cosmetico habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0309",
+    "Nombre": "Cannabidiol",
+    "Identificación Técnica": "INCI: Cannabidiol\nUSP: Sin monografía USP\nAntiinflamatorio, calmante, antioxidante (CBD)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, inflamada, dolor localizado (uso tópico)",
+    "Concentración de Uso": "0.1%-5%\nMáximo uso: sin límite regulatorio uniforme; varía según jurisdicción",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0075",
+    "Nombre": "Caolin Colodial",
+    "Identificación Técnica": "INCI: Kaolin\nUSP: Kaolin\nAbsorbente, espesante (arcilla)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: absorcion de sebo, mascarillas purificantes",
+    "Concentración de Uso": "5%-30% segun formulacion",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0374",
+    "Nombre": "Caolin Rosado",
+    "Identificación Técnica": "INCI: Kaolin\nUSP: Sin monografia USP\nAbsorbente suave, espesante (arcilla rosada)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: limpieza suave para piel sensible, mascarillas",
+    "Concentración de Uso": "5%-30% segun formulacion",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0076",
+    "Nombre": "Capillisil HC",
+    "Identificación Técnica": "INCI: Capillisil Haute Concentration (nombre comercial, composición exacta no confirmada con certeza)\nUSP: Sin monografía USP\nProbable complejo capilar de alta concentración",
+    "Uso Terapéutico y Cosmético": "Alopecia, caida del cabello (uso referencial, sin confirmacion de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0077",
+    "Nombre": "Capixyl",
+    "Identificación Técnica": "INCI: Acetyl Tetrapeptide-3 (and) Trifolium Pratense Flower Extract\nUSP: Sin monografia USP\nPeptido biomimetico + extracto de trebol rojo, anticaida capilar (nombre comercial Lucas Meyer)",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenetica, caida del cabello (uso cosmetico)",
+    "Concentración de Uso": "2%-5%\nMaximo uso: 5% (segun ficha tecnica del proveedor)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0081",
+    "Nombre": "Carbon Activado",
+    "Identificación Técnica": "INCI: Charcoal Powder\nUSP: Activated Charcoal\nAdsorbente, purificante (uso cosmético en mascarillas)",
+    "Uso Terapéutico y Cosmético": "Piel grasa, poros obstruidos, purificación (uso cosmético)",
+    "Concentración de Uso": "1%-10%\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0343",
+    "Nombre": "Celulas Madres (Lightwaves Defense)",
+    "Identificación Técnica": "INCI: LightWaves Defense (nombre comercial, composicion exacta no confirmada con certeza; linea de celulas madre vegetales)\nUSP: Sin monografia USP\nProbable activo antioxidante/protector celular de origen vegetal",
+    "Uso Terapéutico y Cosmético": "Piel sensible, proteccion antioxidante (uso referencial, sin confirmacion de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0345",
+    "Nombre": "Cetirizina HLC",
+    "Identificación Técnica": "USP: Sin monografía USP\nAntihistamínico (uso oral habitual; uso tópico no estándar)",
+    "Uso Terapéutico y Cosmético": "No aplica de forma estándar en uso tópico dermatológico (antihistamínico de uso sistémico)",
+    "Concentración de Uso": "No aplica de forma estándar para uso tópico",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0090",
+    "Nombre": "Ciclopiroxolamina",
+    "Identificación Técnica": "USP: Ciclopirox Olamine\nAntifúngico de amplio espectro",
+    "Uso Terapéutico y Cosmético": "Micosis cutáneas, onicomicosis, caspa (dermatitis seborreica), pitiriasis versicolor",
+    "Concentración de Uso": "0.77%-8% según forma farmacéutica\nMáximo uso: 8% (esmaltes para onicomicosis); 1-2% en champús/cremas",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0092",
+    "Nombre": "Climbazole",
+    "Identificación Técnica": "INCI: Climbazole\nUSP: Sin monografia USP\nAntifungico/conservante (imidazol)",
+    "Uso Terapéutico y Cosmético": "Caspa, dermatitis seborreica",
+    "Concentración de Uso": "0.2%-0.5%\nMaximo uso: 0.5% (limite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0093",
+    "Nombre": "Clindamicina Fosfato",
+    "Identificación Técnica": "USP: Clindamycin Phosphate\nAntibiótico tópico (lincosamida)",
+    "Uso Terapéutico y Cosmético": "Acné vulgar",
+    "Concentración de Uso": "1%-2%\nMáximo uso: 2% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0094",
+    "Nombre": "Clobetasol",
+    "Identificación Técnica": "USP: Clobetasol Propionate\nCorticosteroide tópico de muy alta potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Psoriasis, dermatitis severa, liquen plano, alopecia areata",
+    "Concentración de Uso": "0.05%\nMáximo uso: 0.05% (concentración estándar comercial; uso limitado en tiempo/superficie)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0365",
+    "Nombre": "Clorhexidina Gluconato",
+    "Identificación Técnica": "INCI: Chlorhexidine Digluconate\nUSP: Chlorhexidine Gluconate\nAntiséptico/desinfectante de amplio espectro",
+    "Uso Terapéutico y Cosmético": "Antisepsia cutánea, desinfección preoperatoria",
+    "Concentración de Uso": "0.5%-4%\nMáximo uso: 4% (uso estándar como antiséptico tópico)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0376",
+    "Nombre": "Clorhidroxido de Aluminio + Zirconio en Polvo",
+    "Identificación Técnica": "INCI: Aluminum Zirconium Tetrachlorohydrex Gly\nUSP: Sin monografia USP\nAgente antitranspirante",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: control de sudoracion (antitranspirante)",
+    "Concentración de Uso": "10%-25% segun formulacion",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0095",
+    "Nombre": "Clorhidroxido de Aluminio + Zirconio Liquido",
+    "Identificación Técnica": "INCI: Aluminum Zirconium Tetrachlorohydrex Gly\nUSP: Sin monografia USP\nAgente antitranspirante",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: control de sudoracion (antitranspirante)",
+    "Concentración de Uso": "10%-25% segun formulacion",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0098",
+    "Nombre": "Cobiolift",
+    "Identificación Técnica": "INCI: Chenopodium Quinoa Seed Extract\nUSP: Sin monografia USP\nAntioxidante, lipolitico, estimulante de colageno; reduce bolsas y mejora firmeza de la zona del contorno de ojos",
+    "Uso Terapéutico y Cosmético": "Bolsas y puffiness del contorno de ojos, arrugas finas, firmeza cutanea (uso cosmetico, componente de la formula K-viar)",
+    "Concentración de Uso": "3%-5% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0099",
+    "Nombre": "Colageno Marino",
+    "Identificación Técnica": "INCI: Hydrolyzed Collagen\nUSP: Sin monografia USP\nHumectante, agente formador de pelicula (proteina hidrolizada)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: hidratacion y mejora de textura cutanea/capilar",
+    "Concentración de Uso": "0.5%-5% segun formulacion",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0122",
+    "Nombre": "D-Pantenol",
+    "Identificación Técnica": "INCI: Panthenol\nUSP: Dexpanthenol\nProvitamina B5, humectante, calmante, cicatrizante",
+    "Uso Terapéutico y Cosmético": "Piel/mucosas irritadas, cicatrizacion, hidratacion capilar",
+    "Concentración de Uso": "1%-5%\nMaximo uso: 5% (uso topico cosmetico/dermatologico habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0116",
+    "Nombre": "Desonida",
+    "Identificación Técnica": "USP: Desonide\nCorticosteroide tópico de baja potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dermatitis atópica, eccemas leves, dermatitis del pañal",
+    "Concentración de Uso": "0.05%\nMáximo uso: 0.05% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0319",
+    "Nombre": "DHA (Dihidroxiacetona)",
+    "Identificación Técnica": "INCI: Dihydroxyacetone\nUSP: Sin monografia USP\nAgente autobronceador",
+    "Uso Terapéutico y Cosmético": "Bronceado sin sol (autobronceador cosmetico)",
+    "Concentración de Uso": "3%-15%\nMaximo uso: 15% (limite regulatorio habitual en UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0117",
+    "Nombre": "Diclofenaco Sodico",
+    "Identificación Técnica": "USP: Diclofenac Sodium\nAntiinflamatorio no esteroideo (AINE) tópico",
+    "Uso Terapéutico y Cosmético": "Queratosis actínica, dolor/inflamación musculoesquelética localizada",
+    "Concentración de Uso": "1%-3%\nMáximo uso: 3% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0118",
+    "Nombre": "Dimeticona",
+    "Identificación Técnica": "INCI: Dimethicone\nUSP: Dimethicone\nEmoliente de silicona, protector cutaneo",
+    "Uso Terapéutico y Cosmético": "Proteccion de barrera cutanea, dermatitis del panal (uso cosmetico/dermocosmetico)",
+    "Concentración de Uso": "1%-30% segun formulacion",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0123",
+    "Nombre": "Dragons Blood LP",
+    "Identificación Técnica": "INCI: Croton Lechleri Resin Extract\nUSP: Sin monografia USP\nAntiinflamatorio, antioxidante, formador de pelicula (extracto Croton lechleri - sangre de drago)",
+    "Uso Terapéutico y Cosmético": "Antienvejecimiento, efecto lifting temporal, piel irritada (uso cosmetico)",
+    "Concentración de Uso": "0.5%-5%\nMaximo uso: 5% (uso topico cosmetico habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0124",
+    "Nombre": "Dutasteride",
+    "Identificación Técnica": "USP: Dutasteride\nInhibidor de la 5α-reductasa (tipos 1 y 2), antiandrogénico",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenética (uso off-label tópico)",
+    "Concentración de Uso": "0.01%-0.1% tópico\nMáximo uso: sin límite regulatorio estricto establecido para uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0129",
+    "Nombre": "Emblica",
+    "Identificación Técnica": "INCI: Phyllanthus Emblica Fruit Extract\nUSP: Sin monografía USP\nAntioxidante, despigmentante (extracto de amla/Phyllanthus emblica)",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentación, fotoenvejecimiento (uso cosmético)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0131",
+    "Nombre": "Eritromicina Base",
+    "Identificación Técnica": "USP: Erythromycin\nAntibiótico tópico (macrólido)",
+    "Uso Terapéutico y Cosmético": "Acné vulgar, infecciones bacterianas cutáneas leves",
+    "Concentración de Uso": "2%-4%\nMáximo uso: 4% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0134",
+    "Nombre": "Eucalipto",
+    "Identificación Técnica": "INCI: Eucalyptus Globulus Leaf Oil\nUSP: Sin monografía USP\nDescongestionante, antimicrobiano leve (aceite esencial)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: sensación refrescante, aporte aromático/antimicrobiano leve",
+    "Concentración de Uso": "0.1%-2%\nMáximo uso: 2% (mayor concentración aumenta riesgo de irritación)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0139",
+    "Nombre": "Eusolex 90/20",
+    "Identificación Técnica": "INCI: Butyl Methoxydibenzoylmethane\nUSP: Sin monografia USP\nFiltro solar organico (avobenzona, nombre comercial Merck/Eusolex)",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion UVA",
+    "Concentración de Uso": "1%-5%\nMaximo uso: 5% (limite regulatorio FDA/UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0140",
+    "Nombre": "Eusolex T-S (Dioxido de Titanio)",
+    "Identificación Técnica": "INCI: Titanium Dioxide\nUSP: Titanium Dioxide\nFiltro solar físico (UVA/UVB), pigmento",
+    "Uso Terapéutico y Cosmético": "Fotoprotección de amplio espectro",
+    "Concentración de Uso": "2%-25%\nMáximo uso: 25% (límite regulatorio FDA como filtro solar)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0141",
+    "Nombre": "Eusolex Uv-Pearls Ob-S",
+    "Identificación Técnica": "INCI: Eusolex Uv-Pearls Ob-S (nombre comercial Merck; filtro solar organico encapsulado)\nUSP: Sin monografia USP\nFiltro solar organico UVB encapsulado, reduce contacto directo del filtro con la piel",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion UVB",
+    "Concentración de Uso": "1%-10% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0146",
+    "Nombre": "Extracto de Algas",
+    "Identificación Técnica": "INCI: Algae Extract\nUSP: Sin monografía USP\nAntioxidante, remineralizante (extracto vegetal marino)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación y aporte de minerales/antioxidantes",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0375",
+    "Nombre": "Extracto de Arandanos",
+    "Identificación Técnica": "INCI: Vaccinium Myrtillus Fruit Extract\nUSP: Sin monografía USP\nAntioxidante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: aporte antioxidante, protección frente al fotoenvejecimiento",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0147",
+    "Nombre": "Extracto de Arnica",
+    "Identificación Técnica": "INCI: Arnica Montana Flower Extract\nUSP: Sin monografía USP\nAntiinflamatorio, calmante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Hematomas, inflamación localizada, piel post-procedimiento (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual; no usar sobre piel lesionada sin diluir)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0372",
+    "Nombre": "Extracto de Azucena",
+    "Identificación Técnica": "INCI: Lilium Candidum Flower Extract\nUSP: Sin monografía USP\nCalmante, hidratante (extracto vegetal - lirio)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: calmante e hidratante en piel sensible",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0148",
+    "Nombre": "Extracto de Calendula",
+    "Identificación Técnica": "INCI: Calendula Officinalis Flower Extract\nUSP: Sin monografía USP\nAntiinflamatorio, calmante, cicatrizante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Piel irritada, dermatitis leve, cicatrización de heridas superficiales (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0149",
+    "Nombre": "Extracto de Castaño de Indias",
+    "Identificación Técnica": "INCI: Aesculus Hippocastanum (Horse Chestnut) Seed Extract\nUSP: Sin monografía USP\nVenotónico, antiinflamatorio (extracto vegetal - escina)",
+    "Uso Terapéutico y Cosmético": "Piernas cansadas, edema leve, celulitis (uso cosmético)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0308",
+    "Nombre": "Extracto de Cebolla",
+    "Identificación Técnica": "INCI: Allium Cepa (Onion) Bulb Extract\nUSP: Sin monografía USP\nAntiinflamatorio, antioxidante (extracto vegetal - quercetina)",
+    "Uso Terapéutico y Cosmético": "Cicatrices hipertróficas, hiperpigmentación post-inflamatoria (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0145",
+    "Nombre": "Extracto de Centella Asiatica",
+    "Identificación Técnica": "INCI: Centella Asiatica Extract\nUSP: Sin monografía USP\nCicatrizante, antiinflamatorio, estimulante de colágeno (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Cicatrización de heridas, estrías, piel sensible/irritada",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0150",
+    "Nombre": "Extracto de Cola de Caballo",
+    "Identificación Técnica": "INCI: Equisetum Arvense Extract\nUSP: Sin monografía USP\nAstringente, remineralizante (extracto vegetal - sílice)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: aporte de firmeza y minerales en formulaciones capilares/piel",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0350",
+    "Nombre": "Extracto de Elastina",
+    "Identificación Técnica": "INCI: Hydrolyzed Elastin\nUSP: Sin monografía USP\nAgente hidratante, formador de película (proteína)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: mejora de elasticidad percibida y textura cutánea",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0151",
+    "Nombre": "Extracto de Hamamelis",
+    "Identificación Técnica": "INCI: Hamamelis Virginiana (Witch Hazel) Extract\nUSP: Sin monografía USP\nAstringente, antiinflamatorio (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Piel grasa, rosácea leve, irritación cutánea (uso cosmético)",
+    "Concentración de Uso": "0.5%-10%\nMáximo uso: 10% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0368",
+    "Nombre": "Extracto de Huevo",
+    "Identificación Técnica": "INCI: Egg Extract\nUSP: Sin monografía USP\nAgente proteico, nutritivo (uso cosmético capilar)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: aporte de proteínas en formulaciones capilares",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0073",
+    "Nombre": "Extracto de Manzanilla (Camomila)",
+    "Identificación Técnica": "INCI: Chamomilla Recutita (Matricaria) Flower Extract\nUSP: Sin monografía USP\nAntiinflamatorio, calmante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, irritada, dermatitis leve (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0152",
+    "Nombre": "Extracto de Ortiga",
+    "Identificación Técnica": "INCI: Urtica Dioica (Nettle) Extract\nUSP: Sin monografía USP\nAstringente, antiinflamatorio, remineralizante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Piel grasa, caspa, caída de cabello (uso cosmético)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0153",
+    "Nombre": "Extracto de Pepino",
+    "Identificación Técnica": "INCI: Cucumis Sativus (Cucumber) Fruit Extract\nUSP: Sin monografía USP\nCalmante, hidratante, descongestionante (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Piel irritada, ojeras, descongestión periocular (uso cosmético)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0154",
+    "Nombre": "Extracto de Te Verde",
+    "Identificación Técnica": "INCI: Camellia Sinensis Leaf Extract\nUSP: Sin monografía USP\nAntioxidante, antiinflamatorio (extracto vegetal - polifenoles)",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, acné, rosácea (uso cosmético/coadyuvante)",
+    "Concentración de Uso": "1%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0155",
+    "Nombre": "Finasteride",
+    "Identificación Técnica": "USP: Finasteride\nInhibidor de la 5α-reductasa tipo 2, antiandrogénico",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenética (uso off-label tópico)",
+    "Concentración de Uso": "0.01%-0.25% tópico\nMáximo uso: sin límite regulatorio estricto establecido para uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0156",
+    "Nombre": "Flutamida",
+    "Identificación Técnica": "USP: Flutamide\nAntiandrogénico no esteroideo (uso off-label tópico)",
+    "Uso Terapéutico y Cosmético": "Hirsutismo, acné hormonal (uso off-label tópico)",
+    "Concentración de Uso": "1%-2.5% tópico\nMáximo uso: sin límite regulatorio estricto establecido para uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Hormonales y Antiandrogénicos"
+  },
+  {
+    "Referencia Interna": "MA0220",
+    "Nombre": "Furoato Mometasona",
+    "Identificación Técnica": "USP: Mometasone Furoate\nCorticosteroide tópico de mediana-alta potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dermatitis atópica, eccemas, psoriasis",
+    "Concentración de Uso": "0.1%\nMáximo uso: 0.1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0169",
+    "Nombre": "Gentamicina",
+    "Identificación Técnica": "USP: Gentamicin Sulfate\nAntibiótico tópico (aminoglucósido)",
+    "Uso Terapéutico y Cosmético": "Infecciones bacterianas cutáneas",
+    "Concentración de Uso": "0.1%\nMáximo uso: 0.1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0170",
+    "Nombre": "Ginkgo Biloba",
+    "Identificación Técnica": "INCI: Ginkgo Biloba Leaf Extract\nUSP: Sin monografía USP\nAntioxidante, activador de microcirculación (extracto vegetal)",
+    "Uso Terapéutico y Cosmético": "Ojeras, circulación cutánea, antienvejecimiento (uso cosmético)",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0341",
+    "Nombre": "Granulos Exfoliantes de Arroz",
+    "Identificación Técnica": "INCI: Oryza Sativa (Rice) Bran\nUSP: Sin monografia USP\nAgente exfoliante mecanico (granulos naturales)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: exfoliacion mecanica de la piel",
+    "Concentración de Uso": "1%-10% segun formulacion",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0175",
+    "Nombre": "Hidrocortisona",
+    "Identificación Técnica": "USP: Hydrocortisone\nCorticosteroide tópico de baja potencia, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dermatitis, eccemas, picaduras de insectos, irritaciones leves",
+    "Concentración de Uso": "0.5%-2.5%\nMáximo uso: 2.5% (concentraciones ≤1% de venta libre en muchas jurisdicciones)",
+    "Etiqueta de Materia Prima": "Corticoides Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0176",
+    "Nombre": "Hidroquinona",
+    "Identificación Técnica": "USP: Hydroquinone\nInhibidor de tirosinasa, despigmentante potente",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentación, melasma, manchas solares",
+    "Concentración de Uso": "2%-4%\nMáximo uso: 4% (uso tópico dermatológico bajo supervisión; restringido/prohibido en cosmética de venta libre según jurisdicción)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0334",
+    "Nombre": "Hydrasensyl Glucan Green/Tinocare GL",
+    "Identificación Técnica": "INCI: Beta-Glucan\nUSP: Sin monografia USP\nCalmante, hidratante (beta-glucano, nombre comercial BASF Tinocare GL)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, irritada, hidratacion (uso cosmetico)",
+    "Concentración de Uso": "0.5%-3% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0182",
+    "Nombre": "Ictiol",
+    "Identificación Técnica": "USP: Ichthammol\nAntiinflamatorio, antiséptico leve (ictiol/ictamol)",
+    "Uso Terapéutico y Cosmético": "Acné, foliculitis, dermatitis inflamatoria",
+    "Concentración de Uso": "2%-10%\nMáximo uso: 10% (uso tópico dermatológico habitual)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0183",
+    "Nombre": "Imiquimod",
+    "Identificación Técnica": "USP: Imiquimod\nInmunomodulador tópico",
+    "Uso Terapéutico y Cosmético": "Verrugas genitales, queratosis actínica, carcinoma basocelular superficial",
+    "Concentración de Uso": "5%\nMáximo uso: 5% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Inmunomoduladores y Antiproliferativos"
+  },
+  {
+    "Referencia Interna": "MA0184",
+    "Nombre": "Indometacina",
+    "Identificación Técnica": "USP: Indomethacin\nAntiinflamatorio no esteroideo (AINE) tópico",
+    "Uso Terapéutico y Cosmético": "Dolor/inflamación musculoesquelética localizada",
+    "Concentración de Uso": "1%-5%\nMáximo uso: 5% (uso tópico habitual)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0185",
+    "Nombre": "Irgasan (Triclosan)",
+    "Identificación Técnica": "INCI: Triclosan\nUSP: Sin monografía USP\nAntimicrobiano/antiséptico (triclosán)",
+    "Uso Terapéutico y Cosmético": "Antisepsia cutánea, control de acné leve (uso restringido en muchas jurisdicciones)",
+    "Concentración de Uso": "0.1%-0.3%\nMáximo uso: 0.3% (límite regulatorio en la mayoría de jurisdicciones; uso restringido/prohibido en algunas)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0318",
+    "Nombre": "Iselight",
+    "Identificación Técnica": "Es un agente antioxidante y antienvejecimiento. Es un ingrediente activo de origen vegetal para aclarar las imperfecciones de la edad. Promueve la homeostasis del sistema de desintoxicación celular, la autofagia y la actividad del proteosoma. Puede eliminar toxinas y componentes biológicos celulares disfuncionales. Iselight se puede utilizar en emulsiones para la piel.",
+    "Uso Terapéutico y Cosmético": "0",
+    "Concentración de Uso": "",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0187",
+    "Nombre": "Ivermectina",
+    "Identificación Técnica": "USP: Ivermectin\nAntiparasitario, antiinflamatorio tópico",
+    "Uso Terapéutico y Cosmético": "Rosácea (pápulo-pustulosa), escabiosis, pediculosis",
+    "Concentración de Uso": "1%\nMáximo uso: 1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0190",
+    "Nombre": "K-viar",
+    "Identificación Técnica": "INCI: Glycogen (and) Glycosaminoglycans (and) Hydrolyzed Caviar Extract (Amino-Glyco Kviar PF)\nUSP: Sin monografia USP\nActivo marino regenerador celular, nutritivo e hidratante (proteinas, glicosaminoglicanos y glucogeno de origen marino)",
+    "Uso Terapéutico y Cosmético": "Regeneracion cutanea, tratamientos nocturnos reparadores, piel fatigada/envejecida",
+    "Concentración de Uso": "1%-5% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0188",
+    "Nombre": "Kellina",
+    "Identificación Técnica": "USP: Sin monografía USP\nInhibidor de tirosinasa, despigmentante, fototerapia adyuvante (jelina/khellin)",
+    "Uso Terapéutico y Cosmético": "Vitíligo (adyuvante con fototerapia), hiperpigmentación",
+    "Concentración de Uso": "3%-4% tópico\nMáximo uso: sin límite regulatorio estricto establecido; uso bajo supervisión médica",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0189",
+    "Nombre": "Ketoconazol",
+    "Identificación Técnica": "USP: Ketoconazole\nAntifúngico (imidazol) de amplio espectro",
+    "Uso Terapéutico y Cosmético": "Dermatitis seborreica, caspa, micosis cutáneas, pitiriasis versicolor",
+    "Concentración de Uso": "1%-2%\nMáximo uso: 2% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0191",
+    "Nombre": "L - Cystine",
+    "Identificación Técnica": "INCI: Cystine\nUSP: Sin monografia USP\nAminoacido, fortalecedor capilar (precursor de queratina)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: fortalecimiento capilar",
+    "Concentración de Uso": "0.1%-2% segun formulacion",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0193",
+    "Nombre": "L - Metionina",
+    "Identificación Técnica": "INCI: Methionine\nUSP: Methionine\nAminoacido, fortalecedor capilar",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: fortalecimiento capilar",
+    "Concentración de Uso": "0.1%-2% segun formulacion",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0194",
+    "Nombre": "L Fenil Alanina",
+    "Identificación Técnica": "INCI: Phenylalanine\nUSP: Phenylalanine\nAminoacido (uso cosmetico como acondicionador/coadyuvante en despigmentantes)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: coadyuvante en formulaciones despigmentantes/capilares",
+    "Concentración de Uso": "0.1%-2% segun formulacion",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0199",
+    "Nombre": "Lidocaina",
+    "Identificación Técnica": "USP: Lidocaine\nAnestésico local tópico",
+    "Uso Terapéutico y Cosmético": "Anestesia tópica previa a procedimientos dermatológicos, prurito, dolor localizado",
+    "Concentración de Uso": "2%-5%\nMáximo uso: 5% (uso tópico dermatológico estándar; hasta 4-5% en cremas EMLA-like combinadas)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0200",
+    "Nombre": "Lidocaina Liposomada",
+    "Identificación Técnica": "USP: Sin monografía USP\nAnestésico local tópico de liberación sostenida (forma liposomada)",
+    "Uso Terapéutico y Cosmético": "Anestesia tópica previa a procedimientos dermatológicos, dolor localizado",
+    "Concentración de Uso": "4%-5%\nMáximo uso: 5% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0201",
+    "Nombre": "Linefactor",
+    "Identificación Técnica": "INCI: Linefactor C (nombre comercial, composición exacta no confirmada con certeza)\nUSP: Sin monografía USP\nProbable activo antiarrugas/reafirmante",
+    "Uso Terapéutico y Cosmético": "Arrugas, firmeza cutanea (uso referencial, sin confirmacion de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0202",
+    "Nombre": "Liposomas Coenzima Q10",
+    "Identificación Técnica": "INCI: Ubiquinone\nUSP: Sin monografia USP\nAntioxidante, antienvejecimiento (coenzima Q10 encapsulada en liposomas)",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, proteccion antioxidante cutanea",
+    "Concentración de Uso": "0.5%-3%\nMaximo uso: 3% (uso topico cosmetico habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0203",
+    "Nombre": "Lumiskin",
+    "Identificación Técnica": "INCI: Caprylic/Capric Triglyceride (and) Diacetyl Boldine (Lumiskin MBAL, Sederma)\nUSP: Sin monografia USP\nDespigmentante derivado de la corteza del boldo chileno (Peumus boldus), regula y corrige la pigmentacion",
+    "Uso Terapéutico y Cosmético": "Hiperpigmentacion, manchas oscuras, tono de piel desigual",
+    "Concentración de Uso": "2%-5% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0205",
+    "Nombre": "Manteca de Cacao",
+    "Identificación Técnica": "INCI: Theobroma Cacao (Cocoa) Seed Butter\nUSP: Cocoa Butter\nEmoliente, agente oclusivo (manteca vegetal)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación intensa, prevención de estrías",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0206",
+    "Nombre": "Mantequilla de Karite",
+    "Identificación Técnica": "INCI: Butyrospermum Parkii (Shea) Butter\nUSP: Sin monografía USP\nEmoliente, agente oclusivo (manteca de karité)",
+    "Uso Terapéutico y Cosmético": "Función cosmética: hidratación intensa, protección de barrera cutánea",
+    "Concentración de Uso": "1%-30% según formulación\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0207",
+    "Nombre": "Matrixyl 3000",
+    "Identificación Técnica": "INCI: Palmitoyl Oligopeptide (and) Palmitoyl Tetrapeptide-7\nUSP: Sin monografia USP\nComplejo peptidico antienvejecimiento (palmitoil oligopeptido + palmitoil tetrapeptido-7, nombre comercial Sederma)",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, arrugas, estimulacion de colageno",
+    "Concentración de Uso": "3%-5%\nMaximo uso: 5% (segun ficha tecnica del proveedor)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0208",
+    "Nombre": "Melaslow",
+    "Identificación Técnica": "INCI: Sin nombre INCI único (mezcla comercial)\nUSP: Sin monografia USP\nComplejo despigmentante (nombre comercial Sederma, orientado a melasma)",
+    "Uso Terapéutico y Cosmético": "Melasma, hiperpigmentacion",
+    "Concentración de Uso": "2%-5%\nMaximo uso: 5% (segun ficha tecnica del proveedor)",
+    "Etiqueta de Materia Prima": "Despigmentantes y Aclarantes"
+  },
+  {
+    "Referencia Interna": "MA0209",
+    "Nombre": "Melatonina",
+    "Identificación Técnica": "INCI: Melatonin\nUSP: Sin monografía USP\nAntioxidante, fotoprotector adyuvante",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante cutánea",
+    "Concentración de Uso": "0.05%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0210",
+    "Nombre": "Mentol",
+    "Identificación Técnica": "INCI: Menthol\nUSP: Menthol\nRefrescante, analgésico tópico leve, antipruriginoso",
+    "Uso Terapéutico y Cosmético": "Prurito, sensación refrescante en formulaciones capilares/corporales",
+    "Concentración de Uso": "0.1%-3%\nMáximo uso: 3% (uso tópico habitual)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0214",
+    "Nombre": "Metronidazol",
+    "Identificación Técnica": "USP: Metronidazole\nAntibiótico/antiparasitario tópico, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Rosácea, dermatitis perioral",
+    "Concentración de Uso": "0.75%-1%\nMáximo uso: 1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0216",
+    "Nombre": "Microesferas Azules",
+    "Identificación Técnica": "INCI: Sin nombre INCI único (depende del polímero base)\nUSP: Sin monografia USP\nAgente exfoliante mecanico/esteticc (microesferas)",
+    "Uso Terapéutico y Cosmético": "No aplica (agente exfoliante/esteticc, no principio activo)",
+    "Concentración de Uso": "1%-5% segun formulacion",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0217",
+    "Nombre": "Miel de Abejas Pura",
+    "Identificación Técnica": "INCI: Mel (Honey)\nUSP: Sin monografia USP\nHumectante, antimicrobiano natural, cicatrizante",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: hidratacion, suavizado, coadyuvante en piel irritada",
+    "Concentración de Uso": "1%-20% segun formulacion",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0218",
+    "Nombre": "Minoxidil",
+    "Identificación Técnica": "USP: Minoxidil\nVasodilatador, estimulante del crecimiento capilar",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenética",
+    "Concentración de Uso": "2%-5%\nMáximo uso: 5% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0344",
+    "Nombre": "Mupirocina Base",
+    "Identificación Técnica": "USP: Mupirocin\nAntibiótico tópico",
+    "Uso Terapéutico y Cosmético": "Infecciones bacterianas cutáneas (impétigo, foliculitis)",
+    "Concentración de Uso": "2%\nMáximo uso: 2% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antibióticos, Antisépticos y Antiparasitarios"
+  },
+  {
+    "Referencia Interna": "MA0221",
+    "Nombre": "Nicotinamida (Niacinamida)",
+    "Identificación Técnica": "INCI: Niacinamide\nUSP: Niacinamide\nAntiinflamatorio, regulador de sebo, mejora de barrera cutánea, despigmentante leve",
+    "Uso Terapéutico y Cosmético": "Acné, rosácea, hiperpigmentación, fotoenvejecimiento, barrera cutánea",
+    "Concentración de Uso": "2%-10%\nMáximo uso: 10% (uso tópico cosmético/dermatológico habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0222",
+    "Nombre": "Nutrilan Keratin W Pp",
+    "Identificación Técnica": "INCI: Hydrolyzed Keratin\nUSP: Sin monografia USP\nProteina hidrolizada de queratina, acondicionador capilar (nombre comercial BASF)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: fortalecimiento y reparacion capilar",
+    "Concentración de Uso": "0.5%-5% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0223",
+    "Nombre": "Octopirox",
+    "Identificación Técnica": "INCI: Piroctone Olamine\nUSP: Sin monografía USP\nAntifúngico/antiseborreico (piroctona olamina)",
+    "Uso Terapéutico y Cosmético": "Caspa, dermatitis seborreica",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico habitual en champús anticaspa)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0225",
+    "Nombre": "Oxido de Zinc Micronizado",
+    "Identificación Técnica": "INCI: Zinc Oxide\nUSP: Zinc Oxide\nFiltro solar físico (UVA/UVB), protector cutáneo, antiinflamatorio leve",
+    "Uso Terapéutico y Cosmético": "Fotoprotección de amplio espectro, protección de piel irritada (dermatitis del pañal)",
+    "Concentración de Uso": "5%-25%\nMáximo uso: 25% (límite regulatorio FDA como filtro solar)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0229",
+    "Nombre": "Parsol 5000 (MBC)",
+    "Identificación Técnica": "INCI: 4-Methylbenzylidene Camphor\nUSP: Sin monografía USP\nFiltro solar UVA (4-metilbenciliden alcanfor)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección UVA",
+    "Concentración de Uso": "1%-4%\nMáximo uso: 4% (límite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0230",
+    "Nombre": "Percloruro Ferrico",
+    "Identificación Técnica": "USP: Sin monografía USP\nAgente hemostático/cauterizante (cloruro férrico)",
+    "Uso Terapéutico y Cosmético": "Hemostasia local en pequeñas heridas/procedimientos dermatológicos",
+    "Concentración de Uso": "20%-35% solución\nMáximo uso: sin límite regulatorio estricto establecido; uso profesional",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0232",
+    "Nombre": "Peroxido de Benzoilo 75%",
+    "Identificación Técnica": "INCI: Benzoyl Peroxide\nUSP: Benzoyl Peroxide\nAntibacteriano, queratolítico, antiacné",
+    "Uso Terapéutico y Cosmético": "Acné vulgar",
+    "Concentración de Uso": "2.5%-10%\nMáximo uso: 10% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Antiacné y Retinoides"
+  },
+  {
+    "Referencia Interna": "MA0235",
+    "Nombre": "Piritionato de Zinc Nf 50%",
+    "Identificación Técnica": "INCI: Zinc Pyrithione\nUSP: Zinc Pyrithione\nAntifúngico/antiseborreico",
+    "Uso Terapéutico y Cosmético": "Caspa, dermatitis seborreica",
+    "Concentración de Uso": "1%-2%\nMáximo uso: 2% (uso tópico habitual en champús anticaspa)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0239",
+    "Nombre": "Podofilina",
+    "Identificación Técnica": "USP: Podophyllum Resin\nAgente citotóxico/antimitótico",
+    "Uso Terapéutico y Cosmético": "Verrugas genitales (condilomas)",
+    "Concentración de Uso": "10%-25%\nMáximo uso: 25% (uso profesional bajo supervisión médica)",
+    "Etiqueta de Materia Prima": "Inmunomoduladores y Antiproliferativos"
+  },
+  {
+    "Referencia Interna": "MA0245",
+    "Nombre": "Pore Reductyl",
+    "Identificación Técnica": "INCI: Aqua (and) Butylene Glycol (and) Fomes Officinalis (Mushroom) Extract (Pore Reductyl NT, Cobiosa/MMP)\nUSP: Sin monografia USP\nAstringente natural (acido agarico), reduce y tensa poros, control de sebo, efecto antitranspirante suave sin sales de aluminio",
+    "Uso Terapéutico y Cosmético": "Piel grasa/mixta, poros dilatados, exceso de sudoracion (antitranspirante natural)",
+    "Concentración de Uso": "1%-3% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0246",
+    "Nombre": "Prilocaina",
+    "Identificación Técnica": "USP: Prilocaine\nAnestésico local tópico",
+    "Uso Terapéutico y Cosmético": "Anestesia tópica previa a procedimientos dermatológicos",
+    "Concentración de Uso": "2.5%-5%\nMáximo uso: 5% (uso tópico dermatológico estándar, frecuentemente combinado con lidocaína)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0247",
+    "Nombre": "Procaina",
+    "Identificación Técnica": "USP: Procaine\nAnestésico local tópico/inyectable",
+    "Uso Terapéutico y Cosmético": "Anestesia local previa a procedimientos",
+    "Concentración de Uso": "0.5%-2%\nMáximo uso: 2% (uso tópico/local estándar)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0248",
+    "Nombre": "Procapil",
+    "Identificación Técnica": "INCI: Biotinoyl Tripeptide-1 (and) Apigenin (and) Oleanolic Acid\nUSP: Sin monografia USP\nComplejo anticaida capilar (nombre comercial Sederma - biotinil GHK, vitamina B6, apigenina, oleanolico)",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenetica, caida del cabello (uso cosmetico)",
+    "Concentración de Uso": "2%-3%\nMaximo uso: 3% (segun ficha tecnica del proveedor)",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0253",
+    "Nombre": "Resorcina",
+    "Identificación Técnica": "INCI: Resorcinol\nUSP: Resorcinol\nQueratolítico, antiacné, agente peeling (resorcinol)",
+    "Uso Terapéutico y Cosmético": "Acné, hiperqueratosis, peelings químicos",
+    "Concentración de Uso": "1%-20%\nMáximo uso: 20% (uso profesional); 1-3% en cosmética de venta libre",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0254",
+    "Nombre": "Resveratrol",
+    "Identificación Técnica": "INCI: Resveratrol\nUSP: Sin monografía USP\nAntioxidante, antienvejecimiento (polifenol)",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante cutánea",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0255",
+    "Nombre": "Revinage",
+    "Identificación Técnica": "INCI: Bidens Pilosa Extract (and) Elaeis Guineensis (Palm) Oil (and) Gossypium Herbaceum (Cotton) Seed Oil (and) Linum Usitatissimum (Linseed) Seed Oil\nUSP: Sin monografia USP\nComplejo vegetal antienvejecimiento/regenerador (composicion reportada por el proveedor, funcion especifica no confirmada con certeza)",
+    "Uso Terapéutico y Cosmético": "Antienvejecimiento, regeneracion cutanea (uso referencial, sin confirmacion completa de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0257",
+    "Nombre": "Ronacare Ap",
+    "Identificación Técnica": "INCI: Bis-Ethylhexyl Hydroxydimethoxy Benzylmalonate (RonaCare AP, Merck/Susonity)\nUSP: Sin monografia USP\nAntioxidante potente (equivalente a vitamina E), antiacne, regulador de sebo, estabilizante de filtros UV, antipolucion",
+    "Uso Terapéutico y Cosmético": "Piel grasa/con tendencia acneica, proteccion antioxidante, fotoenvejecimiento, estabilizacion de protectores solares",
+    "Concentración de Uso": "1%-2%\nMaximo uso: 2% (segun estudios clinicos publicados)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0260",
+    "Nombre": "Sacha Inchi",
+    "Identificación Técnica": "INCI: Plukenetia Volubilis Seed Oil\nUSP: Sin monografia USP\nEmoliente, antioxidante (aceite vegetal rico en omega-3)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: hidratacion y aporte antioxidante",
+    "Concentración de Uso": "1%-20% segun formulacion",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0262",
+    "Nombre": "Salicilato de Metilo Nf",
+    "Identificación Técnica": "INCI: Methyl Salicylate\nUSP: Methyl Salicylate\nAnalgésico/rubefaciente tópico, antiinflamatorio",
+    "Uso Terapéutico y Cosmético": "Dolor muscular/articular localizado",
+    "Concentración de Uso": "10%-30%\nMáximo uso: 30% (uso tópico habitual en linimentos)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0263",
+    "Nombre": "Saw Palmetto Polvo",
+    "Identificación Técnica": "INCI: Serenoa Serrulata Fruit Extract\nUSP: Sin monografía USP\nInhibidor natural de la 5α-reductasa, antiandrogénico (extracto de palma enana americana)",
+    "Uso Terapéutico y Cosmético": "Alopecia androgenética (uso tópico/oral coadyuvante)",
+    "Concentración de Uso": "1%-5% tópico\nMáximo uso: sin límite regulatorio estricto en uso cosmético",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0355",
+    "Nombre": "Seda Hidrolizada (Proteina)",
+    "Identificación Técnica": "INCI: Hydrolyzed Silk\nUSP: Sin monografia USP\nHumectante, agente formador de pelicula (proteina hidrolizada)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: hidratacion, brillo y suavidad en piel/cabello",
+    "Concentración de Uso": "0.5%-5% segun formulacion",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0377",
+    "Nombre": "Sulfato de Zinc Hidratato",
+    "Identificación Técnica": "INCI: Zinc Sulfate\nUSP: Zinc Sulfate\nAstringente, antiséptico leve, coadyuvante en cicatrización",
+    "Uso Terapéutico y Cosmético": "Astringente en lociones para piel grasa/acneica, antiséptico leve, coadyuvante en procesos de cicatrización cutánea",
+    "Concentración de Uso": "0.1%-2% según formulación\nMáximo uso: sin límite regulatorio estricto en uso tópico dermatológico",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0276",
+    "Nombre": "Suncat MTA",
+    "Identificación Técnica": "INCI: SunCat MTA (nombre comercial; probable dioxido de titanio recubierto grado filtro solar, composicion exacta no confirmada con certeza)\nUSP: Sin monografia USP\nProbable filtro solar fisico recubierto",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion de amplio espectro (uso referencial, sin confirmacion completa de ficha tecnica)",
+    "Concentración de Uso": "Informacion no disponible con certeza; verificar ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0289",
+    "Nombre": "T-Lite Sf-S",
+    "Identificación Técnica": "INCI: Titanium Dioxide (and) Alumina (and) Simethicone (STR-100A-LP; T-Lite SF-S, BASF)\nUSP: Sin monografía USP\nFiltro solar físico recubierto de dióxido de titanio, dispersable en fase oleosa",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion de amplio espectro (UVA/UVB)",
+    "Concentración de Uso": "2%-25%\nMaximo uso: 25% (limite regulatorio FDA como filtro solar)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0277",
+    "Nombre": "Tacrolimus",
+    "Identificación Técnica": "USP: Sin monografía USP\nInmunomodulador tópico (inhibidor de calcineurina)",
+    "Uso Terapéutico y Cosmético": "Dermatitis atópica, vitíligo (uso off-label)",
+    "Concentración de Uso": "0.03%-0.1%\nMáximo uso: 0.1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Inmunomoduladores y Antiproliferativos"
+  },
+  {
+    "Referencia Interna": "MA0278",
+    "Nombre": "Talco Chino",
+    "Identificación Técnica": "INCI: Talc\nUSP: Talc\nAbsorbente, deslizante (mineral)",
+    "Uso Terapéutico y Cosmético": "Funcion cosmetica: absorcion de humedad, sensacion de deslizamiento",
+    "Concentración de Uso": "Variable segun formulacion (hasta 100% en talcos puros)",
+    "Etiqueta de Materia Prima": "Seborregulación y Astringentes"
+  },
+  {
+    "Referencia Interna": "MA0279",
+    "Nombre": "Teofilina",
+    "Identificación Técnica": "USP: Theophylline\nEstimulante de la circulación, anticelulítico (uso tópico)",
+    "Uso Terapéutico y Cosmético": "Celulitis, lipólisis localizada (uso cosmético)",
+    "Concentración de Uso": "1%-2% tópico\nMáximo uso: 2% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0280",
+    "Nombre": "Terbinafina",
+    "Identificación Técnica": "USP: Terbinafine Hydrochloride\nAntifúngico (alilamina)",
+    "Uso Terapéutico y Cosmético": "Micosis cutáneas, tiña, onicomicosis, pitiriasis versicolor",
+    "Concentración de Uso": "1%\nMáximo uso: 1% (concentración estándar comercial)",
+    "Etiqueta de Materia Prima": "Antifúngicos y Anticaspa"
+  },
+  {
+    "Referencia Interna": "MA0367",
+    "Nombre": "Testosterona",
+    "Identificación Técnica": "USP: Testosterone\nAndrógeno, hormona esteroidea (uso tópico dermatológico/hormonal)",
+    "Uso Terapéutico y Cosmético": "Hipogonadismo (terapia de reemplazo hormonal tópica), liquen escleroso (uso off-label)",
+    "Concentración de Uso": "1%-2% tópico\nMáximo uso: sin límite regulatorio estricto uniforme para uso tópico dermatológico; requiere supervisión médica",
+    "Etiqueta de Materia Prima": "Hormonales y Antiandrogénicos"
+  },
+  {
+    "Referencia Interna": "MA0281",
+    "Nombre": "Tetracaina",
+    "Identificación Técnica": "USP: Tetracaine\nAnestésico local tópico",
+    "Uso Terapéutico y Cosmético": "Anestesia tópica previa a procedimientos dermatológicos",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0349",
+    "Nombre": "Tetracaina Liposomada",
+    "Identificación Técnica": "USP: Sin monografía USP\nAnestésico local tópico de liberación sostenida (forma liposomada)",
+    "Uso Terapéutico y Cosmético": "Anestesia tópica previa a procedimientos dermatológicos",
+    "Concentración de Uso": "0.5%-1%\nMáximo uso: 1% (uso tópico dermatológico estándar)",
+    "Etiqueta de Materia Prima": "Anestésicos y Analgésicos Tópicos"
+  },
+  {
+    "Referencia Interna": "MA0285",
+    "Nombre": "Tinocare GL",
+    "Identificación Técnica": "INCI: Beta-Glucan\nUSP: Sin monografia USP\nCalmante, hidratante (beta-glucano, nombre comercial BASF)",
+    "Uso Terapéutico y Cosmético": "Piel sensible, irritada, hidratacion (uso cosmetico)",
+    "Concentración de Uso": "0.5%-3% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Calmantes, Cicatrizantes y Reparadores"
+  },
+  {
+    "Referencia Interna": "MA0287",
+    "Nombre": "Tinosorb M",
+    "Identificación Técnica": "INCI: Methylene Bis-Benzotriazolyl Tetramethylbutylphenol\nUSP: Sin monografía USP\nFiltro solar de amplio espectro (bisoctrizol), orgánico-inorgánico híbrido",
+    "Uso Terapéutico y Cosmético": "Fotoprotección de amplio espectro (UVA/UVB)",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (límite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0288",
+    "Nombre": "Tinosorb S",
+    "Identificación Técnica": "INCI: Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine\nUSP: Sin monografía USP\nFiltro solar orgánico de amplio espectro (bemotrizinol)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección de amplio espectro (UVA/UVB)",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (límite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0290",
+    "Nombre": "Trichogen",
+    "Identificación Técnica": "INCI: Vegetal Complex (mezcla comercial, sin INCI único)\nUSP: Sin monografia USP\nComplejo vegetal anticaida capilar (nombre comercial Solabia)",
+    "Uso Terapéutico y Cosmético": "Alopecia, caida del cabello (uso cosmetico)",
+    "Concentración de Uso": "1%-3% segun ficha tecnica del proveedor",
+    "Etiqueta de Materia Prima": "Alopecia y Salud Capilar"
+  },
+  {
+    "Referencia Interna": "MA0295",
+    "Nombre": "Urea",
+    "Identificación Técnica": "INCI: Urea\nUSP: Urea\nHumectante, queratolítico suave (según concentración)",
+    "Uso Terapéutico y Cosmético": "Xerosis, queratosis, hiperqueratosis (talones, uñas)",
+    "Concentración de Uso": "5%-40%\nMáximo uso: 40% (concentraciones altas para queratolisis; 5-10% como humectante)",
+    "Etiqueta de Materia Prima": "Exfoliantes y Queratolíticos"
+  },
+  {
+    "Referencia Interna": "MA0265",
+    "Nombre": "Uvinul A Plus Granular",
+    "Identificación Técnica": "INCI: Diethylamino Hydroxybenzoyl Hexyl Benzoate\nUSP: Sin monografía USP\nFiltro solar UVA (diethylamino hydroxybenzoyl hexyl benzoate)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección UVA",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (límite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0261",
+    "Nombre": "Uvinul MC 80",
+    "Identificación Técnica": "INCI: Ethylhexyl Methoxycinnamate\nUSP: Sin monografía USP\nFiltro solar UVB (octinoxato/metoxicinamato de octilo)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección UVB",
+    "Concentración de Uso": "1%-10%\nMáximo uso: 10% (límite regulatorio UE/FDA)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0242",
+    "Nombre": "Uvinul N 539 T",
+    "Identificación Técnica": "INCI: Octocrylene\nUSP: Sin monografia USP\nFiltro solar UVA/UVB (octocrileno, nombre comercial BASF)",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion UVA/UVB",
+    "Concentración de Uso": "1%-10%\nMaximo uso: 10% (limite regulatorio UE/FDA)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0236",
+    "Nombre": "Uvinul T150",
+    "Identificación Técnica": "INCI: Ethylhexyl Triazone\nUSP: Sin monografía USP\nFiltro solar UVB (etilhexil trizona)",
+    "Uso Terapéutico y Cosmético": "Fotoprotección UVB",
+    "Concentración de Uso": "1%-5%\nMáximo uso: 5% (límite regulatorio UE)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  },
+  {
+    "Referencia Interna": "MA0215",
+    "Nombre": "Vaselina",
+    "Identificación Técnica": "INCI: Petrolatum\nUSP: Petrolatum\nEmoliente, agente oclusivo, protector cutáneo",
+    "Uso Terapéutico y Cosmético": "Xerosis, protección de barrera cutánea, cicatrización de heridas superficiales",
+    "Concentración de Uso": "Uso puro o como base (hasta 100%)\nMáximo uso: sin límite regulatorio estricto en uso cosmético/dermatológico",
+    "Etiqueta de Materia Prima": "Hidratantes y Emolientes Cosméticos"
+  },
+  {
+    "Referencia Interna": "MA0179",
+    "Nombre": "Vitamina A Palmitato",
+    "Identificación Técnica": "INCI: Retinyl Palmitate\nUSP: Sin monografía USP\nAntioxidante, precursor de retinol, antienvejecimiento",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, hidratación y renovación cutánea",
+    "Concentración de Uso": "0.1%-1%\nMáximo uso: 1% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0016",
+    "Nombre": "Vitamina C",
+    "Identificación Técnica": "INCI: Ascorbic Acid\nUSP: Ascorbic Acid\nAntioxidante, estimulante de colágeno, despigmentante",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, hiperpigmentación, protección antioxidante",
+    "Concentración de Uso": "5%-20%\nMáximo uso: 20% (uso tópico cosmético/dermatológico habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0162",
+    "Nombre": "Vitamina E 100% Acetato",
+    "Identificación Técnica": "INCI: Tocopheryl Acetate\nUSP: Tocopheryl Acetate\nAntioxidante, emoliente",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante, hidratación",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0160",
+    "Nombre": "Vitamina E 50% Polvo",
+    "Identificación Técnica": "INCI: Tocopherol\nUSP: Sin monografía USP\nAntioxidante, forma en polvo de tocoferol/acetato",
+    "Uso Terapéutico y Cosmético": "Fotoenvejecimiento, protección antioxidante",
+    "Concentración de Uso": "0.5%-5%\nMáximo uso: 5% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Antienvejecimiento y Antioxidantes"
+  },
+  {
+    "Referencia Interna": "MA0161",
+    "Nombre": "Vitamina K",
+    "Identificación Técnica": "USP: Phytonadione\nAgente hemostático adyuvante, reductor de hematomas/ojeras",
+    "Uso Terapéutico y Cosmético": "Ojeras, hematomas post-procedimiento, rosácea (uso cosmético)",
+    "Concentración de Uso": "0.5%-2%\nMáximo uso: 2% (uso tópico cosmético habitual)",
+    "Etiqueta de Materia Prima": "Reductores y Circulatorios"
+  },
+  {
+    "Referencia Interna": "MA0186",
+    "Nombre": "Z Cote HP 1",
+    "Identificación Técnica": "INCI: Zinc Oxide\nUSP: Zinc Oxide\nFiltro solar fisico recubierto (oxido de zinc, nombre comercial BASF Z-Cote)",
+    "Uso Terapéutico y Cosmético": "Fotoproteccion de amplio espectro",
+    "Concentración de Uso": "5%-25%\nMaximo uso: 25% (limite regulatorio FDA como filtro solar)",
+    "Etiqueta de Materia Prima": "Fotoprotección y Bronceado"
+  }
+]
