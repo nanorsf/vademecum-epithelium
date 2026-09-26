@@ -242,17 +242,21 @@ function irInicio() {
 }
 
 function abrirProductos() {
+    limpiarFiltros('prod');
     ponerNuevo('prod', false);
     mostrarPantalla('mainScreen');
 }
 
 function abrirLoNuevo() {
+    limpiarFiltros('prod');
     ponerNuevo('prod', true);
     mostrarPantalla('mainScreen');
 }
 
 function abrirPortafolio() {
     modoAdmin = false;
+    limpiarFiltros('port');
+    ponerNuevo('port', false);
     document.getElementById('portTitulo').textContent = 'Mi Portafolio';
     document.getElementById('portBackBtn').innerHTML = '&larr; Inicio';
     document.getElementById('portBackBtn').onclick = irInicio;
@@ -307,10 +311,7 @@ async function abrirPortafolioDeCliente(huella, nombre) {
     armarPortafolio();
     inicializarFiltros('port');
     limpiarFiltros('port');
-    CATALOGOS.port.soloNuevos = false;
-    document.getElementById('pfBtnNuevo').classList.remove('active');
-    document.getElementById('portScreen').classList.remove('modo-nuevo');
-    filtrar('port');
+    ponerNuevo('port', false);
     modoAdmin = true;
     document.getElementById('portTitulo').textContent = nombre;
     document.getElementById('portBackBtn').innerHTML = '&larr; Clientes';
@@ -319,6 +320,7 @@ async function abrirPortafolioDeCliente(huella, nombre) {
 }
 
 function abrirMateriasPrimas() {
+    limpiarFiltrosMP();
     mostrarPantalla('mpScreen');
 }
 
@@ -426,6 +428,13 @@ function mostrarDetalle(producto, tema = '') {
 }
 
 // MATERIAS PRIMAS
+function limpiarFiltrosMP() {
+    document.getElementById('mpSearchName').value = '';
+    document.getElementById('mpSearchUso').value = '';
+    document.getElementById('mpFilterEtiqueta').value = '';
+    filtrarMP();
+}
+
 function inicializarFiltrosMP() {
     const select = document.getElementById('mpFilterEtiqueta');
     select.length = 1;
