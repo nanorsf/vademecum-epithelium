@@ -21,26 +21,35 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 // CARGAR DATOS
+// Primero se busca el archivo en el mismo sitio de la app; si falla, en GitHub
+async function descargarJSON(archivo) {
+    const fuentes = [archivo, URL_DATOS + archivo];
+    for (const url of fuentes) {
+        try {
+            const response = await fetch(url, { cache: 'no-cache' });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const datos = await response.json();
+            if (Array.isArray(datos) && datos.length > 0) return datos;
+        } catch (error) {
+            console.warn(`No se pudo cargar ${url}:`, error);
+        }
+    }
+    return [];
+}
+
 async function cargarDatos() {
-    try {
-        const response = await fetch(URL_DATOS + 'data.json');
-        productos = await response.json();
-        productos.forEach(p => {
-            p['Categoría del Producto'] = (p['Categoría del Producto'] || '').replace(/^Magistral de Pedido\s*\/\s*/, '');
-        });
-        console.log(`✅ ${productos.length} productos cargados`);
-    } catch (error) {
-        console.error('Error cargando datos:', error);
-        productos = [];
-    }
-    try {
-        const response = await fetch(URL_DATOS + 'materias-primas.json');
-        materiasPrimas = await response.json();
-        console.log(`✅ ${materiasPrimas.length} materias primas cargadas`);
-    } catch (error) {
-        console.error('Error cargando materias primas:', error);
-        materiasPrimas = [];
-    }
+    productos = await descargarJSON('data.json');
+    productos.forEach(p => {
+        p['Categoría del Producto'] = (p['Categoría del Producto'] || '').replace(/^Magistral de Pedido\s*\/\s*/, '');
+    });
+    console.log(`✅ ${productos.length} productos cargados`);
+    materiasPrimas = await descargarJSON('materias-primas.json');
+    console.log(`✅ ${materiasPrimas.length} materias primas cargadas`);
+}
+
+async function reintentarCarga() {
+    await cargarDatos();
+    entrarApp();
 }
 
 // VERIFICAR ACCESO
@@ -158,6 +167,10 @@ function filtrar() {
 function mostrarResultados() {
     const container = document.getElementById('resultados');
     container.innerHTML = '';
+    if (productos.length === 0) {
+        container.innerHTML = '<div class="no-results">No se pudieron cargar los datos. Revisa tu conexión a internet.<br><button class="btn-nuevo" style="margin-top:15px" onclick="reintentarCarga()">Reintentar</button></div>';
+        return;
+    }
     if (productosFiltrados.length === 0) {
         container.innerHTML = '<div class="no-results">No se encontraron productos</div>';
         return;
@@ -208,6 +221,10 @@ function filtrarMP() {
 function mostrarResultadosMP() {
     const container = document.getElementById('mpResultados');
     container.innerHTML = '';
+    if (materiasPrimas.length === 0) {
+        container.innerHTML = '<div class="no-results">No se pudieron cargar los datos. Revisa tu conexión a internet.<br><button class="btn-nuevo" style="margin-top:15px" onclick="reintentarCarga()">Reintentar</button></div>';
+        return;
+    }
     if (materiasPrimasFiltradas.length === 0) {
         container.innerHTML = '<div class="no-results">No se encontraron materias primas</div>';
         return;
