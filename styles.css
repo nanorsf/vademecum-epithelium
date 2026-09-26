@@ -278,30 +278,23 @@ body {
     margin-bottom: 4px;
 }
 
-/* Nombre del producto en el vademécum Epithelium (Mi Portafolio) */
+/* Nombre del producto en el vademécum Epithelium (Mi Portafolio): símbolo del logo + nombre */
 .producto-card p.nombre-epithelium,
 #detailContent p.nombre-epithelium {
-    display: inline-block;
-    margin: -2px 0 8px;
-    padding: 2px 8px;
-    border-radius: 5px;
-    background: #d9f0e3;
-    border-left: 3px solid #009460;
-    color: #006b4f;
-    font-size: 11px;
-    line-height: 1.35;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin: -3px 0 7px;
+    color: #008a55;
+    font-size: 10.5px;
+    font-weight: 600;
+    line-height: 1.3;
 }
 
-.producto-card p.nombre-epithelium strong,
-#detailContent p.nombre-epithelium strong {
-    display: inline;
-    margin: 0;
-    padding: 0;
-    border: none;
-    color: #006b4f;
-    font-size: inherit;
-    text-transform: none;
-    letter-spacing: 0;
+.nombre-epithelium img {
+    height: 13px;
+    width: auto;
+    flex-shrink: 0;
 }
 
 /* BOTÓN LO NUEVO */
