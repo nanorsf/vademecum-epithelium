@@ -1,0 +1,33 @@
+{
+ "cliente": "Drogueria Farmapiel",
+ "productos": [
+  {
+   "Referencia Interna": "MP0910",
+   "Nombre": "Formula Magistral - Acido Azelaico 15% Gel x 30 g - Jarabero Valvula",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Frasco Jarabero con Válvula",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Azelaico 15%",
+   "Indicación": "Gel de ácido azelaico para acné y rosácea.\n\nAcné vulgar comedoniano e inflamatorio, rosácea papulopustulosa e hiperpigmentación postinflamatoria. El ácido azelaico al 15% normaliza la queratinización folicular, aporta acción antibacteriana frente a Cutibacterium acnes, reduce la inflamación y actúa como inhibidor competitivo de la tirosinasa, con efecto despigmentante selectivo sobre melanocitos hiperactivos.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez al día la primera semana para evaluar tolerancia; luego 2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 4 semanas en acné y rosácea; en hiperpigmentación, 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEs esperable ardor, prurito y eritema transitorio durante las primeras semanas, que suele ceder con el uso continuado. A diferencia de la hidroquinona, no conlleva riesgo de ocronosis y es seguro en embarazo y lactancia. Evitar en piel con heridas abiertas o dermatitis activa. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Despigmentantes"
+  },
+  {
+   "Referencia Interna": "MP0311",
+   "Nombre": "GP - 61 Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Salicilico 3% + Eritromicina 4%",
+   "Indicación": "Gel/loción antibacteriana y queratolítica para acné.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El ácido salicílico aporta acción queratolítica y comedolítica, desobstruyendo el folículo; la eritromicina actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nPuede causar sequedad, eritema y descamación al inicio del tratamiento. El uso prolongado de eritromicina tópica en monoterapia favorece la resistencia bacteriana; se recomienda alternar o combinar con peróxido de benzoilo según criterio médico. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Acné - Rosacea"
+  }
+ ]
+}

@@ -17,8 +17,9 @@
                     <img src="logo.png" alt="Epithelium Logo">
                 </div>
                 <h1>Vademecum Epithelium</h1>
-                <p>Ingresa tu código de acceso</p>
-                <input type="password" id="accessCode" placeholder="Código de acceso" maxlength="20">
+                <p>Ingresa tu usuario y clave</p>
+                <input type="text" id="accessUser" placeholder="Usuario" maxlength="40" autocapitalize="none" autocomplete="username" onkeydown="if(event.key==='Enter')verificarCodigo()">
+                <input type="password" id="accessCode" placeholder="Clave" maxlength="20" autocomplete="current-password" onkeydown="if(event.key==='Enter')verificarCodigo()">
                 <button onclick="verificarCodigo()">Acceder</button>
                 <p id="errorMsg" class="error"></p>
             </div>
@@ -35,10 +36,14 @@
             </div>
 
             <div class="home-menu">
-                <p class="home-intro">¿Qué quieres consultar?</p>
+                <p class="home-intro" id="homeIntro">¿Qué quieres consultar?</p>
                 <button class="home-btn" onclick="abrirProductos()">
                     <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M16 6h16v6H16zM13 12h22a3 3 0 0 1 3 3v24a3 3 0 0 1-3 3H13a3 3 0 0 1-3-3V15a3 3 0 0 1 3-3z"/><path d="M10 22h28M10 34h28"/><path d="M24 25.5c-2 2.6-2 4.5 0 4.5s2-1.9 0-4.5z"/></svg>
                     <span class="home-btn-text"><strong>Vademécum Productos</strong><small>Fórmulas magistrales, componentes e indicaciones</small></span>
+                </button>
+                <button class="home-btn home-btn-port" id="btnPortafolio" onclick="abrirPortafolio()" style="display:none">
+                    <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M8 16h32a3 3 0 0 1 3 3v19a3 3 0 0 1-3 3H8a3 3 0 0 1-3-3V19a3 3 0 0 1 3-3z"/><path d="M17 16v-4a3 3 0 0 1 3-3h8a3 3 0 0 1 3 3v4"/><path d="M5 26h38"/><path d="M21 26v4h6v-4"/></svg>
+                    <span class="home-btn-text"><strong>Mi Portafolio</strong><small>Los productos de tu vademécum propio</small></span>
                 </button>
                 <button class="home-btn home-btn-mp" onclick="abrirMateriasPrimas()">
                     <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M18 5h12M20 5v13L9 38a3 3 0 0 0 2.6 4.5h24.8A3 3 0 0 0 39 38L28 18V5"/><path d="M14 30h20"/><circle cx="21" cy="36" r="1.6"/><circle cx="27" cy="33" r="1.2"/></svg>
@@ -70,6 +75,31 @@
             </div>
 
             <div id="resultados" class="resultados"></div>
+        </div>
+
+        <!-- MI PORTAFOLIO (vademécum propio del cliente) -->
+        <div id="portScreen" class="screen app-screen">
+            <div class="header">
+                <div class="header-logo">
+                    <img src="logo-blanco.png" alt="Epithelium" class="header-logo-img">
+                    <h1>Mi Portafolio</h1>
+                </div>
+                <button class="logout-btn" onclick="irInicio()">&larr; Inicio</button>
+            </div>
+
+            <div class="filters filters-productos">
+                <input type="text" id="pfSearchName" placeholder="Buscar por nombre..." oninput="filtrar('port')">
+                <input type="text" id="pfSearchComponents" placeholder="Buscar por componentes..." oninput="filtrar('port')">
+                <select id="pfFilterCategory" onchange="filtrar('port')">
+                    <option value="">Todas las categorías</option>
+                </select>
+                <select id="pfFilterFormula" onchange="filtrar('port')">
+                    <option value="">Todas las formas</option>
+                </select>
+                <button type="button" id="pfBtnNuevo" class="btn-nuevo" onclick="toggleNuevo('port')">&#10024; Lo nuevo</button>
+            </div>
+
+            <div id="pfResultados" class="resultados"></div>
         </div>
 
         <!-- VADEMÉCUM MATERIAS PRIMAS -->

@@ -9,10 +9,24 @@ const CODIGOS_VALIDOS = {
 const URL_DATOS = 'https://raw.githubusercontent.com/nanorsf/vademecum-epithelium/main/';
 
 let productos = [];
-let productosFiltrados = [];
-let soloNuevos = false;
 let materiasPrimas = [];
 let materiasPrimasFiltradas = [];
+let portafolio = [];
+let clienteNombre = '';
+
+// Vademécum de productos: el general de Epithelium y el portafolio propio de cada cliente
+const CATALOGOS = {
+    prod: {
+        pantalla: 'mainScreen', tema: '',
+        ids: { nombre: 'searchName', componentes: 'searchComponents', categoria: 'filterCategory', forma: 'filterFormula', nuevo: 'btnNuevo', resultados: 'resultados' },
+        datos: () => productos, filtrados: [], soloNuevos: false
+    },
+    port: {
+        pantalla: 'portScreen', tema: 'theme-port',
+        ids: { nombre: 'pfSearchName', componentes: 'pfSearchComponents', categoria: 'pfFilterCategory', forma: 'pfFilterFormula', nuevo: 'pfBtnNuevo', resultados: 'pfResultados' },
+        datos: () => portafolio, filtrados: [], soloNuevos: false
+    }
+};
 
 // Inicializar app
 document.addEventListener('DOMContentLoaded', async () => {
@@ -22,28 +36,28 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // CARGAR DATOS
 // Primero se busca el archivo en el mismo sitio de la app; si falla, en GitHub
-async function descargarJSON(archivo) {
+async function descargarJSON(archivo, esValido = d => Array.isArray(d) && d.length > 0) {
     const fuentes = [archivo, URL_DATOS + archivo];
     for (const url of fuentes) {
         try {
             const response = await fetch(url, { cache: 'no-cache' });
             if (!response.ok) throw new Error(`HTTP ${response.status}`);
             const datos = await response.json();
-            if (Array.isArray(datos) && datos.length > 0) return datos;
+            if (esValido(datos)) return datos;
         } catch (error) {
             console.warn(`No se pudo cargar ${url}:`, error);
         }
     }
-    return [];
+    return null;
 }
 
 async function cargarDatos() {
-    productos = await descargarJSON('data.json');
+    productos = await descargarJSON('data.json') || [];
     productos.forEach(p => {
         p['Categoría del Producto'] = (p['Categoría del Producto'] || '').replace(/^Magistral de Pedido\s*\/\s*/, '');
     });
     console.log(`✅ ${productos.length} productos cargados`);
-    materiasPrimas = await descargarJSON('materias-primas.json');
+    materiasPrimas = await descargarJSON('materias-primas.json') || [];
     console.log(`✅ ${materiasPrimas.length} materias primas cargadas`);
 }
 
@@ -52,50 +66,104 @@ async function reintentarCarga() {
     entrarApp();
 }
 
-// VERIFICAR ACCESO
-function verificarAcceso() {
+// ACCESO
+// Cada cliente entra con usuario + clave; su portafolio está en portafolios/<huella>.json
+async function huellaCliente(usuario, clave) {
+    const bytes = new TextEncoder().encode(`${usuario}:${clave}`);
+    const hash = await crypto.subtle.digest('SHA-256', bytes);
+    return [...new Uint8Array(hash)].map(b => b.toString(16).padStart(2, '0')).join('').substring(0, 24);
+}
+
+async function cargarPortafolio(huella) {
+    const datos = await descargarJSON(`portafolios/${huella}.json`, d => d && Array.isArray(d.productos));
+    if (!datos) return false;
+    clienteNombre = datos.cliente;
+    portafolio = datos.productos;
+    return true;
+}
+
+async function verificarAcceso() {
     const codigoGuardado = localStorage.getItem('vademecum_access');
+    const clienteGuardado = localStorage.getItem('vademecum_cliente');
     if (codigoGuardado && CODIGOS_VALIDOS[codigoGuardado]) {
+        entrarApp();
+    } else if (clienteGuardado && await cargarPortafolio(clienteGuardado)) {
         entrarApp();
     } else {
         mostrarPantalla('loginScreen');
         localStorage.removeItem('vademecum_access');
+        localStorage.removeItem('vademecum_cliente');
     }
 }
 
-function verificarCodigo() {
-    const codigo = document.getElementById('accessCode').value.trim().toUpperCase();
+async function verificarCodigo() {
+    const usuario = document.getElementById('accessUser').value.trim().toLowerCase();
+    const clave = document.getElementById('accessCode').value.trim();
     const errorMsg = document.getElementById('errorMsg');
-    if (!codigo) {
-        errorMsg.textContent = 'Ingresa un código';
+    if (!usuario && !clave) {
+        errorMsg.textContent = 'Ingresa tu usuario y clave';
         return;
     }
-    if (CODIGOS_VALIDOS[codigo]) {
+    // Equipo Epithelium: su código de siempre (en la clave o en el usuario)
+    const codigo = (clave || usuario).toUpperCase();
+    if (CODIGOS_VALIDOS[codigo] && (!usuario || !clave || usuario === 'epithelium')) {
         localStorage.setItem('vademecum_access', codigo);
         localStorage.setItem('vademecum_timestamp', new Date().toISOString());
         errorMsg.textContent = '';
         entrarApp();
-    } else {
-        errorMsg.textContent = '❌ Código inválido o expirado';
-        document.getElementById('accessCode').value = '';
+        return;
     }
+    // Clientes: usuario + clave de dos dígitos
+    if (usuario && /^\d{2}$/.test(clave)) {
+        errorMsg.textContent = 'Verificando...';
+        const huella = await huellaCliente(usuario, clave);
+        if (await cargarPortafolio(huella)) {
+            localStorage.setItem('vademecum_cliente', huella);
+            localStorage.setItem('vademecum_timestamp', new Date().toISOString());
+            errorMsg.textContent = '';
+            entrarApp();
+            return;
+        }
+    }
+    errorMsg.textContent = '❌ Usuario o clave incorrectos';
+    document.getElementById('accessCode').value = '';
 }
 
 function cerrarSesion() {
     if (confirm('¿Cerrar sesión?')) {
         localStorage.removeItem('vademecum_access');
+        localStorage.removeItem('vademecum_cliente');
         localStorage.removeItem('vademecum_timestamp');
+        portafolio = [];
+        clienteNombre = '';
         mostrarPantalla('loginScreen');
+        document.getElementById('accessUser').value = '';
         document.getElementById('accessCode').value = '';
         document.getElementById('errorMsg').textContent = '';
     }
 }
 
 function entrarApp() {
-    inicializarFiltros();
-    cargarTodos();
+    Object.keys(CATALOGOS).forEach(k => {
+        const cat = CATALOGOS[k];
+        cat.soloNuevos = false;
+        document.getElementById(cat.ids.nuevo).classList.remove('active');
+        document.getElementById(cat.pantalla).classList.remove('modo-nuevo');
+        inicializarFiltros(k);
+        filtrar(k);
+    });
     inicializarFiltrosMP();
     filtrarMP();
+    const esCliente = portafolio.length > 0;
+    document.getElementById('btnPortafolio').style.display = esCliente ? '' : 'none';
+    const intro = document.getElementById('homeIntro');
+    intro.textContent = '¿Qué quieres consultar?';
+    if (esCliente) {
+        const saludo = document.createElement('span');
+        saludo.className = 'home-saludo';
+        saludo.textContent = `Hola, ${clienteNombre}`;
+        intro.prepend(saludo);
+    }
     irInicio();
 }
 
@@ -107,6 +175,10 @@ function abrirProductos() {
     mostrarPantalla('mainScreen');
 }
 
+function abrirPortafolio() {
+    mostrarPantalla('portScreen');
+}
+
 function abrirMateriasPrimas() {
     mostrarPantalla('mpScreen');
 }
@@ -116,89 +188,92 @@ function mostrarPantalla(screenId) {
     document.getElementById(screenId).classList.add('active');
 }
 
-function inicializarFiltros() {
-    if (productos.length === 0) return;
-    const categorias = [...new Set(productos.map(p => p['Categoría del Producto']).filter(p => p))];
-    const formas = [...new Set(productos.map(p => p['Forma Farmacéutica']).filter(p => p))];
-    const selectCategory = document.getElementById('filterCategory');
-    const selectFormula = document.getElementById('filterFormula');
-    selectCategory.length = 1;
-    selectFormula.length = 1;
-    categorias.forEach(c => {
+function llenarSelect(select, valores) {
+    select.length = 1;
+    valores.forEach(v => {
         const option = document.createElement('option');
-        option.value = c;
-        option.textContent = c;
-        selectCategory.appendChild(option);
-    });
-    formas.forEach(f => {
-        const option = document.createElement('option');
-        option.value = f;
-        option.textContent = f;
-        selectFormula.appendChild(option);
+        option.value = v;
+        option.textContent = v;
+        select.appendChild(option);
     });
 }
 
-function cargarTodos() {
-    filtrar();
+function inicializarFiltros(k = 'prod') {
+    const cat = CATALOGOS[k];
+    const datos = cat.datos();
+    const categorias = [...new Set(datos.map(p => p['Categoría del Producto']).filter(p => p))];
+    const formas = [...new Set(datos.map(p => p['Forma Farmacéutica']).filter(p => p))];
+    if (k === 'port') {
+        categorias.sort();
+        formas.sort();
+    }
+    llenarSelect(document.getElementById(cat.ids.categoria), categorias);
+    llenarSelect(document.getElementById(cat.ids.forma), formas);
 }
 
-function toggleNuevo() {
-    soloNuevos = !soloNuevos;
-    document.getElementById('btnNuevo').classList.toggle('active', soloNuevos);
-    document.getElementById('mainScreen').classList.toggle('modo-nuevo', soloNuevos);
-    filtrar();
+function toggleNuevo(k = 'prod') {
+    const cat = CATALOGOS[k];
+    cat.soloNuevos = !cat.soloNuevos;
+    document.getElementById(cat.ids.nuevo).classList.toggle('active', cat.soloNuevos);
+    document.getElementById(cat.pantalla).classList.toggle('modo-nuevo', cat.soloNuevos);
+    filtrar(k);
 }
 
-function filtrar() {
-    const searchName = document.getElementById('searchName').value.toLowerCase();
-    const searchComponents = document.getElementById('searchComponents').value.toLowerCase();
-    const filterCategory = document.getElementById('filterCategory').value;
-    const filterFormula = document.getElementById('filterFormula').value;
-    productosFiltrados = productos.filter(p => {
+function filtrar(k = 'prod') {
+    const cat = CATALOGOS[k];
+    const valor = campo => document.getElementById(cat.ids[campo]).value;
+    const searchName = valor('nombre').toLowerCase();
+    const searchComponents = valor('componentes').toLowerCase();
+    const filterCategory = valor('categoria');
+    const filterFormula = valor('forma');
+    cat.filtrados = cat.datos().filter(p => {
         const matchName = p['Nombre'].toLowerCase().includes(searchName);
         const matchComponents = !searchComponents || (p['Componentes'] && p['Componentes'].toLowerCase().includes(searchComponents));
         const matchCategory = !filterCategory || p['Categoría del Producto'] === filterCategory;
         const matchFormula = !filterFormula || p['Forma Farmacéutica'] === filterFormula;
-        const matchNuevo = !soloNuevos || p['Etiquetas de producto'] === 'Nuevo';
+        const matchNuevo = !cat.soloNuevos || p['Etiquetas de producto'] === 'Nuevo';
         return matchName && matchComponents && matchCategory && matchFormula && matchNuevo;
     });
-    mostrarResultados();
+    mostrarResultados(k);
 }
 
-function mostrarResultados() {
-    const container = document.getElementById('resultados');
+function mostrarResultados(k = 'prod') {
+    const cat = CATALOGOS[k];
+    const lista = cat.filtrados;
+    const container = document.getElementById(cat.ids.resultados);
     container.innerHTML = '';
-    if (productos.length === 0) {
+    if (cat.datos().length === 0) {
         container.innerHTML = '<div class="no-results">No se pudieron cargar los datos. Revisa tu conexión a internet.<br><button class="btn-nuevo" style="margin-top:15px" onclick="reintentarCarga()">Reintentar</button></div>';
         return;
     }
-    if (productosFiltrados.length === 0) {
+    if (lista.length === 0) {
         container.innerHTML = '<div class="no-results">No se encontraron productos</div>';
         return;
     }
-    if (soloNuevos) {
-        container.innerHTML = `<div class="aviso-nuevo">✨ Estás viendo lo nuevo · ${productosFiltrados.length} ${productosFiltrados.length === 1 ? 'producto' : 'productos'}</div>`;
+    if (cat.soloNuevos) {
+        container.innerHTML = `<div class="aviso-nuevo">✨ Estás viendo lo nuevo · ${lista.length} ${lista.length === 1 ? 'producto' : 'productos'}</div>`;
     }
-    productosFiltrados.forEach(p => {
+    lista.forEach(p => {
+        const esNuevo = p['Etiquetas de producto'] === 'Nuevo';
         const card = document.createElement('div');
-        card.className = p['Etiquetas de producto'] === 'Nuevo' ? 'producto-card es-nuevo' : 'producto-card';
-        card.onclick = () => mostrarDetalle(p);
-        card.innerHTML = `<h3>${p['Nombre']}${p['Etiquetas de producto'] === 'Nuevo' ? '<span class="badge-nuevo">NUEVO</span>' : ''}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p><p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
+        card.className = esNuevo ? 'producto-card es-nuevo' : 'producto-card';
+        card.onclick = () => mostrarDetalle(p, cat.tema);
+        card.innerHTML = `<h3>${p['Nombre']}${esNuevo ? '<span class="badge-nuevo">NUEVO</span>' : ''}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Categoría del Producto'] ? `<p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>` : ''}${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
         container.appendChild(card);
     });
 }
 
 function temaModal(tema) {
     const box = document.querySelector('#modalDetail .modal-content');
-    box.classList.remove('theme-mp', 'theme-nuevo');
+    box.classList.remove('theme-mp', 'theme-nuevo', 'theme-port');
     if (tema) box.classList.add(tema);
 }
 
-function mostrarDetalle(producto) {
-    temaModal(producto['Etiquetas de producto'] === 'Nuevo' ? 'theme-nuevo' : '');
+function mostrarDetalle(producto, tema = '') {
+    temaModal(producto['Etiquetas de producto'] === 'Nuevo' ? 'theme-nuevo' : tema);
     const modal = document.getElementById('modalDetail');
     const content = document.getElementById('detailContent');
-    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p><strong>Categoría:</strong> ${producto['Categoría del Producto']}<br><strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto['Etiquetas de producto']}</span></p>` : ''}`;
+    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p>${producto['Categoría del Producto'] ? `<strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>` : ''}<strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto['Etiquetas de producto']}</span></p>` : ''}`;
     modal.classList.add('active');
 }
 

@@ -1,0 +1,33 @@
+{
+ "cliente": "Gema Clinic - Dra. Lizeth Daniela Caro Suarez",
+ "productos": [
+  {
+   "Referencia Interna": "MP1041",
+   "Nombre": "Despigmentante Facial Adyuvante Post-Peeling Crema x 50 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "50",
+   "Masa": "g",
+   "Componentes": "Acido Glicolico 5% + Hidroquinona 4%",
+   "Indicación": "Crema despigmentante coadyuvante post-peeling.\n\nMantenimiento del resultado despigmentante tras un peeling químico, y tratamiento de melasma e hiperpigmentación postinflamatoria en piel recientemente exfoliada, donde se requiere un exfoliante de baja intensidad. La hidroquinona inhibe la tirosinasa y actúa como despigmentante principal; el ácido glicólico, a dosis baja, mantiene una renovación epidérmica suave sin agredir la piel en fase de recuperación.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina, evitando párpados y comisuras\nFRECUENCIA: 1 vez al día, iniciando cuando haya cedido el eritema del procedimiento\nDuración estimada del tratamiento: 8-12 semanas, luego reevaluar; no se recomienda uso continuo de hidroquinona más allá de este periodo sin descanso\nFotoprotección (Protección Solar) FPS 50+ obligatoria durante el día, sin excepción.\n\nPRECAUCIONES\nNo iniciar sobre piel con eritema activo, costras o descamación intensa del peeling; esperar a la reepitelización completa. La concentración reducida de ácido glicólico (5%) busca precisamente evitar la agresión sobre piel en recuperación. Vigilar signos de ocronosis exógena con uso prolongado de hidroquinona. Contraindicada en embarazo y lactancia. Evitar exposición solar sin protección por riesgo de rebote de la hiperpigmentación.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0611",
+   "Nombre": "Formula Magistral - Trichogen 5% Minoxidil 3% D-Pantenol 1% Phytantriol 0.2% Biotina 0.5% Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Biotina 0.5% + D-Pantenol 1% + Minoxidil 3% + Phytantriol 0.2% + Trichogen 5%",
+   "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética. El minoxidil es el estimulante principal del crecimiento folicular; el Trichogen es un complejo activo anticaída que mejora la microcirculación y el anclaje folicular; la biotina es cofactor esencial en la síntesis de queratina; el phytantriol y el D-pantenol acondicionan y reparan la barrera del cuero cabelludo.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl minoxidil puede causar hipertricosis facial por contacto accidental, e irritación o sequedad del cuero cabelludo. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Nuevo",
+   "Categoría del Producto": "Capilares"
+  }
+ ]
+}

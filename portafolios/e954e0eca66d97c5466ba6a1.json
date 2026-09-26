@@ -1,0 +1,61 @@
+{
+ "cliente": "Niks Leip - Maria de Jesus Acosta Correa",
+ "productos": [
+  {
+   "Referencia Interna": "MP0242",
+   "Nombre": "FC 06 Perclin Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Clindamicina 2% + Peroxido De Benzoilo 3%",
+   "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 2% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. El peróxido de benzoilo aporta acción bactericida adicional, reduciendo el riesgo de resistencia bacteriana asociado al uso prolongado de clindamicina sola.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0253",
+   "Nombre": "FC 11 Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Retinoico 0.01% + Clobetasol 0.015% + Ketoconazol 1% + Minoxidil 5%",
+   "Indicación": "Loción capilar para alopecia androgenética con componente antimicótico.\n\nAlopecia androgenética con componente seborreico o predisposición a dermatitis seborreica del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; el ketoconazol controla la colonización por Malassezia y la seborrea asociada; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Es esperable irritación o descamación leve por el ácido retinoico. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0253",
+   "Nombre": "MP 07 Locion x 120 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "120",
+   "Masa": "ml",
+   "Componentes": "Acido Retinoico 0.01% + Clobetasol 0.015% + Ketoconazol 1% + Minoxidil 5%",
+   "Indicación": "Loción capilar para alopecia androgenética con componente antimicótico.\n\nAlopecia androgenética con componente seborreico o predisposición a dermatitis seborreica del cuero cabelludo. El minoxidil es el estimulante principal del crecimiento folicular; el ketoconazol controla la colonización por Malassezia y la seborrea asociada; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Es esperable irritación o descamación leve por el ácido retinoico. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0242",
+   "Nombre": "MP 08 Gel x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Clindamicina 2% + Peroxido De Benzoilo 3%",
+   "Indicación": "Gel/crema para acné vulgar.\n\nAcné vulgar inflamatorio, leve a moderado. La clindamicina al 2% actúa como antibiótico frente a Cutibacterium acnes, reduciendo la inflamación. El peróxido de benzoilo aporta acción bactericida adicional, reduciendo el riesgo de resistencia bacteriana asociado al uso prolongado de clindamicina sola.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: resultados visibles a partir de 6-8 semanas; no prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación\nEvitar párpados, comisuras labiales y mucosas.\n\nPRECAUCIONES\nEl uso prolongado de clindamicina tópica en monoterapia favorece la resistencia bacteriana. Suspender ante diarrea persistente por el riesgo teórico de colitis asociada a clindamicina. El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

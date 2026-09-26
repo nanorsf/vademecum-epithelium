@@ -1,0 +1,19 @@
+{
+ "cliente": "Nelson Andres Bacca Guerra",
+ "productos": [
+  {
+   "Referencia Interna": "MP0368",
+   "Nombre": "ME - 170 Ungüento x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Ungüento",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Tacrolimus 0.05%",
+   "Indicación": "Ungüento de tacrolimus al 0.05% para vitíligo.\n\nVitíligo, especialmente en cara y cuello, donde el tacrolimus es de elección frente a corticoides por no producir atrofia cutánea con el uso prolongado que estas zonas requieren. También indicado en dermatitis atópica como alternativa a corticoides tópicos. El tacrolimus es un inhibidor de la calcineurina que modula la respuesta inmune local, favoreciendo la repigmentación de las máculas de vitíligo (con frecuencia potenciado si se combina con fototerapia UVB de banda estrecha) y controlando la inflamación en dermatitis atópica sin los efectos adversos típicos de los corticoides.",
+   "Dosis Recomendada": "APLICACIÓN: sobre las máculas de vitíligo o la zona con dermatitis, en piel limpia y seca\nCANTIDAD: capa fina cubriendo exclusivamente el área afectada\nFRECUENCIA: 2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varios meses; la repigmentación del vitíligo es gradual y puede tardar 6 meses o más en evidenciarse\nEs normal sentir ardor o calor leve en las primeras aplicaciones; suele disminuir con el uso continuado.\n\nPRECAUCIONES\nPuede producir sensación de ardor, calor o prurito transitorio al inicio del tratamiento, más frecuente en las primeras aplicaciones. La FDA incluye una advertencia (\"caja negra\") sobre un riesgo teórico de malignidad a largo plazo con inhibidores de calcineurina tópicos, basada en casos aislados y datos de estudios en animales con dosis altas; la evidencia clínica acumulada en humanos no ha confirmado este riesgo, pero se recomienda minimizar la exposición solar de la zona tratada y evitar el uso simultáneo con fototerapia intensiva sin indicación médica expresa. No usar bajo oclusión. Evitar en infecciones cutáneas activas no tratadas en la zona. No indicado de rutina en menores de 2 años.",
+   "Etiquetas de producto": "Foco",
+   "Categoría del Producto": "Otras Preparaciones Magistrales"
+  }
+ ]
+}

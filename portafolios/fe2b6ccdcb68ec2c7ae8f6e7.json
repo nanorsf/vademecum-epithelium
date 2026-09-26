@@ -1,0 +1,47 @@
+{
+ "cliente": "Consulterapia Integral S.A.S",
+ "productos": [
+  {
+   "Referencia Interna": "MP0056",
+   "Nombre": "GP - 34 Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Acido Salicilico 3% + Urea 20%",
+   "Indicación": "Crema queratolítica para hiperqueratosis.\n\nHiperqueratosis leve a moderada, callosidades y xerosis de codos, rodillas y talones. La urea al 20% actúa como queratolítico e hidratante humectante, ablandando la queratina engrosada; el ácido salicílico refuerza la acción queratolítica.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, en la zona de hiperqueratosis\nCANTIDAD: capa moderada cubriendo la zona engrosada\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: 2-4 semanas según el grosor de la hiperqueratosis; reevaluar periódicamente\nPuede aplicarse bajo oclusión nocturna en zonas plantares para potenciar el efecto.\n\nPRECAUCIONES\nPuede causar ardor sobre piel fisurada o erosionada. No aplicar sobre piel sana circundante ni en heridas abiertas o infectadas. Uso tópico externo, exclusivamente sobre la zona de hiperqueratosis.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Virales- Queratolíticos - Antiparasitarios"
+  },
+  {
+   "Referencia Interna": "MP0956",
+   "Nombre": "Oleo Nails Esmalte x 15 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Esmalte",
+   "Presentación Farmacéutica": "Frasco Esmalte",
+   "Tamaño": "15",
+   "Masa": "ml",
+   "Componentes": "Aceite de Ajo 1% + Aceite de Arbol de Te 20% + Aceite de Cannabis 1% + Mantequilla de Karite 0.3% + Vitamina E 5%",
+   "Indicación": "Esmalte fortalecedor y antimicótico para uñas.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nOnicomicosis leve a moderada, onicofragilidad y onicodistrofia. El aceite de árbol de té aporta acción antifúngica y antiséptica; el aceite de ajo complementa con actividad antimicótica; aceite de cannabis, mantequilla de karité y vitamina E nutren y flexibilizan la lámina ungueal y el reborde periungueal.",
+   "Dosis Recomendada": "APLICACIÓN: sobre la uña limpia, seca y libre de esmalte cosmético\nCANTIDAD: una capa fina cubriendo la lámina ungueal y el reborde periungueal\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: en onicomicosis, tratamiento prolongado de 6-12 meses según el crecimiento de la uña; en onicofragilidad, 3-6 meses\nLimar suavemente la superficie de la uña antes de aplicar mejora la penetración.\n\nPRECAUCIONES\nEl aceite de árbol de té está por encima de su concentración habitual de uso tópico (20% vs. 5-10% típico), lo que aumenta el riesgo de dermatitis de contacto irritativa y de sensibilización cutánea, un efecto adverso bien documentado de este aceite esencial. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Evitar el contacto con piel perilesional inflamada o erosionada. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0880",
+   "Nombre": "Terbiurea 20% Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Terbinafina 5% + Urea 20%",
+   "Indicación": "Crema antifúngica y queratolítica para onicomicosis, concentración reforzada.\n\nSEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nOnicomicosis con engrosamiento leve a moderado de la lámina ungueal. La terbinafina actúa como fungicida frente a dermatofitos; la urea al 20% ablanda la queratina engrosada, facilitando la penetración del antifúngico.",
+   "Dosis Recomendada": "SEGÚN CRITERIO MÉDICO por concentración de uno o varios de sus componentes.\n\nAPLICACIÓN: sobre la uña afectada, limpia y seca\nCANTIDAD: capa generosa cubriendo toda la superficie de la uña, protegiendo la piel circundante\nFRECUENCIA: 1-2 veces al día\nDuración estimada del tratamiento: tratamiento prolongado de varias semanas a meses\nRetirar la porción de uña ablandada con lima entre aplicaciones.\n\nPRECAUCIONES\nLa terbinafina está 5 veces por encima de su concentración comercial estándar (5% vs. 1%), sin evidencia clara de mayor eficacia y con mayor riesgo de irritación local. Su uso en este porcentaje depende de la valoración médica que se realice y de la experiencia del médico tratante. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  }
+ ]
+}

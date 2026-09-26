@@ -1,0 +1,19 @@
+{
+ "cliente": "Consultorio Medical Care, Edinson Andres Sanchez Preciado",
+ "productos": [
+  {
+   "Referencia Interna": "MP0259",
+   "Nombre": "GP - 09 Locion x 60 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Locion",
+   "Presentación Farmacéutica": "Gotero",
+   "Tamaño": "60",
+   "Masa": "ml",
+   "Componentes": "Acido Retinoico 0.015% + Clobetasol 0.015% + Minoxidil 5%",
+   "Indicación": "Loción capilar para alopecia androgenética.\n\nAlopecia androgenética masculina y femenina. El minoxidil es el estimulante principal del crecimiento folicular; el clobetasol, a dosis baja, controla la inflamación de base; el ácido retinoico potencia la penetración del minoxidil.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre cuero cabelludo seco\nCANTIDAD: 1 ml (aprox. 1 gotero o pulverización) por aplicación, distribuido en las zonas de mayor caída/miniaturización\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 3-4 meses; uso continuo mientras se busque mantener el efecto\nNo enjuagar tras la aplicación; dejar actuar toda la noche.\n\nPRECAUCIONES\nEl clobetasol está muy por debajo de su concentración estándar (0.015% vs. 0.05%), lo cual es deliberado para uso crónico y reduce el riesgo de atrofia cutánea o taquifilaxia; aun así, vigilar signos de irritación o foliculitis. El minoxidil puede causar hipertricosis facial por contacto accidental. Contraindicado en embarazo y lactancia.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Capilares"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "cliente": "Laskin S.A.",
+ "productos": [
+  {
+   "Referencia Interna": "MP0128",
+   "Nombre": "Ivermectina Baja Grasa Crema x 30 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "30",
+   "Masa": "g",
+   "Componentes": "Ivermectina 1%",
+   "Indicación": "Crema/gel para rosácea.\n\nRosácea papulopustulosa. La ivermectina, en su concentración de referencia, reduce las pápulas y pústulas inflamatorias por su actividad frente a Demodex folliculorum (implicado en la fisiopatología de la rosácea) y por su acción antiinflamatoria directa.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada\nFRECUENCIA: 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 4 semanas; tratamiento de mantenimiento habitualmente 4 meses o más según respuesta\n\nPRECAUCIONES\nPuede causar sensación de ardor o sequedad leve al inicio. La rosácea es una enfermedad crónica: la suspensión del tratamiento suele asociarse a recaída. Evitar contacto con ojos y mucosas.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Acné - Rosacea"
+  },
+  {
+   "Referencia Interna": "MP0246",
+   "Nombre": "Piel Adapalene 0.1% Peroxido 5% Gel x 50 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Gel",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "50",
+   "Masa": "g",
+   "Componentes": "Adapalene 0.1% + Peroxido de Benzoilo 5%",
+   "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; el peróxido de benzoilo al 5% aporta acción bactericida frente a Cutibacterium acnes.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto. Al 5% puede generar más sequedad e irritación que concentraciones menores. No prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación; su uso prolongado en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Cliente",
+   "Categoría del Producto": ""
+  },
+  {
+   "Referencia Interna": "MP0237",
+   "Nombre": "Piel Adapalene 0.1% Peróxido 2.5% Gel x 50 ml",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Emulgel",
+   "Presentación Farmacéutica": "Airless",
+   "Tamaño": "50",
+   "Masa": "ml",
+   "Componentes": "Adapalene 0.1% + Peróxido de Benzoilo 2.5%",
+   "Indicación": "Gel para acné vulgar con acción antibacteriana.\n\nAcné vulgar inflamatorio y comedoniano, leve a moderado. El adapaleno normaliza la queratinización folicular, previniendo comedones; el peróxido de benzoilo aporta acción bactericida frente a Cutibacterium acnes.",
+   "Dosis Recomendada": "APLICACIÓN: de noche, sobre piel limpia y seca\nCANTIDAD: capa fina cubriendo toda la zona afectada, no solo las lesiones puntuales\nFRECUENCIA: inicial 1 vez cada 2-3 días la primera semana para evaluar tolerancia; luego 1 vez al día\nDuración estimada del tratamiento: resultados visibles a partir de 8-12 semanas\nEvitar párpados, comisuras labiales y mucosas.\nFotoprotección (Protección Solar) FPS 30-50 durante el día.\n\nPRECAUCIONES\nEs esperable irritación, eritema y descamación leve durante las primeras semanas (efecto retinoide). El peróxido de benzoilo decolora telas, toallas y cabello — evitar el contacto. No prolongar la antibioticoterapia tópica más allá de 12 semanas sin reevaluación; su uso prolongado en monoterapia favorece la resistencia bacteriana. Contraindicado en embarazo y lactancia. Evitar exposición solar sin protección adecuada.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Acné - Rosacea"
+  },
+  {
+   "Referencia Interna": "MP0418",
+   "Nombre": "Piel Crema de Manos x 250 g",
+   "Grupo de Producto": "Magistral de Pedido",
+   "Forma Farmacéutica": "Crema",
+   "Presentación Farmacéutica": "Pote",
+   "Tamaño": "250",
+   "Masa": "g",
+   "Componentes": "Aceite Mineral + Agua Purificada + Alcohol Cetoestearilico + Dimeticona + Irgasan (Triclosan) + Lauril Sulfato de Sodio + Propilenglicol + Vaselina",
+   "Indicación": "Crema humectante con acción antimicrobiana.\n\nXerosis y piel seca con tendencia a la colonización bacteriana o a sobreinfección leve. La vaselina, el aceite mineral y la dimeticona forman una película oclusiva que reduce la pérdida transepidérmica de agua; el propilenglicol actúa como humectante; el irgasán (triclosán) aporta acción antimicrobiana de amplio espectro; el alcohol cetoestearílico y el lauril sulfato de sodio actúan como emulsionantes de la base.",
+   "Dosis Recomendada": "APLICACIÓN: sobre piel limpia y seca, preferiblemente tras el baño con la piel aún húmeda\nCANTIDAD: cantidad suficiente para cubrir la zona a tratar\nFRECUENCIA: 1-3 veces al día según el grado de sequedad\nDuración estimada del tratamiento: uso continuo como hidratación de mantenimiento\nNo se especificaron los porcentajes de los componentes en la fórmula.\n\nPRECAUCIONES\nNo fue posible verificar la concentración del irgasán (triclosán) contra su límite de uso seguro (máximo 0.3%) al no estar especificada en la fórmula; se recomienda documentar ese dato. El triclosán ha sido objeto de restricciones regulatorias por preocupación sobre resistencia antimicrobiana y disrupción endocrina, por lo que su uso en aplicación prolongada debe estar justificado. El lauril sulfato de sodio puede resultar irritante en pieles muy sensibles con exposición prolongada. La combinación de oclusivos puede ser comedogénica en pieles con tendencia acneica. Uso tópico externo únicamente.",
+   "Etiquetas de producto": "Portafolio",
+   "Categoría del Producto": "Hidratantes - Antienvejecimiento - Antiestrias"
+  }
+ ]
+}
