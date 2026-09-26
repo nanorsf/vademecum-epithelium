@@ -145,11 +145,12 @@ function cerrarSesion() {
     }
 }
 
-// Mi Portafolio = productos propios del cliente + todos los nuevos de Epithelium que aún no tenga
+// Mi Portafolio = productos propios del cliente + los nuevos de Epithelium (si ya tiene uno con el mismo nombre, no se repite)
 function armarPortafolio() {
-    const propias = new Set(portafolioPropio.map(p => p['Referencia Interna']));
+    const nombre = p => p['Nombre'].trim().toLowerCase();
+    const propios = new Set(portafolioPropio.map(nombre));
     const nuevosEpithelium = productos
-        .filter(p => p['Etiquetas de producto'] === 'Nuevo' && !propias.has(p['Referencia Interna']))
+        .filter(p => p['Etiquetas de producto'] === 'Nuevo' && !propios.has(nombre(p)))
         .map(p => ({ ...p, nuevoEpithelium: true }));
     portafolio = [...portafolioPropio, ...nuevosEpithelium]
         .sort((a, b) => a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' }));
