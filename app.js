@@ -14,6 +14,9 @@ let materiasPrimasFiltradas = [];
 let portafolio = [];
 let portafolioPropio = [];
 let clienteNombre = '';
+let indiceClientes = [];
+let clientesFiltrados = [];
+let modoAdmin = false;
 
 // Vademécum de productos: el general de Epithelium y el portafolio propio de cada cliente
 const CATALOGOS = {
@@ -61,6 +64,7 @@ async function cargarDatos() {
     console.log(`✅ ${productos.length} productos cargados`);
     materiasPrimas = await descargarJSON('materias-primas.json') || [];
     console.log(`✅ ${materiasPrimas.length} materias primas cargadas`);
+    indiceClientes = await descargarJSON('portafolios-index.json') || [];
 }
 
 async function reintentarCarga() {
@@ -218,6 +222,7 @@ function entrarApp() {
     inicializarFiltrosMP();
     filtrarMP();
     const esCliente = portafolioPropio.length > 0;
+    document.getElementById('btnPortafolioClientes').style.display = (!esCliente && indiceClientes.length > 0) ? '' : 'none';
     const totalNuevos = productos.filter(p => p['Etiquetas de producto'] === 'Nuevo').length;
     document.getElementById('loNuevoTexto').textContent = `${totalNuevos} productos nuevos de Epithelium`;
     document.getElementById('btnPortafolio').style.display = esCliente ? '' : 'none';
@@ -247,6 +252,60 @@ function abrirLoNuevo() {
 }
 
 function abrirPortafolio() {
+    modoAdmin = false;
+    document.getElementById('portTitulo').textContent = 'Mi Portafolio';
+    document.getElementById('portBackBtn').innerHTML = '&larr; Inicio';
+    document.getElementById('portBackBtn').onclick = irInicio;
+    mostrarPantalla('portScreen');
+}
+
+function abrirListaClientes() {
+    clientesFiltrados = indiceClientes;
+    document.getElementById('clSearchName').value = '';
+    mostrarListaClientes();
+    mostrarPantalla('clientsListScreen');
+}
+
+function filtrarListaClientes() {
+    const q = normalizar(document.getElementById('clSearchName').value);
+    clientesFiltrados = indiceClientes.filter(c => normalizar(c.cliente).includes(q));
+    mostrarListaClientes();
+}
+
+function mostrarListaClientes() {
+    const container = document.getElementById('clResultados');
+    container.innerHTML = '';
+    if (clientesFiltrados.length === 0) {
+        container.innerHTML = '<div class="no-results">No se encontraron clientes</div>';
+        return;
+    }
+    clientesFiltrados.forEach(c => {
+        const card = document.createElement('div');
+        card.className = 'producto-card';
+        card.onclick = () => abrirPortafolioDeCliente(c.huella, c.cliente);
+        card.innerHTML = `<h3>${c.cliente}</h3>`;
+        container.appendChild(card);
+    });
+}
+
+async function abrirPortafolioDeCliente(huella, nombre) {
+    const datos = await descargarJSON(`portafolios/${huella}.json`, d => d && Array.isArray(d.productos));
+    if (!datos) {
+        alert('No se pudo cargar el portafolio de este cliente. Revisa tu conexión e intenta de nuevo.');
+        return;
+    }
+    clienteNombre = datos.cliente;
+    portafolioPropio = datos.productos;
+    armarPortafolio();
+    inicializarFiltros('port');
+    CATALOGOS.port.soloNuevos = false;
+    document.getElementById('pfBtnNuevo').classList.remove('active');
+    document.getElementById('portScreen').classList.remove('modo-nuevo');
+    filtrar('port');
+    modoAdmin = true;
+    document.getElementById('portTitulo').textContent = nombre;
+    document.getElementById('portBackBtn').innerHTML = '&larr; Clientes';
+    document.getElementById('portBackBtn').onclick = abrirListaClientes;
     mostrarPantalla('portScreen');
 }
 
