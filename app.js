@@ -12,6 +12,7 @@ let productos = [];
 let materiasPrimas = [];
 let materiasPrimasFiltradas = [];
 let portafolio = [];
+let portafolioPropio = [];
 let clienteNombre = '';
 
 // Vademécum de productos: el general de Epithelium y el portafolio propio de cada cliente
@@ -78,7 +79,7 @@ async function cargarPortafolio(huella) {
     const datos = await descargarJSON(`portafolios/${huella}.json`, d => d && Array.isArray(d.productos));
     if (!datos) return false;
     clienteNombre = datos.cliente;
-    portafolio = datos.productos;
+    portafolioPropio = datos.productos;
     return true;
 }
 
@@ -135,6 +136,7 @@ function cerrarSesion() {
         localStorage.removeItem('vademecum_cliente');
         localStorage.removeItem('vademecum_timestamp');
         portafolio = [];
+        portafolioPropio = [];
         clienteNombre = '';
         mostrarPantalla('loginScreen');
         document.getElementById('accessUser').value = '';
@@ -143,7 +145,18 @@ function cerrarSesion() {
     }
 }
 
+// Mi Portafolio = productos propios del cliente + todos los nuevos de Epithelium que aún no tenga
+function armarPortafolio() {
+    const propias = new Set(portafolioPropio.map(p => p['Referencia Interna']));
+    const nuevosEpithelium = productos
+        .filter(p => p['Etiquetas de producto'] === 'Nuevo' && !propias.has(p['Referencia Interna']))
+        .map(p => ({ ...p, nuevoEpithelium: true }));
+    portafolio = [...portafolioPropio, ...nuevosEpithelium]
+        .sort((a, b) => a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' }));
+}
+
 function entrarApp() {
+    armarPortafolio();
     Object.keys(CATALOGOS).forEach(k => {
         const cat = CATALOGOS[k];
         cat.soloNuevos = false;
@@ -154,7 +167,9 @@ function entrarApp() {
     });
     inicializarFiltrosMP();
     filtrarMP();
-    const esCliente = portafolio.length > 0;
+    const esCliente = portafolioPropio.length > 0;
+    const totalNuevos = productos.filter(p => p['Etiquetas de producto'] === 'Nuevo').length;
+    document.getElementById('loNuevoTexto').textContent = `${totalNuevos} productos nuevos de Epithelium`;
     document.getElementById('btnPortafolio').style.display = esCliente ? '' : 'none';
     const intro = document.getElementById('homeIntro');
     intro.textContent = '¿Qué quieres consultar?';
@@ -172,6 +187,12 @@ function irInicio() {
 }
 
 function abrirProductos() {
+    ponerNuevo('prod', false);
+    mostrarPantalla('mainScreen');
+}
+
+function abrirLoNuevo() {
+    ponerNuevo('prod', true);
     mostrarPantalla('mainScreen');
 }
 
@@ -211,12 +232,16 @@ function inicializarFiltros(k = 'prod') {
     llenarSelect(document.getElementById(cat.ids.forma), formas);
 }
 
-function toggleNuevo(k = 'prod') {
+function ponerNuevo(k, activo) {
     const cat = CATALOGOS[k];
-    cat.soloNuevos = !cat.soloNuevos;
-    document.getElementById(cat.ids.nuevo).classList.toggle('active', cat.soloNuevos);
-    document.getElementById(cat.pantalla).classList.toggle('modo-nuevo', cat.soloNuevos);
+    cat.soloNuevos = activo;
+    document.getElementById(cat.ids.nuevo).classList.toggle('active', activo);
+    document.getElementById(cat.pantalla).classList.toggle('modo-nuevo', activo);
     filtrar(k);
+}
+
+function toggleNuevo(k = 'prod') {
+    ponerNuevo(k, !CATALOGOS[k].soloNuevos);
 }
 
 function filtrar(k = 'prod') {
@@ -258,7 +283,8 @@ function mostrarResultados(k = 'prod') {
         const card = document.createElement('div');
         card.className = esNuevo ? 'producto-card es-nuevo' : 'producto-card';
         card.onclick = () => mostrarDetalle(p, cat.tema);
-        card.innerHTML = `<h3>${p['Nombre']}${esNuevo ? '<span class="badge-nuevo">NUEVO</span>' : ''}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Categoría del Producto'] ? `<p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>` : ''}${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
+        const badge = p.nuevoEpithelium ? '<span class="badge-nuevo">NUEVO EPITHELIUM</span>' : (esNuevo ? '<span class="badge-nuevo">NUEVO</span>' : '');
+        card.innerHTML = `<h3>${p['Nombre']}${badge}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p>${p['Categoría del Producto'] ? `<p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>` : ''}${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
         container.appendChild(card);
     });
 }
@@ -273,7 +299,7 @@ function mostrarDetalle(producto, tema = '') {
     temaModal(producto['Etiquetas de producto'] === 'Nuevo' ? 'theme-nuevo' : tema);
     const modal = document.getElementById('modalDetail');
     const content = document.getElementById('detailContent');
-    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p>${producto['Categoría del Producto'] ? `<strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>` : ''}<strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto['Etiquetas de producto']}</span></p>` : ''}`;
+    content.innerHTML = `<h2>${producto['Nombre']}</h2>${producto['Componentes'] ? `<strong>Componentes</strong><p>${producto['Componentes'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Especificaciones</strong><p>${producto['Categoría del Producto'] ? `<strong>Categoría:</strong> ${producto['Categoría del Producto']}<br>` : ''}<strong>Forma:</strong> ${producto['Forma Farmacéutica']}<br><strong>Presentación:</strong> ${producto['Presentación Farmacéutica']}<br><strong>Tamaño:</strong> ${producto['Tamaño']} ${producto['Masa']}</p>${producto['Indicación'] ? `<strong>Indicación</strong><p>${producto['Indicación'].replace(/\n/g, '<br>')}</p>` : ''}${producto['Dosis Recomendada'] ? `<strong>Dosis Recomendada</strong><p>${producto['Dosis Recomendada'].replace(/\n/g, '<br>')}</p>` : ''}<strong>Referencia Interna</strong><p>${producto['Referencia Interna']}</p>${producto['Etiquetas de producto'] ? `<strong>Categorías</strong><p><span class="producto-label">${producto.nuevoEpithelium ? 'Nuevo Epithelium' : producto['Etiquetas de producto']}</span></p>` : ''}`;
     modal.classList.add('active');
 }
 

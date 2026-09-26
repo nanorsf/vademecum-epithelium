@@ -683,6 +683,19 @@ body {
 }
 
 /* ===== LO NUEVO: tema fucsia-violeta ===== */
+.home-btn.home-btn-nuevo {
+    border-left-color: #c02e8a;
+    background: linear-gradient(135deg, #ffffff 60%, #fbeaf5 100%);
+}
+
+.home-btn.home-btn-nuevo svg {
+    background: linear-gradient(135deg, #6a2bd8, #d63384);
+}
+
+.home-btn.home-btn-nuevo .home-btn-text strong {
+    color: #8e2bb8;
+}
+
 .btn-nuevo.active {
     background: linear-gradient(120deg, #6a2bd8, #d63384);
     color: white;
