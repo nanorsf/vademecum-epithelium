@@ -57,6 +57,7 @@ async function cargarDatos() {
     productos.forEach(p => {
         p['Categoría del Producto'] = (p['Categoría del Producto'] || '').replace(/^Magistral de Pedido\s*\/\s*/, '');
     });
+    productos.sort(compararProductos);
     console.log(`✅ ${productos.length} productos cargados`);
     materiasPrimas = await descargarJSON('materias-primas.json') || [];
     console.log(`✅ ${materiasPrimas.length} materias primas cargadas`);
@@ -145,6 +146,15 @@ function cerrarSesion() {
     }
 }
 
+// Orden alfabético; si el nombre es el mismo (sin el "x 30 ml"), primero el menor volumen
+const nombreBase = p => p['Nombre'].replace(/\s+x\s+[\d.,]+\s*[a-zA-Z]*/i, '').trim();
+const volumen = p => parseFloat(String(p['Tamaño']).replace(',', '.')) || 0;
+function compararProductos(a, b) {
+    return nombreBase(a).localeCompare(nombreBase(b), 'es', { sensitivity: 'base', numeric: true })
+        || volumen(a) - volumen(b)
+        || a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' });
+}
+
 // Mi Portafolio = productos propios del cliente + los nuevos de Epithelium (si ya tiene uno con el mismo nombre, no se repite)
 function armarPortafolio() {
     const nombre = p => p['Nombre'].trim().toLowerCase();
@@ -158,9 +168,8 @@ function armarPortafolio() {
     const nuevosEpithelium = productos
         .filter(p => p['Etiquetas de producto'] === 'Nuevo' && !propios.has(nombre(p)))
         .map(p => ({ ...p, nuevoEpithelium: true }));
-    // Primero los productos propios del cliente y al final los nuevos de Epithelium, cada grupo en orden alfabético
-    const porNombre = (a, b) => a['Nombre'].localeCompare(b['Nombre'], 'es', { sensitivity: 'base' });
-    portafolio = [...[...portafolioPropio].sort(porNombre), ...nuevosEpithelium.sort(porNombre)];
+    // Primero los productos propios del cliente y al final los nuevos de Epithelium, cada grupo en orden
+    portafolio = [...[...portafolioPropio].sort(compararProductos), ...nuevosEpithelium.sort(compararProductos)];
 }
 
 function entrarApp() {
