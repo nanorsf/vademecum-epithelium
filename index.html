@@ -24,8 +24,8 @@
             </div>
         </div>
 
-        <!-- PANTALLA PRINCIPAL -->
-        <div id="mainScreen" class="screen">
+        <!-- PANTALLA DE INICIO -->
+        <div id="homeScreen" class="screen app-screen">
             <div class="header">
                 <div class="header-logo">
                     <img src="logo-blanco.png" alt="Epithelium" class="header-logo-img">
@@ -34,18 +34,63 @@
                 <button class="logout-btn" onclick="cerrarSesion()">Salir</button>
             </div>
 
-            <div class="filters">
-                <input type="text" id="searchName" placeholder="Buscar por nombre..." onkeyup="filtrar()">
-                <input type="text" id="searchComponents" placeholder="Buscar por componentes..." onkeyup="filtrar()">
+            <div class="home-menu">
+                <p class="home-intro">¿Qué quieres consultar?</p>
+                <button class="home-btn" onclick="abrirProductos()">
+                    <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M16 6h16v6H16zM13 12h22a3 3 0 0 1 3 3v24a3 3 0 0 1-3 3H13a3 3 0 0 1-3-3V15a3 3 0 0 1 3-3z"/><path d="M10 22h28M10 34h28"/><path d="M24 25.5c-2 2.6-2 4.5 0 4.5s2-1.9 0-4.5z"/></svg>
+                    <span class="home-btn-text"><strong>Vademécum Productos</strong><small>Fórmulas magistrales, componentes e indicaciones</small></span>
+                </button>
+                <button class="home-btn" onclick="abrirMateriasPrimas()">
+                    <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M18 5h12M20 5v13L9 38a3 3 0 0 0 2.6 4.5h24.8A3 3 0 0 0 39 38L28 18V5"/><path d="M14 30h20"/><circle cx="21" cy="36" r="1.6"/><circle cx="27" cy="33" r="1.2"/></svg>
+                    <span class="home-btn-text"><strong>Vademécum Materias Primas</strong><small>Activos, usos y concentraciones</small></span>
+                </button>
+            </div>
+        </div>
+
+        <!-- VADEMÉCUM PRODUCTOS -->
+        <div id="mainScreen" class="screen app-screen">
+            <div class="header">
+                <div class="header-logo">
+                    <img src="logo-blanco.png" alt="Epithelium" class="header-logo-img">
+                    <h1>Productos</h1>
+                </div>
+                <button class="logout-btn" onclick="irInicio()">&larr; Inicio</button>
+            </div>
+
+            <div class="filters filters-productos">
+                <input type="text" id="searchName" placeholder="Buscar por nombre..." oninput="filtrar()">
+                <input type="text" id="searchComponents" placeholder="Buscar por componentes..." oninput="filtrar()">
                 <select id="filterCategory" onchange="filtrar()">
                     <option value="">Todas las categorías</option>
                 </select>
                 <select id="filterFormula" onchange="filtrar()">
                     <option value="">Todas las formas</option>
                 </select>
+                <button type="button" id="btnNuevo" class="btn-nuevo" onclick="toggleNuevo()">&#10024; Lo nuevo</button>
             </div>
 
             <div id="resultados" class="resultados"></div>
+        </div>
+
+        <!-- VADEMÉCUM MATERIAS PRIMAS -->
+        <div id="mpScreen" class="screen app-screen">
+            <div class="header">
+                <div class="header-logo">
+                    <img src="logo-blanco.png" alt="Epithelium" class="header-logo-img">
+                    <h1>Materias Primas</h1>
+                </div>
+                <button class="logout-btn" onclick="irInicio()">&larr; Inicio</button>
+            </div>
+
+            <div class="filters filters-mp">
+                <input type="text" id="mpSearchName" placeholder="Buscar por nombre..." oninput="filtrarMP()">
+                <input type="text" id="mpSearchUso" placeholder="Buscar por uso o indicación..." oninput="filtrarMP()">
+                <select id="mpFilterEtiqueta" onchange="filtrarMP()">
+                    <option value="">Todas las etiquetas</option>
+                </select>
+            </div>
+
+            <div id="mpResultados" class="resultados"></div>
         </div>
 
         <!-- MODAL DETALLE -->
