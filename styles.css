@@ -163,7 +163,7 @@ body {
 }
 
 .header-logo-img {
-    height: 44px;
+    height: 56px;
     width: auto;
     display: block;
 }
@@ -533,11 +533,22 @@ body {
     }
 
     .header-logo-img {
-        height: 32px;
+        height: 38px;
     }
 
     .logout-btn {
         padding: 6px 12px;
+        white-space: nowrap;
+    }
+}
+
+@media (max-width: 380px) {
+    .header-logo-img {
+        height: 32px;
+    }
+
+    .header h1 {
+        font-size: 13px;
     }
 
     .producto-card h3 {
