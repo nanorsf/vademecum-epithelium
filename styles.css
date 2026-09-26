@@ -626,11 +626,13 @@ body {
     background-attachment: local, local, local;
 }
 
+#mainScreen .producto-card.es-nuevo,
 #mainScreen.modo-nuevo .producto-card {
     border-left-color: #c02e8a;
     background: linear-gradient(135deg, #ffffff 70%, #fbeaf5 100%);
 }
 
+#mainScreen .producto-card.es-nuevo h3,
 #mainScreen.modo-nuevo .producto-card h3 {
     color: #8e2bb8;
 }

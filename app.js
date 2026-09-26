@@ -181,7 +181,7 @@ function mostrarResultados() {
     }
     productosFiltrados.forEach(p => {
         const card = document.createElement('div');
-        card.className = 'producto-card';
+        card.className = p['Etiquetas de producto'] === 'Nuevo' ? 'producto-card es-nuevo' : 'producto-card';
         card.onclick = () => mostrarDetalle(p);
         card.innerHTML = `<h3>${p['Nombre']}${p['Etiquetas de producto'] === 'Nuevo' ? '<span class="badge-nuevo">NUEVO</span>' : ''}</h3><p><strong>Componentes:</strong> ${p['Componentes']}</p><p><strong>Forma:</strong> ${p['Forma Farmacéutica']}</p><p><strong>Categoría:</strong> ${p['Categoría del Producto']}</p>${p['Indicación'] ? `<p style="font-size: 12px; color: #999; margin-top: 8px;">${p['Indicación'].substring(0, 100)}...</p>` : ''}`;
         container.appendChild(card);
